@@ -1,919 +1,900 @@
-,name,seller,price,number-of-items-sold,ram,color,screen-size,rom,front-camera,rear-camera,number_of_sims
-0,Spark Dual SIM - 8Go HDD - 1Go RAM - Noir - 12 Mois De Garantie,Xtouch,32100.0,99.0,1.0,noir,5.0,8.0,2.0,5.0,2
-1,ZTE A110 - 8 Go - 1 Go RAM - 4'' - Noir,ZTE,25000.0,1001.0,1.0,noir,4.0,8.0,8.0,13.0,1
-2,Spark 3 Dual SIM - 16Go HDD - 1Go RAM - Noir - 12 Mois,Tecno,71800.0,101.0,1.0,noir,6.2,16.0,8.0,13.0,2
-3,"Hot 7 Dual Sim - 6,2"" - 16 Go HDD - 1 Go RAM - Or",Infinix,61500.0,1001.0,1.0,or,6.2,16.0,13.0,8.0,2
-4,Rise 31 Dual SIM 8Go HDD - Bleu + 1 Carte SIM et 1 Forfait Internet Offerts,Orange,24900.0,1001.0,1.0,bleu,4.0,8.0,8.0,13.0,2
-5,"Hot 7 Dual SIM - 6,2"" - 16 Go HDD - 1 Go RAM - Noir",Infinix,61500.0,1001.0,1.0,noir,6.2,16.0,5.0,13.0,2
-6,"Redmi Go - Dual SIM - 8Go HDD - 1Go RAM - 5"" - Noir",Xiaomi,41500.0,1001.0,1.0,noir,5.0,8.0,0.3,2.0,2
-7,Smart 2 Dual SIM 16 Go HDD - Or - 12 Mois,Infinix,58600.0,1001.0,1.0,or,5.5,16.0,5.0,8.0,2
-8,Spark 2 Dual SIM 16 Go HDD + 2 Go RAM - Noir - 12 Mois,Tecno,70600.0,1001.0,2.0,noir,6.0,16.0,0.3,0.3,2
-9,"Redmi 6A Dual SIM - 16 Go HDD - 2Go RAM - 5,45"" - Or",Xiaomi,56700.0,1001.0,2.0,or,5.4,16.0,2.0,13.0,2
-10,Desire 610 - 8Go HDD - 1Go RAM - Noir,HTC,31200.0,101.0,1.0,noir,4.7,8.0,5.0,16.0,1
-11,"V5 Dual SIM - 8 Go HDD - 1 Go RAM - 5"" - Noir",X-tigi,23800.0,1001.0,1.0,noir,4.0,8.0,2.0,13.0,2
-12,Lenovo K5 Play Dual SIM 32Go HDD 3Go RAM - 13+2MP - Noir + Pochette Offert - 12 Mois de Garantie,Lenovo,74900.0,10001.0,3.0,noir,6.0,32.0,0.3,2.0,2
-13,Lenovo A5 Dual SIM 16Go HDD - 3Go RAM - 13MP - Noir  - 12 Mois,Lenovo,59900.0,10001.0,3.0,noir,5.5,16.0,8.0,13.0,2
-14,K5 Note Dual SIM 64Go HDD - 4Go RAM - 16+2MP - Noir - 12 Mois de Garantie,Lenovo,99900.0,10001.0,4.0,noir,3.0,64.0,1.2,8.0,2
-15,"OK-Smart18 - Dual SIM - 16Go HDD - 1 Go RAM - 5,5"" - Rouge - 12 Mois",Oking,36500.0,101.0,1.0,rouge,6.0,16.0,5.0,5.0,2
-16,"S301 Dual SIM 3.5"" - 4Go HDD - 512Mo RAM - Noir  - 12 Mois",SIMI,17900.0,99.0,3.0,noir,5.7,4.0,5.0,8.0,2
-17,Galaxy J6 Plus  2018 - 32 Go HDD - 3 Go RAM - 6'' - Gris,Samsung,106200.0,101.0,3.0,gris,5.0,32.0,0.3,2.0,1
-18,"Galaxy S4 - 16Go HDD - 2Go RAM - 5"" - Blanc",Samsung,51000.0,101.0,2.0,blanc,6.0,32.0,16.0,12.0,1
-19,"Galaxy S6 Edge - 32Go HDD - RAM 3Go - 5,7"" - Or - 12 Mois + Pochette + Protège Ecran Offerts",Samsung,117000.0,101.0,4.0,or,4.0,16.0,8.0,13.0,1
-20,"Galaxy S4 - 16Go HDD - 2Go RAM - 5"" - Noir",Samsung,51000.0,101.0,4.0,noir,5.5,64.0,8.0,12.0,1
-21,K5 Note Dual SIM 64Go HDD - 4Go RAM - 16+2MP - Or - 12 Mois de Garantie,Lenovo,99900.0,10001.0,1.0,or,4.0,64.0,5.0,5.0,2
-22,Lenovo K5 Pro Dual SIM 64Go HDD - 4Go RAM - 16+5MP - Noir - 12 Mois,Lenovo,119900.0,10001.0,4.0,noir,5.0,8.0,8.0,13.0,2
-23,"V5 Dual SIM - 8Go HDD - 1 Go RAM - 5"" - Bleu",X-tigi,23800.0,1001.0,2.0,bleu,5.5,64.0,8.0,13.0,2
-24,Redmi Note 7 Dual SIM 64Go HDD - 4Go RAM - 48+5MP - Noir + Pochette Offert - 12 Mois de Garantie,Xiaomi,184900.0,10001.0,4.0,noir,4.0,16.0,0.0,8.0,2
-25,Simi S503 Dual SIM - 5.5 pouces - 3G - 13MP/8MP - 16Go/2Go - Android 6.0 - Noir  - 12 Mois,SIMI,43900.0,99.0,3.0,noir,4.5,64.0,5.0,5.0,2
-26,Redmi 6 Pro - Dual SIM - 64Go HDD - 4Go RAM - 12+5MP - Or + Pochette Offert - 12 Mois de Garantie,Xiaomi,114900.0,10001.0,1.0,noir et or,6.0,32.0,0.3,2.0,2
-27,Galaxy M10 Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Bleu - 12 Mois de Garantie,Samsung,114000.0,10001.0,1.0,bleu,5.0,32.0,5.0,16.0,2
-28,iPhone 5 32Go HDD - Blanc - 12 Mois + Pochette + Protège Ecran  Offerts,Apple,79900.0,10001.0,1.0,blanc,6.2,16.0,2.0,5.0,1
-29,V18 Pro - Dual SIM 16Go HDD - Or - 12 Mois,X-tigi,36450.0,1001.0,1.0,or,5.8,16.0,0.3,2.0,2
-30,"OK-Smart18 - Dual SIM - 16Go HDD - 1 Go RAM - 5,5"" - Or - 12 Mois",Oking,36900.0,101.0,3.0,or,5.0,8.0,8.0,13.0,2
-31,A11 Dual SIM 8Go HDD - 512 Mo - Or - 13 Mois,ITEL,24500.0,101.0,1.0,or,2.0,16.0,8.0,13.0,2
-32,"Moto G 16 Go HDD - 1Go Ram - 4,5'' - Noir",MOTOROLA,35000.0,101.0,3.0,noir,6.2,32.0,5.0,13.0,1
-33,Note 5 Dual SIM 32 Go HDD - Bleu,Infinix,119000.0,1001.0,2.0,bleu,4.0,16.0,8.0,12.0,2
-34,E2C Dual SIM - 16Go HDD - Or - 12 Mois de Garantie,COOLPAD,39900.0,10001.0,4.0,or,6.0,32.0,7.0,12.0,2
-35,K5 Play Dual SIM - 32Go HDD - 3Go RAM - 13+2MP - Bleu - 12 Mois + Pochette Offert,Lenovo,74900.0,10001.0,1.0,noir,6.0,32.0,0.0,13.0,2
-36,"Hot 7 Pro Dual Sim - 6,2"" - 32 Go HDD - 2 Go RAM - Noir",Infinix,88900.0,49.0,2.0,noir,3.5,64.0,8.0,12.0,2
-37,Galaxy S8 64Go HDD - Noir - 12 Mois + Pochette + Protège Ecran Offert,Samsung,225000.0,9.0,3.0,noir,5.7,16.0,5.0,13.0,1
-38,V18 Pro Dual SIM 16Go HDD -RAM 1 Go -Gris - 12 Mois,X-tigi,36450.0,1001.0,1.0,gris,4.0,16.0,12.0,12.0,2
-39,E561 Dual SIM - 16Go HDD - 2Go RAM - Marron + Pochette Offert - 12 Mois de Garantie,COOLPAD,42900.0,10001.0,1.0,marron,5.1,32.0,7.0,12.0,2
-40,Camon 11 Dual SIM - 32 Go HDD - Noir - 12 Mois,Tecno,105000.0,99.0,3.0,noir,6.0,8.0,5.0,5.0,2
-41,Lumia 520 - Reconditionné sans carton d'origine - 8Go HDD - Noir,Nokia,20500.0,101.0,1.0,noir,5.0,16.0,5.0,12.0,1
-42,Spark 2 Dual SIM  16 Go HDD - Noir - 12 Mois,Tecno,75300.0,101.0,3.0,noir,4.0,16.0,5.0,13.0,2
-43,Spark 2 Dual SIM 16 Go HDD + 1 Go RAM - Rouge - 12 Mois,Tecno,85000.0,1001.0,4.0,rouge,6.2,32.0,8.0,13.0,2
-44,Galaxy J6 Plus Dual SIM 2018 - 32 Go HDD - 3 Go RAM - 6'' - Rouge,Samsung,106200.0,101.0,1.0,rouge,6.0,16.0,7.0,12.0,2
-45,iPhone 4S - 16Go HDD - Noir - 12 Mois,Apple,47900.0,10001.0,3.0,noir,5.0,4.0,12.0,12.0,1
-46,OK-LX6 Dual SIM 4Go HDD - 1Go RAM - 12 Mois - Blanc Et Or,Oking,28900.0,101.0,3.0,blanc et or,5.5,8.0,5.0,16.0,2
-47,Y2 Dual SIM 8Go HDD - Noir - 12 Mois,Tecno,35000.0,1001.0,2.0,noir,6.4,32.0,5.0,12.0,2
-48,Galaxy S6 - 32Go HDD - RAM 3Go - Blanc - 12 Mois,Samsung,135000.0,49.0,3.0,blanc,6.2,64.0,0.0,8.0,1
-49,"Redmi 5 Plus - Dual SIM - 64Go HDD - 4Go RAM - 6"" - Noir + Pochette Offert - 12 Mois de Garantie",Xiaomi,104900.0,10001.0,8.0,noir,5.8,8.0,5.0,12.0,2
-50,Rise 53 Dual SIM 8Go HDD - Blanc - 12 Mois + 1 Carte SIM et 1 Forfait Internet Offerts,Orange,34900.0,1001.0,6.0,blanc,6.0,8.0,5.0,16.0,2
-51,Y2 Dual SIM 8Go HDD - Gris - 12 Mois,Tecno,34000.0,1001.0,3.0,gris,6.2,32.0,5.0,8.0,2
-52,Camon 11 Dual SIM 32 Go HDD - Bleu - 12 Mois,Tecno,108000.0,49.0,3.0,bleu,5.8,16.0,16.0,16.0,2
-53,"Pouvoir 2 - Dual Sim - 16Go HDD - 3Go RAM - 6"" - Bleu - 12 Mois",Tecno,90000.0,49.0,2.0,bleu,6.0,16.0,5.0,8.0,2
-54,"S503 Dual SIM - 16Go HDD - 2Go RAM - 5,5"" - Noir - 12 Mois",SIMI,45000.0,1001.0,4.0,noir,6.0,32.0,5.0,12.0,2
-55,C Note Dual SIM 32Go HDD - 3Go RAM - 13MP - Gris - 12 Mois,UMIDIGI,59900.0,101.0,2.0,gris,5.5,128.0,5.0,12.0,2
-56,Galaxy S10 Plus - 128Go HDD - 8Go RAM - 16+12+12MP - Noir - 24 Mois de Garantie,Samsung,679900.0,10001.0,6.0,noir,3.7,64.0,5.0,16.0,1
-57,"Galaxy S9 Plus - 64Go HDD - 6Go RAM - 6,2"" - Noir - 12 Mois",Samsung,396000.0,49.0,3.0,noir,6.3,64.0,5.0,16.0,1
-58,"iPhone X - 64 Go HDD - 3 Go RAM - 5,8"" - Noir - 12 Mois",Apple,500000.0,49.0,512.0,noir,5.7,32.0,13.0,8.0,1
-59,Galaxy J6 Plus Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Rouge - 12 Mois + Pochette Et Protège Ecran Offerts,Samsung,104900.0,10001.0,6.0,rouge,6.0,32.0,13.0,8.0,2
-60,Galaxy A10 Dual Sim - 32Go HDD - 2Go RAM - 13MP - Noir - 24 Mois de Garantie,Samsung,99900.0,10001.0,1.0,noir,5.5,64.0,8.0,12.0,2
-61,Galaxy S8 64Go HDD- 4Go RAM- 5.8' - Noir + Pochette,Samsung,220000.0,101.0,2.0,noir,5.7,32.0,0.0,8.0,1
-62,Samsung Galaxy J4 Plus Dual SIM - 32Go HDD - 2Go RAM - 13MP - Or - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,89900.0,10001.0,4.0,or,6.2,128.0,13.0,20.0,2
-63,Galaxy Note 9 - 128Go HDD - 6Go RAM - Noir - 24 Mois,Samsung,599000.0,49.0,4.0,noir,5.8,64.0,8.0,12.0,1
-64,iPhone 8 Plus 64Go HDD - Noir,Apple,650000.0,49.0,4.0,noir,6.0,4.0,5.0,16.0,1
-65,One v 4Go - 512 Ram - Noir et Gris,HTC,22000.0,101.0,1.0,black and grey,5.5,128.0,5.0,8.0,1
-66,"Galaxy A9 2018 Dual SIM - 128Go HDD - 6Go RAM - 6.3"" - Bleu",Samsung,235000.0,101.0,4.0,bleu,3.5,4.0,2.0,5.0,2
-67,OK-LX6 Dual SIM - 4Go - 1Go RAM - Rose - 12 Mois,Oking,28900.0,101.0,6.0,rose,4.0,16.0,8.0,13.0,2
-68,Hot 6X Dual SIM 16Go HDD - Noir,Infinix,83500.0,99.0,3.0,noir,6.0,32.0,8.0,12.0,2
-69,Galaxy S7 Edge 32Go HDD - Or,Samsung,170000.0,49.0,6.0,or,5.9,64.0,8.0,12.0,1
-70,Redmi 6 Pro Dual SIM - 64Go HDD - 4Go RAM - 12+5MP - Noir + Pochette Offert - 12 Mois de Garantie,Xiaomi,119900.0,10001.0,4.0,noir,5.6,32.0,5.0,12.0,2
-71,G6 32Go HDD - 4Go RAM - Or - 12 Mois + Pochette + Protège Ecran  Offerts,LG,119900.0,10001.0,1.0,or,5.0,16.0,5.0,16.0,1
-72,"Hot 7 Dual SIM - 6,2"" - 16 Go HDD - 1 Go RAM - Noir",Infinix,61500.0,1001.0,3.0,noir,5.0,128.0,5.0,12.0,2
-73,Redmi Note 7 Dual SIM 128Go HDD - 4Go RAM - 48+5MP - Noir + Pochette  Offert - 12 Mois de Garantie,Xiaomi,199900.0,10001.0,4.0,noir,6.2,64.0,5.0,5.0,2
-74,Lenovo S5 Pro Double Puce 64Go HDD - 6Go RAM - 12+20MP - Noir + Pochette Offert - 12 Mois,Lenovo,158500.0,1001.0,4.0,noir,6.0,256.0,8.0,13.0,1
-75,iPhone X 256Go HDD - Noir,Apple,650000.0,101.0,6.0,noir,5.5,128.0,8.0,13.0,1
-76,Galaxy Note 9 - 128Go HDD - 6Go RAM - Noir - 24 Mois de Garantie,Samsung,699900.0,10001.0,4.0,noir,5.5,32.0,5.0,13.0,1
-77,Galaxy S6 Edge 32 Go HDD - Noir + Pochette Et Ecran de Protection - 12 Mois,Samsung,117000.0,101.0,1.0,noir,6.0,16.0,0.0,8.0,1
-78,Galaxy S7 Edge 32Go HDD - Or - 24 Mois,Samsung,172000.0,99.0,1.0,or,5.7,8.0,5.0,13.0,1
-79,"iPhone 4S - 16Go HDD - 512Mo RAM - 3,5"" - Noir - 12 Mois + Pochette + Protège Ecran",Apple,43000.0,101.0,1.0,noir,5.5,32.0,5.0,13.0,1
-80,Vente Flash - Galaxy S7 Edge 32Go HDD - 4Go RAM - Or + Pochette,Samsung,159000.0,101.0,4.0,or,6.0,64.0,8.0,12.0,1
-81,U3 Dual SIM 8Go HDD - Blanc - 12 Mois + Forfait Internet Offert,Alcatel,31900.0,1001.0,1.0,blanc,5.5,64.0,2.0,5.0,2
-82,Galaxy J6 Plus Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Noir - 12 Mois,Samsung,115000.0,1001.0,2.0,noir,6.2,64.0,2.0,5.0,2
-83,"Redmi Note 5 Dual SIM - 64Go HDD - 4Go RAM - 5,99"" - Or + Pochette Offert - 12 Mois de Garantie",Xiaomi,114900.0,10001.0,3.0,or,5.0,64.0,2.0,5.0,2
-84,Galaxy S6  32 Go HDD - Noir + Ecran de Protection et Pochette - 12 Mois,Samsung,99000.0,101.0,4.0,noir,5.3,16.0,2.0,5.0,1
-85,Galaxy A6 Dual SIM 64Go HDD - Or,Samsung,217000.0,9.0,1.0,or,5.7,8.0,5.0,12.0,2
-86,S5 Pro Dual Sim - 64Go HDD - 6Go RAM - 20+12MP - Noir - 12 Mois,Lenovo,149000.0,10001.0,6.0,noir,5.7,16.0,5.0,16.0,2
-87,Mi A2 Dual SIM - 64Go HDD - 4Go RAM - 20+12MP - Noir + Pochette Offert - 12 Mois de Garantie,Xiaomi,139900.0,10001.0,1.0,noir,6.0,64.0,20.0,16.0,2
-88,Energy 4S Dual SIM 16Go HDD - Gris - 6 Mois,PHICOMM,49000.0,1001.0,6.0,gris,5.5,16.0,5.0,8.0,2
-89,"Redmi Go Dual SIM - 8Go HDD - 1Go RAM - 5"" + Protége écran Offert - Bleu",Xiaomi,42000.0,10001.0,1.0,bleu,5.0,64.0,2.0,5.0,2
-90,Spark 3 Dual SIM - 16Go HDD - 1Go RAM - Noir - 12 Mois,Tecno,72000.0,99.0,4.0,noir,6.2,32.0,7.0,12.0,2
-91,Note 5 Stylus Dual SIM 64 Go HDD - Or,Infinix,143500.0,99.0,3.0,or,6.2,32.0,5.0,13.0,2
-92,"OK-Smart18 - Dual SIM - 16Go HDD - 1 Go RAM - 5,5"" - Noir - 12 Mois",Oking,36900.0,101.0,4.0,noir,6.2,16.0,5.0,8.0,2
-93,Galaxy S7 - 32 Go HDD - Noir,Samsung,133500.0,99.0,1.0,noir,5.5,128.0,2.0,5.0,1
-94,"iPhone 6s+ - 64Go HDD - 2Go RAM - 5,5"" - Or",Apple,240000.0,101.0,4.0,or,6.2,16.0,5.0,8.0,1
-95,"Galaxy S6 - 32Go HDD - 3Go RAM - 5,1"" - Or",Samsung,100000.0,101.0,3.0,or,5.0,256.0,5.0,12.0,1
-96,Hot 6X Dual SIM 32Go HDD -  3Go RAM - Noir,Infinix,101000.0,99.0,1.0,noir,5.7,8.0,5.0,8.0,2
-97,Galaxy Note 5 32 Go HDD 4 Go RAM - Or - Pochette - Protege Ecran- 12 Mois,Samsung,125000.0,101.0,1.0,or,6.0,64.0,5.0,12.0,1
-98,Smart 2 Dual SIM 16 Go HDD - 1Go RAM - Rouge - 12 Mois,Infinix,58600.0,1001.0,4.0,rouge,5.0,32.0,2.0,8.0,2
-99,Mi A2 Dual SIM - 128Go HDD - 6Go RAM - 20+12MP - Blanc Et Or + Pochette + Protège Ecran Offerts - 12 Mois,Xiaomi,179900.0,10001.0,4.0,blanc et or,6.2,32.0,5.0,13.0,2
-100,Smart 2 Dual SIM 16 Go HDD - 1Go RAM - Bleu - 12 Mois,Infinix,58600.0,1001.0,4.0,bleu,5.3,16.0,5.0,8.0,2
-101,Galaxy S9 Plus SM-G965 - 256Go HDD - Noir - 12 mois,Samsung,415000.0,49.0,3.0,noir,5.9,64.0,20.0,16.0,1
-102,Lumia 640 - 8Go HDD - Noir - 6 Mois,Nokia,53800.0,1001.0,1.0,noir,5.4,32.0,8.0,12.0,1
-103,Redmi Note 7 Dual SIM 32Go HDD - 3Go RAM - 48+5MP - Bleu + Pochette Offert - 12 Mois de Garantie,Xiaomi,159900.0,10001.0,3.0,bleu,5.5,8.0,5.0,13.0,2
-104,A1 Dual SIM 32Go HDD - Or,X-tigi,79000.0,1001.0,4.0,or,3.5,16.0,5.0,16.0,2
-105,Galaxy S8 Dual SIM 64 Go HDD - Or,Samsung,280000.0,99.0,4.0,or,4.3,64.0,5.0,5.0,2
-106,"Galaxy S6 Edge Plus  - 32Go HDD - 4Go RAM - 5,7"" - Bleu",Samsung,165000.0,99.0,1.0,bleu,4.3,64.0,8.0,5.0,1
-107,OK-CX1 - Dual SIM - 16Go HDD - 1 Go RAM - Noir - 12 Mois,Oking,45000.0,101.0,4.0,noir,5.3,32.0,7.0,12.0,2
-108,Redmi S2 - Dual SIM - 64Go HDD - 4Go RAM - 12+5 MP - Gris + Pochette Offert - 12 Mois de Garantie,Xiaomi,114900.0,10001.0,4.0,gris,6.2,32.0,8.0,13.0,2
-109,Redmi 6 Dual SIM - 32Go - 3Go Ram HDD - Noir,Xaomi,95500.0,1001.0,2.0,noir,6.2,16.0,2.0,5.0,2
-110,A32F 8Go HDD - 1Go RAM - Noir,ITEL,50000.0,49.0,1.0,noir,5.2,32.0,8.0,13.0,1
-111,"Hot 7 - Dual Sim - 6,2"" - 16 Go HDD - 1 Go RAM - Noir",Infinix,75000.0,49.0,3.0,noir,6.2,64.0,5.0,12.0,2
-112,Galaxy S8 Plus 64Go HDD - 4Go RAM-Noir,Samsung,249000.0,49.0,2.0,noir,5.7,64.0,5.0,16.0,1
-113,"Samsung Galaxy S8 Plus - 64 Go HDD - 4 Go RAM - 6,2'' - Noir - 12 Mois - Pochette",Samsung,245000.0,101.0,1.0,noir,6.2,16.0,5.0,12.0,1
-114,Galaxy S7 Edge 32Go HDD - 4Go RAM - Gris - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,154900.0,10001.0,1.0,gris,6.3,64.0,5.0,16.0,1
-115,"Hot S4 Dual Sim - 6,2"" - 32 Go HDD - 3 Go RAM - Bleu",Tecno,107000.0,99.0,512.0,bleu,4.5,64.0,1.3,8.0,2
-116,E2C Dual SIM - 16Go HDD - Gris - 12 Mois de Garantie,COOLPAD,39900.0,10001.0,3.0,gris,5.0,32.0,5.0,8.0,2
-117,"Galaxy S6 Edge - 32Go HDD - RAM 3Go - 5,7"" - Blanc - 12 Mois + Pochette + Protège Ecran Offerts",Samsung,117000.0,101.0,2.0,blanc,5.0,16.0,1.2,8.0,1
-118,Redmi Note 6 Pro Dual SIM - 64Go HDD - 4Go RAM - 12+5MP - Bleu + Pochette + Protège Ecran Offerts,Xiaomi,144900.0,10001.0,1.0,bleu,5.0,32.0,1.2,8.0,2
-119,"Redmi 6 Pro Dual SIM - 64Go HDD - 4Go RAM - 6"" - Noir + Pochette + Protège Ecran",Xiaomi,129900.0,101.0,2.0,noir,5.5,16.0,5.0,8.0,2
-120,V18 Pro - Dual SIM 16Go HDD - Or - 12 Mois,X-tigi,48000.0,99.0,6.0,or,5.1,8.0,8.0,13.0,2
-121,"Redmi Note 6 Pro - Dual SIM - 32Go HDD - 3Go RAM - 6,26"" - Noir",Xiaomi,121578.0,9.0,4.0,noir,5.7,16.0,2.0,5.0,2
-122,Lenovo S5 Dual SIM 64Go HDD - 4Go RAM - 13+13MP - Rouge + Pochette  Offert - 12 Mois,Lenovo,99900.0,10001.0,4.0,rouge,6.0,8.0,1.2,8.0,2
-123,"Hot 7 Pro Dual Sim - 6,2"" - 32 Go HDD - 2 Go RAM - Voilet",Infinix,88200.0,99.0,4.0,voilet,6.0,8.0,8.0,13.0,2
-124,Galaxy Note N7000 SIM Réconditionné - 16Go HDD - 1Go RAM - Blanc,Samsung,37500.0,9.0,3.0,blanc,6.2,32.0,0.0,8.0,1
-125,Y7 Pro Dual SIM 32Go HDD - Noir,Huawei,135000.0,1001.0,4.0,noir,5.0,32.0,2.0,8.0,2
-126,"Redmi 6A Dual SIM - 16Go HDD - 2Go RAM - 5,45"" - Or - 12 Mois de Garantie",Xiaomi,57900.0,101.0,1.0,or,4.7,16.0,8.0,13.0,2
-127,Pop 2 Power - 8Go HDD - 1Go RAM -  Or,Tecno,56000.0,49.0,1.0,or,5.5,16.0,5.0,12.0,1
-128,iPhone 4S 16 Go HDD - Noir + Pochette et Ecran de Protection,Apple,55500.0,99.0,2.0,noir,5.0,64.0,8.0,13.0,1
-129,Lumia 820 - 8Go HDD - Reconditionné sans carton d'origine - Noir,Nokia,30000.0,101.0,1.0,noir,4.0,64.0,5.0,8.0,1
-130,Nokia Lumia 635 RM - 974 - Noir ( sans carton d'origine),Nokia,25700.0,101.0,2.0,noir,4.7,64.0,5.0,8.0,1
-131,A1 Lite Double SIM 32Go HDD - Rouge,Gionee,135000.0,100001.0,4.0,rouge,5.0,64.0,0.0,5.0,1
-132,Galaxy A10 Dual SIM - 32Go HDD - 2Go RAM - Noir,Samsung,99000.0,99.0,4.0,noir,5.1,32.0,0.3,2.0,2
-133,A32F 8Go HDD - Noir,ITEL,42900.0,101.0,3.0,noir,5.5,64.0,5.0,16.0,1
-134,Spark 3 Dual SIM - 16Go HDD - 1Go RAM - Noir - 13 Mois,Tecno,75600.0,101.0,1.0,noir,5.0,8.0,0.0,5.0,2
-135,A50 16Go HDD - Gris Et Noir,Alcatel,46000.0,1001.0,1.0,gris et noir,4.7,8.0,13.0,13.0,1
-136,"Camon 11 Pro - Dual SIM - 64Go HDD - 6Go RAM - 6,2"" - Noir - 12 Mois",Tecno,163000.0,101.0,2.0,noir,5.0,16.0,5.0,13.0,2
-137,G6 64Go HDD - 4Go RAM - Noir - 12 Mois + Pochette + Protège Ecran  Offerts,LG,124900.0,10001.0,2.0,noir,4.5,8.0,5.0,13.0,1
-138,Redmi 7 Dual SIM - 64Go HDD - 4Go RAM - 12+2MP - Noir + Pochette Offert - 12 Mois de Garantie,Xiaomi,154900.0,10001.0,2.0,noir,5.2,16.0,8.0,13.0,2
-139,"Galaxy S8 Plus - 64Go HDD - 4Go RAM - 6,2"" - Or - 12 Mois + Pochette + Protège Ecran Offerts",Samsung,249900.0,10001.0,1.0,or,5.0,32.0,5.0,13.0,1
-140,Galaxy M20 Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Noir - 12 Mois,Samsung,155000.0,1001.0,512.0,noir,5.4,32.0,5.0,13.0,2
-141,Mate20 Lite -  Dual Sim- 64Go HDD- 4Go Ram - Noir - 6 mois,Huawei,225000.0,101.0,1.0,noir,6.0,32.0,5.0,13.0,2
-142,Y3 2017 8Go HDD - Or,Huawei,64900.0,1001.0,1.0,or,6.2,16.0,5.0,8.0,1
-143,218 M Dual SIM 8Go HDD - Noir,Maku,32000.0,1001.0,3.0,noir,5.7,16.0,2.0,5.0,2
-144,X1 Dual SIM 16Go HDD - Noir,Gionee,103000.0,100001.0,4.0,noir,5.7,16.0,2.0,5.0,2
-145,A32F 8Go HDD - Noir,ITEL,45000.0,101.0,1.0,noir,4.7,128.0,1.2,20.0,1
-146,"Mione X2 4G - 5.5"" - 16 Go + 2 Go - Dual Sim - Noir",mione,50000.0,1001.0,2.0,noir,5.0,16.0,8.0,5.0,2
-147,Galaxy S7 Edge 32Go HDD - 4Go RAM - Or - Pochette + Protège Écran Offerts,Samsung,179500.0,99.0,1.0,or,4.0,8.0,8.0,13.0,1
-148,Galaxy S6 Edge Plus Dual SIM - 32Go HDD - Or - 3 Mois,Samsung,175000.0,99.0,2.0,or,5.5,8.0,5.0,8.0,2
-149,Camon X - Dual SIM - 32Go HDD - Noir - 12 Mois,Tecno,125000.0,1001.0,1.0,noir,5.5,8.0,5.0,13.0,2
-150,Galaxy J4 Core Dual SIM - 16Go HDD - 1Go RAM - Or,Samsung,72500.0,101.0,2.0,or,4.0,16.0,1.2,8.0,2
-151,Spark 3 Dual SIM - 16Go HDD - 1Go RAM - Noir - 12 Mois,Tecno,78000.0,49.0,3.0,noir,6.0,32.0,2.0,5.0,2
-152,X9 Dual SIM Avec Deverouillage Faciale - 16 Go HDD - 2 Go RAM - 12 Mois De Garantie - Noir,Xtouch,57000.0,99.0,6.0,noir,5.5,64.0,2.0,5.0,2
-153,"iPhone 7 - 128Go HDD - 2Go RAM - 4,7"" - Rouge - 6 Mois",Apple,400000.0,49.0,4.0,rouge,4.0,8.0,8.0,13.0,1
-154,Galaxy J7 Core - 16Go HDD - Or,Samsung,96000.0,49.0,3.0,or,6.0,64.0,2.0,8.0,1
-155,"EGO NOTE 3G - Dual SIM - 8Go HDD - 1Go RAM - 5,5"" - Noir",TORQUE,37000.0,1001.0,4.0,noir,6.2,8.0,7.0,12.0,2
-156,"A14 - Dual Sim - 8Go HDD - 512 Mo RAM - 4"" - Noir - 12 Mois",ITEL,27800.0,49.0,1.0,noir,4.7,8.0,5.0,16.0,2
-157,Microsoft Lumia 550 - Reconditionné sans carton d'origine - 8Go HDD - 1RAM - Noir,Nokia,39710.0,101.0,1.0,noir,6.0,16.0,7.0,12.0,1
-158,NX Dual SIM 16Go HDD - Bleu - 12 Mois,Tecno,62000.0,101.0,1.0,bleu,6.5,8.0,5.0,12.0,2
-159,Galaxy S6 32Go HDD - RAM 3Go - Or - 12 Mois + Pochette + Protège Ecran  Offerts,Samsung,110000.0,49.0,1.0,or,5.7,16.0,5.0,16.0,1
-160,"K8 Note - Dual Sim - 64 Go HDD - 4 Go RAM - 5,5'' - Noir",Lenovo,125000.0,1001.0,3.0,noir,4.7,32.0,5.0,13.0,2
-161,Galaxy S7 32Go HDD - Noir,Samsung,240000.0,49.0,1.0,noir,6.4,64.0,5.0,13.0,1
-162,Galaxy J2 Core Dual SIM - 8 Go HDD - 1 Go RAM - Noir,Samsung,54000.0,1001.0,2.0,noir,4.7,64.0,5.0,13.0,2
-163,iPhone 6S 64Go HDD - Or,Apple,280000.0,49.0,4.0,or,4.7,32.0,5.0,16.0,1
-164,"Y3 2018 Dual SIM - 8Go HDD - 5.0"" - Or",Huawei,95000.0,9.0,1.0,or,5.0,32.0,5.0,16.0,2
-165,Nokia Lumia 625  8GB sans carton d'origine - Noir,Nokia,34105.0,101.0,512.0,noir,5.0,16.0,5.0,16.0,1
-166,A50 16Go HDD - Argent,Alcatel,55000.0,1001.0,2.0,argent,5.5,8.0,5.0,12.0,1
-167,iPhone 6 64Go HDD - Or - 12 Mois + Pochette + Protège Ecran  Offerts,Apple,300000.0,100001.0,3.0,black,5.0,8.0,8.0,12.0,1
-168,Galaxy J2 Core Dual Sim - 8Go HDD + 1Go RAM - Lavande,Samsung,56800.0,101.0,1.0,noir,6.0,1616.0,8.0,12.0,2
-169,"Y5 Prime (2018) - Double Puce - 16Go HDD - 2Go RAM - 5,4"" - Bleu - 12 Mois + Bubble C Offert (20 Sachets)",Huawei,86500.0,1001.0,2.0,bleu,5.0,32.0,7.0,12.0,1
-170,Camon X Dual SIM 32Go HDD - Or - 12 Mois,Tecno,110000.0,1001.0,4.0,or,5.5,8.0,5.0,8.0,2
-171,Galaxy S8 Plus Dual SIM - 64 Go HDD - Noir,Samsung,302555.0,99.0,4.0,noir,6.0,16.0,5.0,13.0,2
-172,G6 64Go HDD - 4Go RAM - Or - 12 Mois + Pochette + Protège Ecran  Offerts,LG,124900.0,10001.0,2.0,or,6.0,64.0,8.0,16.0,1
-173,Galaxy M10 Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Noir - 12 Mois  + Protège Ecran Offert,Samsung,129000.0,99.0,3.0,noir,6.0,16.0,5.0,16.0,2
-174,"Galaxy Note 5 - 32 Go HDD - 4 Go RAM - 5,7'' - Bleu",Samsung,125000.0,101.0,1.0,bleu,3.5,8.0,5.0,16.0,1
-175,iPhone 6 16Go HDD - Or + Protège Ecran,Apple,150000.0,49.0,1.0,or,5.3,16.0,8.0,12.0,1
-176,Kenny 4G 8Go HDD - Noir,WIKO,47900.0,1001.0,1.0,noir,4.0,32.0,8.0,12.0,1
-177,"U3 - Dual SIM - 8Go HDD - 1Go RAM - 4"" - Gris - 12 Mois",Alcatel,31900.0,1001.0,1.0,gris,5.0,64.0,5.0,5.0,2
-178,P33 Dual SIM 16Go HDD - 1Go RAM - Bleu,ITEL,59500.0,49.0,1.0,bleu,6.0,32.0,5.0,16.0,2
-179,"iPhone 7 Plus - 32Go HDD - 3Go RAM - 5,5"" - Noir - 6 Mois",Apple,326900.0,49.0,1.0,noir,6.0,64.0,5.0,13.0,1
-180,ZTE A110 - 8 GB - 4'' - 1400 mAh - Noir,ZTE,25000.0,101.0,3.0,noir,5.0,32.0,5.0,8.0,1
-181,"X608 Hot 6 Pro - Dual SIM -16Go HDD - 2Go RAM - 6"" - Rouge - 12 Mois",Infinix,84000.0,49.0,1.0,rouge,5.0,64.0,8.0,12.0,2
-182,Galaxy M30 Dual SIM - 64Go HDD - 4Go RAM - 13+5MP - Noir - 12 Mois  + Protège Ecran Offert,Samsung,240000.0,1001.0,4.0,noir,5.7,32.0,8.0,12.0,2
-183,"S503 Dual SIM - 16Go HDD - 1Go RAM - 5,5"" - Noir - 12 Mois",SIMI,43900.0,99.0,3.0,noir,4.3,8.0,8.0,12.0,2
-184,"A14 - Dual Sim - 8Go HDD - 512 Mo RAM - 4"" - Noir - 12 Mois",ITEL,28000.0,49.0,1.0,noir,4.0,8.0,8.0,12.0,2
-185,"Hot 6C - Dual SIM - 16Go HDD - 2Go RAM - 6"" Or",Infinix,80000.0,49.0,3.0,or,5.7,8.0,5.0,12.0,2
-186,Camon 11 Dual SIM 32 Go HDD - Blue - 12 Mois,Tecno,114000.0,101.0,3.0,bleu,4.3,16.0,13.0,5.0,2
-187,"iPhone 6 - 64 Go HDD - 1 Go RAM - 4,7"" - Or - 12 Mois + Protège Ecran",Apple,175000.0,49.0,2.0,or,5.5,64.0,5.0,8.0,1
-188,Spark 2 Dual SIM 32 Go HDD + 2 Go RAM - Bleu - 12 Mois,Tecno,95000.0,1001.0,1.0,bleu,6.0,8.0,8.0,13.0,2
-189,Galaxy S7 Edge Dual SIM 32 Go HDD - Or,Samsung,185000.0,99.0,2.0,or,6.0,16.0,5.0,16.0,2
-190,Honor 8X Dual SIM - 64G HDD - 4Go RAM - Bleu,Huawei,200000.0,1001.0,2.0,bleu,5.0,8.0,5.0,16.0,2
-191,Galaxy Note 5 32Go HDD - Or + Pochette + Ecran De Protection,Samsung,139000.0,49.0,1.0,or,5.2,16.0,0.3,2.0,1
-192,iPhone 6S 64 Go HDD - Noir - 06 Mois + Pochette + Protège Ecran Offert,Apple,230000.0,9.0,1.0,noir,4.7,64.0,2.0,5.0,1
-193,Galaxy A30 DUAL SIM 32Go HDD - 3Go RAM - Noir - 6 Mois,Samsung,160000.0,101.0,1.0,noir,5.7,32.0,2.0,8.0,2
-194,"Desire 610 - 8Go HDD - 1Go RAM - 4,7"" - Noir",HTC,35000.0,101.0,512.0,noir,6.0,16.0,5.0,12.0,1
-195,"Desire 610 - 8Go HDD - 1Go RAM - 4,7"" - Noir",HTC,36500.0,101.0,3.0,noir,5.5,16.0,5.0,12.0,1
-196,Galaxy J2 Core - Dual SIM - 8Go HDD + 1Go RAM - Violet,Samsung,56800.0,101.0,512.0,noir,6.0,32.0,5.0,12.0,2
-197,iPhone 6 Plus - 16Go HDD - Or - 12 Mois - Pochette - Glass,Apple,157900.0,101.0,4.0,or,5.0,32.0,13.0,20.0,1
-198,IPhone 6 Plus 64Go HDD - Gris - 12 Mois + Pochette + Protège Ecran  Offerts,Apple,174900.0,10001.0,4.0,gris,5.0,16.0,8.0,13.0,1
-199,Galaxy Grand Prime Plus Dual SIM 8Go HDD / 1.5Go Ram - Gris Et Or,Samsung,63500.0,49.0,2.0,gris et or,5.0,8.0,5.0,12.0,2
-200,"Pouvoir 2 - Dual SIM - 16Go HDD - 3Go RAM - 6"" - Or - 12 Mois",Tecno,95000.0,1001.0,2.0,or,5.0,16.0,10.0,16.0,2
-201,V10 Dual SIM 8 Go HDD - Noir - 13 Mois,X-tigi,33000.0,101.0,2.0,noir,6.0,32.0,13.0,5.0,2
-202,iPhone 6 Plus 16Go HDD - Or - 12 Mois,Apple,158000.0,49.0,2.0,or,5.0,8.0,8.0,5.0,1
-203,Galaxy J6 Plus (2018) - 64 GB HDD - 4 GB RAM - 6'' + Pochette - Noir,Samsung,185000.0,1001.0,4.0,noir,6.0,16.0,8.0,13.0,1
-204,Galaxy J6 Plus Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Rouge - 12mois,Samsung,115000.0,1001.0,2.0,rouge,5.0,16.0,8.0,13.0,2
-205,Spark 2 Dual SIM 16 Go HDD - 1 Go RAM - Or Et Noir- 12 Mois,Tecno,75000.0,49.0,2.0,or et noir,5.7,4.0,8.0,13.0,2
-206,"iPhone 4S - 16Go HDD - 512Mo RAM - 3,5"" - Noir - 12 Mois + Pochette + Protège Ecran",Apple,45000.0,49.0,1.0,noir,4.0,8.0,20.0,16.0,1
-207,A1 Lite Double SIM 32Go HDD - Blanc Et Or,Gionee,135000.0,100001.0,1.0,blanc et or,5.0,32.0,5.0,16.0,1
-208,Galaxy M10 Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Noir - 12 Mois  + Protège Ecran Offert,Samsung,159000.0,101.0,2.0,noir,4.5,4.0,5.0,16.0,2
-209,Vente Flash - Galaxy S3 - 16 Go HDD - Blanc,Samsung,59000.0,99.0,2.0,blanc,4.5,32.0,8.0,13.0,1
-210,R6 Plus Dual SIM 8Go HDD - Gris + 1 Carte SIM et 1 Forfait Internet Offerts,Orange,39900.0,1001.0,4.0,gris,5.0,64.0,8.0,13.0,2
-211,Pouvoir 2 Dual SIM 16Go HDD - Bleu - 12 Mois,Tecno,90000.0,1001.0,1.0,bleu,5.0,32.0,8.0,13.0,2
-212,Galaxy S7 Edge 32Go HDD - 4Go RAM - Or - 3 Mois + Pochette,Samsung,160000.0,101.0,3.0,or,6.5,32.0,13.0,13.0,1
-213,Spark 2 Dual SIM 32 Go HDD - 2 Go RAM - Rouge - 12 Mois,Tecno,89000.0,49.0,1.0,rouge,5.1,16.0,7.0,12.0,2
-214,"Blade A506 - 8Go HDD - 1Go RAM - 5"" - Noir - 6 Mois",ZTE,45000.0,1001.0,2.0,noir,5.5,16.0,10.0,16.0,1
-215,"iPhone 6 - 16Go HDD - 1Go RAM - 4,7"" - Gris (Sans carton d'origine) - 12 Mois",Apple,119225.0,101.0,1.0,gris,5.5,32.0,20.0,40.0,1
-216,OK-CX1 Dual SIM 16Go HDD - 1 Go RAM - Rouge - 12 Mois,Oking,50000.0,101.0,1.0,rouge,5.0,32.0,2.0,5.0,2
-217,Galaxy J1 Ace 4Go HDD - Bleu - 24 Mois,Samsung,50000.0,101.0,1.0,bleu,5.7,16.0,5.0,13.0,1
-218,"Y2 2018- Dual SIM - 8 Go HDD - 512 Mo - 4"" - Gris- 12 Mois",Tecno,34500.0,101.0,1.0,gris,5.4,16.0,16.0,16.0,2
-219,Galaxy S6 Edge 32Go HDD - RAM 3Go - Noir - 12 Mois + Pochette + Protège Ecran  Offerts,Samsung,124900.0,10001.0,1.0,noir,5.4,8.0,8.0,13.0,1
-220,Galaxy J1 Ace - 4Go HDD -  512 Mo - Blanc - 24 Mois,Samsung,49700.0,101.0,2.0,blanc,5.4,8.0,8.0,13.0,1
-221,Z Dual SIM 32Go HDD - 4Go RAM - 13MP - Gris - 12 Mois,UMIDIGI,69900.0,10001.0,4.0,gris,5.7,32.0,8.0,13.0,2
-222,"Redmi S2 - Dual SIM - 64Go HDD - 4Go RAM - 6"" - Or + Pochette + Protège Ecran Offerts",Xiaomi,114900.0,10001.0,3.0,or,5.7,16.0,17.0,12.0,2
-223,Samsung Galaxy J4 Plus Dual SIM - 32Go HDD - 2Go RAM - 13MP - Or - 12 Mois,Samsung,110000.0,1001.0,3.0,or,5.8,32.0,2.0,5.0,2
-224,One M8 32Go HDD - Noir - 12 Mois + Pochette + Protège Ecran  Offerts,HTC,59900.0,10001.0,3.0,noir,5.8,64.0,5.0,16.0,1
-225,Blade Lite V8 Dual SIM - 16Go HDD - 2Go RAM - Or,ZTE,65500.0,1001.0,4.0,or,6.3,8.0,1.2,8.0,2
-226,Galaxy A3 Edition 2017 Dual SIM 16Go HDD - Noir - 6 Mois,Samsung,165500.0,1001.0,4.0,noir,5.5,32.0,17.0,12.0,2
-227,"G6 - 32Go HDD - 4Go RAM - 5,7"" - Noir - 12 Mois + Pochette + Protège Ecran",LG,119900.0,10001.0,2.0,noir,5.5,8.0,7.0,12.0,1
-228,Samsung Galaxy J4 Plus Dual SIM - 32Go HDD - 2Go RAM - 13MP - Noir,Samsung,99000.0,49.0,2.0,noir,5.5,16.0,5.0,12.0,2
-229,Galaxy J4 Dual SIM - 16Go HDD - 2Go RAM - Noir - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,79900.0,10001.0,2.0,noir,5.0,16.0,7.0,12.0,2
-230,"Galaxy J4 Core Dual SIM - 16Go HDD - 1Go RAM - 6"" - Bleu",Samsung,72500.0,101.0,3.0,bleu,5.5,8.0,7.0,12.0,2
-231,"A16 - Dual SIM - 8Go HDD - 512 Mo RAM - 5"" - Noir - 13 Mois",ITEL,38000.0,49.0,4.0,noir,5.5,8.0,7.0,12.0,2
-232,V11 8Go HDD Dual SIM - Or,X-tigi,35300.0,101.0,4.0,or,6.0,8.0,7.0,12.0,2
-233,Lumia 930 - 32Go HDD - Noir - 6 Mois,Nokia,128950.0,1001.0,4.0,noir,6.2,8.0,7.0,12.0,1
-234,Galaxy Grand Prime Pro Dual SIM 16Go HDD - Argent - 03 Mois de Garantie,Samsung,84800.0,9.0,6.0,argent,6.3,16.0,7.0,12.0,2
-235,Spark 2 Dual SIM 32 Go + 2 Go Ram HDD - Noir - 12 Mois,Tecno,95000.0,1001.0,3.0,noir,5.1,256.0,5.0,13.0,2
-236,Redmi Note 6 Pro Dual SIM 64Go HDD - 4Go RAM - 12+5MP - Noir + Pochette Offert - 12 Mois de Garantie,Xiaomi,144900.0,10001.0,3.0,noir,5.7,32.0,5.0,8.0,2
-237,Alcatel 1 Dual SIM 8Go HDD - Gris - 12 Mois + Forfait Internet Offert,Alcatel,44900.0,1001.0,1.0,gris,6.2,32.0,5.0,12.0,2
-238,"Galaxy J6 Plus Dual SIM - 32Go HDD - 3Go RAM - 6"" - Noir - 12 Mois",Samsung,125000.0,101.0,3.0,noir,6.2,32.0,5.0,12.0,2
-239,Galaxy Grand Prime Plus Dual SIM 8Go HDD - 1.5Go Ram - Noir,Samsung,63700.0,9.0,1.0,noir,5.5,32.0,8.0,12.0,2
-240,G4 Stylus 16Go HDD - Gris (Reconditionné),LG,75000.0,1001.0,1.0,gris,6.0,32.0,8.0,12.0,1
-241,iPhone 5 16Go HDD - Or,Apple,99900.0,1001.0,1.0,or,5.7,16.0,8.0,12.0,1
-242,Galaxy Grand Prime Dual Sim 8 Go HDD - Noir + 1 Routeur 4G Offert,Samsung,87900.0,1001.0,1.0,noir,5.5,16.0,1.3,8.0,2
-243,Y3 2017 8Go HDD - Or + 1 Modem Airbox 3G Offert,Huawei,84900.0,1001.0,4.0,or,6.0,16.0,13.0,8.0,1
-244,Y3 2017 8Go HDD - Gris,Huawei,64900.0,1001.0,3.0,gris,5.5,32.0,5.0,13.0,1
-245,Galaxy Grand Prime Dual Sim 8 Go HDD - Argent + 1 Carte Sim Offerte,Samsung,67900.0,1001.0,4.0,argent,5.5,32.0,8.0,13.0,2
-246,"Mi4 4G FDD-LTE - 16Go HDD - 2Go RAM - 5"" - Blanc",Xiaomi,142500.0,10001.0,4.0,blanc,6.2,64.0,13.0,13.0,1
-247,Smart Dual SIM 16Go HDD - Noir  - 12 Mois,Infinix,96800.0,100001.0,6.0,noir,5.0,64.0,5.0,12.0,2
-248,Galaxy A7 Dual SIM 16 Go HDD - Blanc - 6 Mois,Samsung,120000.0,100001.0,1.0,blanc,6.2,64.0,5.0,12.0,2
-249,iPhone XS Max 256Go HDD - Gris Sidéral,Apple,870600.0,101.0,1.0,noir,5.1,128.0,5.0,13.0,1
-250,Galaxy S6 32Go HDD - Noir - 12 Mois + Pochette + Protège Ecran Offert,Samsung,125000.0,9.0,4.0,noir,5.5,32.0,5.0,16.0,1
-251,Redmi 6 Dual SIM - 32Go - 3Go Ram HDD - 12+5MP - Bleu,Xaomi,95500.0,1001.0,2.0,bleu,5.5,16.0,5.0,12.0,2
-252,iPhone 7 Plus - 32Go HDD - 3Go RAM - 12MP - Rouge + Pochette Offert - 12 Mois de Garantie,Apple,279900.0,10001.0,1.0,noir,6.2,32.0,5.0,13.0,1
-253,Galaxy S7 Dual SIM 32 Go HDD - Noir-glace+pochette,Samsung,150000.0,99.0,1.0,noir,6.4,8.0,8.0,13.0,2
-254,"Galaxy S6 Edge Plus  - 32Go HDD - 4Go RAM - 5,7"" - Bleu--pochette+glace",Samsung,165000.0,99.0,4.0,bleu,4.0,8.0,8.0,13.0,1
-255,"Redmi 6A Dual SIM - 16Go HDD - 2Go RAM - 5,45"" - Gris - 12 Mois de Garantie",Xiaomi,57900.0,10001.0,32.0,or,5.0,8.0,5.0,12.0,2
-256,"Redmi 6A Dual SIM - 16Go HDD - 2Go RAM - 5,45"" - Gris - 12 Mois de Garantie",Xiaomi,57900.0,10001.0,6.0,gris,12.0,16.0,5.0,12.0,2
-257,"Redmi 6A Dual SIM - 16Go HDD - 2Go RAM - 5,45"" - Gris - 12 Mois de Garantie",Xiaomi,58900.0,101.0,4.0,gris,5.5,16.0,8.0,12.0,2
-258,Galaxy S6 Edge 32Go HDD - Noir-glace+pochette,Samsung,137000.0,99.0,1.0,noir,5.3,128.0,2.0,8.0,1
-259,Galaxy Note 5 32 Go HDD - Or-glace et pochette offert,Samsung,145250.0,99.0,1.0,or,6.2,64.0,8.0,13.0,1
-260,Galaxy S6 Edge Plus Dual SIM - 32Go HDD - Or - 3 Mois-galce+pochette,Samsung,175000.0,99.0,2.0,or,5.5,32.0,13.0,13.0,2
-261,Galaxy S7 Edge Dual SIM 64 Go HDD - Or,Samsung,185000.0,99.0,4.0,or,6.1,64.0,8.0,5.0,2
-262,Vente Flash - Galaxy S8 64Go HDD - Or-glass +pochette,Samsung,225000.0,99.0,1.0,or,6.4,64.0,7.0,12.0,1
-263,Vente Flash - Galaxy S8 64Go HDD - Or-24 mois -glace et pochette offert,Samsung,225000.0,99.0,2.0,or,5.5,8.0,2.0,5.0,1
-264,"Galaxy Note 8 - 64 Go HDD - 6 Go RAM - 6,3'' - Noir-glace+pochette",Samsung,300000.0,99.0,4.0,noir,5.0,16.0,5.0,13.0,1
-265,iPhone 7 Plus - 128Go - Noir - 12 Mois + Pochette + Protège Ecran Offerts,Apple,521000.0,49.0,3.0,noir,5.5,32.0,7.0,12.0,1
-266,iPhone 7 Plus 32Go HDD - Or,Apple,532000.0,10001.0,2.0,or,5.5,16.0,5.0,12.0,1
-267,Pop 2 Power - 16Go HDD - 1Go RAM - Or Et Noir -13 Mois,Tecno,70000.0,101.0,4.0,or et noir,6.2,16.0,5.0,8.0,1
-268,Redmi 5A Dual SIM - 32Go HDD - 3Go RAM - 13MP - Or - 12 Mois de Garantie,Xiaomi,77900.0,101.0,8.0,or,6.0,8.0,5.0,13.0,2
-269,P13 - Dual SIM - 8Go HDD - 512Mo RAM - Noir -12 Mois,ITEL,45000.0,101.0,8.0,noir,6.0,16.0,8.0,13.0,2
-270,Pop2 Power Dual SIM - 8Go HDD - 1Go RAM - Noir - 13 Mois,Tecno,57000.0,101.0,1.0,noir,6.0,64.0,8.0,12.0,2
-271,Pop2 Power Dual SIM - 8Go HDD - 1Go RAM - Bleu - 13 Mois,Tecno,57000.0,101.0,1.0,bleu,6.0,64.0,0.3,2.0,2
-272,"S33 - 16Go HDD - 1Go RAM - 6"" - Or - 12 Mois",ITEL,65300.0,1001.0,1.0,or,6.4,32.0,0.0,5.0,1
-273,Spark 3 Dual SIM - 16Go HDD - 1Go RAM - Bleu - 13 Mois,Tecno,75600.0,99.0,1.0,bleu,4.7,8.0,13.0,13.0,2
-274,Redmi Note 7 Dual SIM - 128Go - 4Go Ram HDD - Noir,Xaomi,200500.0,99.0,1.0,noir,6.2,16.0,2.0,5.0,2
-275,Galaxy C5 -dual Sim- 32 Go HDD - Noir-pochette+glass,Samsung,139395.0,99.0,1.0,noir,6.2,32.0,1.2,8.0,2
-276,"Galaxy S6 Edge - 64 Go HDD - 3 Go RAM - 5,1'' - Noir-glace+pochette",Samsung,150000.0,99.0,2.0,noir,6.2,64.0,2.0,5.0,1
-277,Galaxy S6 Edge plus 32Go HDD - noir-pochette+glass,Samsung,160000.0,99.0,1.0,noir,6.3,8.0,0.0,5.0,1
-278,"Galaxy S8 Plus - 64 Go HDD - 4Go RAM - 6,2'' - Noir-pochette+glass",Samsung,288700.0,49.0,3.0,noir,5.5,8.0,2.0,5.0,1
-279,"S9 Plus - 64Go HDD - 6Go RAM - 6,2"" - Noir - 12 Mois-glace+pochette",Samsung,429000.0,49.0,3.0,noir,5.7,16.0,0.0,5.0,1
-280,P32 Dual SIM - 8Go HDD - 1 Go RAM - Bleu - 13 Mois,ITEL,55000.0,99.0,1.0,bleu,6.0,32.0,0.0,5.0,2
-281,"S33 - 6"" - 16 Go HDD - Noir",ITEL,64500.0,10001.0,3.0,noir,6.0,32.0,5.0,13.0,1
-282,"Galaxy S6 Edge Plus  - 32 Go HDD - 4 Go RAM - 5,7"" - Noir-pochette+glass",Samsung,160000.0,9.0,2.0,noir,5.2,16.0,0.3,2.0,1
-283,Galaxy J4 Dual SIM - 16Go HDD - 2Go RAM - Noir,Samsung,79900.0,99.0,1.0,noir,4.7,32.0,5.0,16.0,2
-284,"Hot 6 - Dual SIM - 16Go HDD - 1Go RAM - 6"" Or",Infinix,74210.0,49.0,3.0,or,6.1,128.0,8.0,12.0,2
-285,P13 Dual SIM 8Go HDD - 512 Mo RAM - Noir - 13 Mois,ITEL,45500.0,99.0,3.0,noir,7.2,128.0,5.0,8.0,2
-286,P33 Dual SIM 16Go HDD - 1Go RAM - Or,ITEL,53000.0,99.0,2.0,or,6.0,8.0,8.0,12.0,2
-287,"Samsung Galaxy S8 Plus - 64 Go HDD - 4 Go RAM - 6,2'' - Noir - 12 Mois - Pochette",Samsung,243000.0,99.0,2.0,noir,5.0,8.0,2.0,16.0,1
-288,Galaxy S8 Dual SIM 64 Go HDD - Or,Samsung,270000.0,99.0,1.0,or,5.5,8.0,5.0,12.0,2
-289,Galaxy S9 - 32Go HDD - 4Go RAM - Noir,Samsung,365000.0,99.0,4.0,noir,5.5,1616.0,8.0,12.0,1
-290,"Galaxy S9 Plus - 64Go HDD - 6Go RAM - 6,2"" - Noir - 12 Mois",Samsung,390000.0,49.0,3.0,noir,6.0,16.0,3.0,5.0,1
-291,"Galaxy S7 - 32 Go HDD - 4 Go RAM - 5,1'' - Or + Ecran de Protection et Pochette",Samsung,139500.0,101.0,2.0,or,6.0,16.0,2.0,16.0,1
-292,S13 - 8Go HDD - 1GB RAM - Noir - 13 Mois,ITEL,65000.0,49.0,8.0,noir,6.0,16.0,5.0,8.0,1
-293,P33 Dual SIM 16Go HDD - 1Go RAM - Or,ITEL,58600.0,49.0,6.0,or,6.1,16.0,5.0,13.0,2
-294,"Hot 7 Pro Dual Sim - 6,2"" - 32 Go HDD - 2 Go RAM - Noir",Infinix,89000.0,99.0,3.0,noir,5.0,32.0,5.0,12.0,2
-295,Galaxy A30 DUAL SIM 64Go HDD - 4Go RAM - Noir,Samsung,175000.0,99.0,1.0,noir,6.4,64.0,0.0,8.0,2
-296,Galaxy S6 32 Go HDD - Noir + Pochette et Ecran de Protection,Samsung,120500.0,99.0,2.0,noir,5.5,8.0,5.0,12.0,1
-297,"V5 Dual SIM - 8Go HDD - 1 Go RAM - 4"" - Bleu",X-tigi,27800.0,101.0,3.0,bleu,6.3,32.0,5.0,16.0,2
-298,V10 Dual SIM 8 Go HDD - Noir - 13 Mois,X-tigi,32900.0,99.0,1.0,noir,5.8,32.0,1.2,8.0,2
-299,BLACKBERRY LEAP 16Go HDD - Marron (Reconditionné pas de carton d'origine),Blackberry,41325.0,99.0,2.0,marron,6.0,16.0,5.0,12.0,1
-300,Galaxy S7 - 32 Go HDD - Noir-glace+pochette,Samsung,133500.0,99.0,3.0,noir,5.5,32.0,5.0,16.0,1
-301,Galaxy S7 Edge 32 Go HDD - Or - 24 Mois + Pochette + Protège Ecran Offert,Samsung,172000.0,99.0,1.0,or,5.8,32.0,13.0,5.0,1
-302,Galaxy S7 Edge 32 Go HDD - Noir + Ecran de Protection et pochette,Samsung,175000.0,9.0,3.0,noir,6.0,16.0,5.0,13.0,1
-303,A1 Dual SIM 32Go HDD - Or,X-tigi,71450.0,99.0,1.0,or,5.8,16.0,5.0,13.0,2
-304,"Hot 7 Dual Sim - 6,2"" - 16 Go HDD - 1 Go RAM - Violet",Infinix,84740.0,99.0,4.0,violet,6.0,16.0,16.0,16.0,2
-305,Galaxy S7 Edge 64Go HDD - Noir -  12 Mois,Samsung,241500.0,99.0,3.0,noir,5.5,64.0,5.0,13.0,1
-306,"Galaxy S10 - 128Go HDD - 8Go RAM - 6,1"" - Blanc",Samsung,504000.0,49.0,3.0,blanc,5.5,32.0,7.0,12.0,1
-307,"Galaxy S10 Plus - 128Go HDD - 8Go RAM - 6,4"" - 24 Mois - Blanc",Samsung,556000.0,99.0,4.0,blanc,5.5,32.0,13.0,8.0,1
-308,"Pop 2 - Dual Sim - 5,5"" - 8Go HDD - 1Go RAM - Or",Tecno,56000.0,99.0,4.0,or,5.5,128.0,8.0,13.0,2
-309,A32F 8Go HDD -Noir,ITEL,47000.0,99.0,4.0,noir,5.8,128.0,20.0,16.0,1
-310,"Tecno B1 - Dual SIM - 8Go HDD - 1 Go RAM - 5"" - Noir",Tecno,50000.0,99.0,4.0,noir,5.7,32.0,16.0,16.0,2
-311,S13 - 8Go HDD - 1GB RAM - Noir - 13 Mois,ITEL,53000.0,99.0,3.0,noir,6.0,8.0,5.0,13.0,1
-312,P33 Dual SIM 16Go HDD - 1Go RAM - Bleu,ITEL,59000.0,99.0,4.0,bleu,5.8,16.0,5.0,13.0,2
-313,"Hot 7 Dual SIM - 6,2"" - 16 Go HDD - 1 Go RAM - Noir",Infinix,72000.0,99.0,3.0,noir,5.8,16.0,24.0,16.0,2
-314,Spark 2 Dual SIM  16 Go HDD + 1Go RAM - Rouge - 12 Mois,Tecno,75000.0,99.0,3.0,rouge,6.0,16.0,24.0,16.0,2
-315,Spark 2 Dual SIM 16 Go HDD + 2 Go RAM - Noir - 12 Mois,Tecno,76000.0,99.0,3.0,noir,5.0,16.0,24.0,16.0,2
-316,"Hot S3X - Dual SIM - 32 Go HDD - 2Go RAM - 6"" - Noir",Infinix,111000.0,99.0,4.0,noir,5.4,16.0,24.0,16.0,2
-317,Camon X Dual SIM - 32Go HDD - Noir - 12 Mois,Tecno,123000.0,101.0,4.0,noir,6.2,128.0,5.0,2.0,2
-318,Galaxy A30 Dual SIM 64Go HDD - 3Go RAM - Noir - 6 Mois,Samsung,180000.0,101.0,4.0,noir,6.0,8.0,2.0,5.0,2
-319,Microsoft Lumia 550 - Reconditionné sans carton d'origine - 8Go HDD - 1Go RAM - Blanc,Nokia,45900.0,101.0,3.0,blanc,5.5,32.0,5.0,8.0,1
-320,Camon 11 Dual SIM 32 Go HDD - 3Go RAM - Noir - 12 Mois,Tecno,114000.0,9.0,3.0,noir,5.4,64.0,5.0,16.0,2
-321,Galaxy S6  32 Go HDD -Blanc + Ecran de Protection et Pochette - 12 Mois,Samsung,100000.0,99.0,2.0,blanc,6.3,64.0,5.0,13.0,1
-322,"Hot 7  Dual Sim - 6,2"" - 32 Go HDD - 2 Go RAM - Champagne",Infinix,95263.0,99.0,1.0,champagne,6.2,128.0,5.0,12.0,2
-323,Spark 3 Dual SIM - 16Go HDD - 1Go RAM - Noir - 12 Mois,Tecno,76500.0,101.0,2.0,noir,6.0,32.0,5.0,8.0,2
-324,Galaxy M20 Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Bleu - 12 Mois,Samsung,142000.0,101.0,3.0,bleu,6.0,64.0,12.0,12.0,2
-325,"iPhone 7 Plus - 32Go HDD - 3Go RAM - 5,5"" - Rose Or",Apple,320000.0,99.0,4.0,rose or,6.0,64.0,5.0,13.0,1
-326,Note 4 Dual SIM 16Go HDD - Noir - 12 Mois,Infinix,89000.0,10001.0,4.0,noir,5.5,64.0,5.0,13.0,2
-327,Infinix Hot 6X Dual SIM 16Go HDD - 2Go - Noir,Infinix,72500.0,49.0,1.0,noir,6.2,256.0,8.0,13.0,2
-328,Spark 2 Dual SIM 16 Go HDD - Bleu - 12 Mois,Tecno,83800.0,49.0,3.0,bleu,6.2,32.0,5.0,8.0,2
-329,K5 Pro Dual SIM 64Go HDD - 6Go RAM - 16+5MP - Rose Or - 12 Mois,Lenovo,149900.0,49.0,3.0,rose or,6.2,32.0,5.0,16.0,2
-330,Galaxy J5 Pro 32Go HDD - Noir,Samsung,169000.0,101.0,3.0,noir,4.7,32.0,5.0,16.0,1
-331,iPhone 7 - 32Go HDD - 2GB RAM - Noir Et Gris,Apple,315000.0,101.0,4.0,noir et gris,6.0,128.0,5.0,12.0,1
-332,"Galaxy S10 - 128Go HDD - 8Go RAM - 6,1"" - Bleu Ciel",Samsung,499000.0,101.0,4.0,bleu ciel,5.5,64.0,5.0,12.0,1
-333,Mate20 X Dual SIM - 128Go HDD - 6Go RAM - Bleu,Huawei,510000.0,101.0,4.0,bleu nuit,5.0,64.0,8.0,12.0,2
-334,Galaxy J6 Plus  2018 - 32 Go HDD - 3 Go RAM - 6'' - Gris,Samsung,200000.0,101.0,4.0,gris,6.0,64.0,5.0,12.0,1
-335,"A16 - Dual SIM - 8Go HDD - 512 Mo RAM - 5"" - Noir - 13 Mois",ITEL,37900.0,101.0,4.0,noir,6.0,64.0,5.0,16.0,2
-336,F3(Pop¹) Pro - Dual SIM - 16Go HDD - Noir - 12 Mois,Tecno,65000.0,101.0,4.0,noir,5.5,64.0,5.0,16.0,2
-337,Camon CX Dual SIM 16 Go HDD - Gris -12 Mois,Tecno,93900.0,101.0,4.0,gris,6.4,256.0,5.0,12.0,2
-338,"Pouvoir 2 - Dual SIM - 16Go HDD - 3Go RAM - 6"" - NOIR - 12 Mois",Tecno,100000.0,1001.0,4.0,noir,6.0,32.0,5.0,12.0,2
-339,Spark 2 Dual SIM  16 Go HDD -1 Go RAM - Noir - 12 Mois,Tecno,75000.0,1001.0,6.0,noir,6.0,8.0,16.0,12.0,2
-340,Spark 2 Dual SIM 16 Go HDD - 2 Go RAM - Noir - 12 Mois,Tecno,85000.0,1001.0,1.0,noir,6.0,16.0,8.0,13.0,2
-341,iPhone XR - 128 Go HDD - 3 Go RAM - Noir,Apple,653300.0,1001.0,2.0,noir,6.5,64.0,8.0,13.0,1
-342,A32F Dual SIM 8Go HDD - Rose Or - 12 Mois,ITEL,44700.0,1001.0,1.0,rose or,5.5,128.0,8.0,13.0,2
-343,Galaxy A30 Dual SIM 32Go HDD - 3Go RAM - Noir - 6 Mois,Samsung,160000.0,1001.0,2.0,noir,5.5,32.0,5.0,8.0,2
-344,iPhone 6 Plus  64 Go HDD - Blanc Et Or,Apple,186925.0,49.0,3.0,blanc et or,6.2,32.0,5.0,13.0,1
-345,Mate20 Lite Dual SIM - 64Go HDD - 4Go RAM - Noir - 6 Mois,Huawei,225000.0,1001.0,2.0,noir,6.2,32.0,5.0,8.0,2
-346,iPhone XR - 128 Go HDD - 3 Go RAM - Rouge,Apple,685000.0,49.0,4.0,rouge,6.0,64.0,5.0,12.0,1
-347,"Hot 6X Dual SIM - 32Go HDD - 3Go RAM - 6,2"" - Bleu",Infinix,149700.0,49.0,3.0,bleu,6.2,64.0,7.0,12.0,2
-348,Mi A2 Dual SIM - 64Go HDD - 4Go RAM - Noir,Xaomi,155500.0,49.0,8.0,noir,5.7,64.0,5.0,8.0,2
-349,Redmi 6 Pro Dual SIM 64Go HDD - 4Go RAM - Noir,Xaomi,159500.0,49.0,4.0,noir,5.5,128.0,5.0,16.0,2
-350,V30 - 64Go HDD - 4Go RAM - Bleu,LG,200500.0,49.0,4.0,bleu,6.0,128.0,5.0,16.0,1
-351,iPhone XS Max 256Go HDD - Gris Sidéral,Apple,875000.0,1001.0,4.0,gris sidéral,6.1,128.0,5.0,12.0,1
-352,"Galaxy J6 Plus Dual SIM - 32Go HDD - 3Go RAM - 6"" - Noir - 12 Mois",Samsung,120000.0,1001.0,4.0,noir,5.4,32.0,5.0,16.0,2
-353,Galaxy S7 32 Go HDD - 4 Go RAM  - Or,Samsung,232000.0,49.0,4.0,or,6.5,64.0,5.0,16.0,1
-354,iPhone 7 Plus - 32Go HDD - 3Go RAM - Noir,Apple,410000.0,49.0,4.0,noir,6.2,64.0,5.0,13.0,1
-355,iPhone 7 Plus - 128Go HDD - 3Go RAM Rose Or,Apple,495000.0,101.0,3.0,rose or,6.2,64.0,5.0,16.0,1
-356,iPhone 8 Plus 64Go HDD - Gris Sidéral,Apple,662000.0,1001.0,3.0,gris sidéral,6.0,8.0,5.0,12.0,1
-357,iPhone XS Max 64 Go HDD - Argent,Apple,700000.0,1001.0,2.0,argent,6.0,16.0,5.0,12.0,1
-358,Lenovo S5 Dual SIM 64Go HDD - 4Go RAM - 13+13MP - Rouge + Pochette Offert - 12 Mois,Lenovo,110000.0,1001.0,3.0,rouge,5.5,16.0,2.0,5.0,2
-359,Galaxy J8 Dual SIM 64Go HDD - Bleu,Samsung,195000.0,1001.0,3.0,bleu,5.5,16.0,5.0,12.0,2
-360,iPhone X 64Go HDD - 3Go RAM - Gris Sidéral,Apple,651000.0,1001.0,2.0,gris sidéral,6.2,16.0,5.0,8.0,1
-361,iPhone X 256Go HDD - 3Go RAM - Gris Sidéral,Apple,789000.0,49.0,2.0,gris sidéral,6.4,16.0,5.0,16.0,1
-362,Galaxy J4 Plus Dual SIM - 32Go HDD - 2Go RAM - 13MP - Or - 12 Mois,Samsung,175000.0,49.0,8.0,or,5.0,64.0,5.0,12.0,2
-363,"Blade A506 - 8Go HDD - 1Go RAM - 5"" - Noir - 6 Mois",ZTE,45000.0,1001.0,1.0,noir,6.0,64.0,2.0,8.0,1
-364,Y5 Prime 2018 Dual SIM 16Go HDD - Bleu - 12 Mois + Edmark Café73 Offert (20 Sachets),Huawei,86500.0,49.0,4.0,bleu,5.5,128.0,2.0,16.0,2
-365,Honor 10 lite - 64 Go HDD - 3 Go RAM -  Bleu Saphir - 6 Mois,Huawei,175000.0,49.0,1.0,bleu saphir,5.0,64.0,5.0,13.0,1
-366,"Galaxy A7 (2018) - Dual SIM - 128Go HDD - 4Go RAM - 6"" - Bleu - 6 Mois",Samsung,212000.0,1001.0,1.0,bleu,5.5,64.0,5.0,16.0,2
-367,Galaxy S7 Edge 32Go HDD - 4Go RAM - Or - 12 Mois,Samsung,243500.0,101.0,2.0,or,4.0,64.0,8.0,12.0,1
-368,Y5 Lite - Dual Sim - 16GO HDD -1GO Ram - Bleu - 6 Mois,Huawei,72000.0,101.0,2.0,bleu,5.5,128.0,0.0,8.0,2
-369,Galaxy M10 Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Noir - 12 Mois,Samsung,125000.0,1001.0,4.0,noir,6.2,32.0,5.0,8.0,2
-370,Galaxy M20 Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Bleu - 12 Mois,Samsung,142000.0,1001.0,4.0,bleu,5.0,32.0,5.0,12.0,2
-371,Honor 10 lite - 64 Go HDD - 3Go Ram -  Noir - 6 Mois,Huawei,175000.0,1001.0,4.0,noir,6.0,64.0,8.0,12.0,1
-372,Galaxy M20 Dual SIM - 64Go HDD - 4Go RAM - 13+5MP - Bleu - 12 Mois,Samsung,179000.0,1001.0,4.0,bleu,6.0,64.0,2.0,13.0,2
-373,Galaxy M30 Dual SIM - 64Go HDD - 4Go RAM - 13+5MP - Bleu - 12 Mois,Samsung,211000.0,49.0,4.0,bleu,4.7,32.0,5.0,16.0,2
-374,"Galaxy A7 (2018) - Dual SIM - 128Go HDD - 4Go RAM - 6"" - Noir - 6 Mois",Samsung,212000.0,49.0,8.0,noir,6.0,32.0,5.0,12.0,2
-375,"Galaxy A7 (2018) - Dual SIM - 128Go HDD - 4Go RAM - 6"" - Noir - 6 Mois",Samsung,212000.0,9.0,1.0,noir,6.0,32.0,7.0,12.0,2
-376,"Galaxy A7 (2018) - Dual SIM - 128Go HDD - 4Go RAM - 6"" - Bleu - 6 Mois",Samsung,212000.0,49.0,2.0,bleu,4.0,16.0,2.0,16.0,2
-377,Galaxy S7 Edge 32Go HDD -Perle Blanc - 6 mois,Samsung,243500.0,9.0,3.0,perle blanc,5.0,32.0,8.0,16.0,1
-378,"Galaxy S8 Plus - 64Go HDD - 4Go RAM - 6,2"" - Or - 6 Mois",Samsung,300000.0,49.0,1.0,or,6.0,128.0,5.0,16.0,1
-379,Galaxy S8 Plus SM-G955F - 64Go HDD -4 Go Ram - Noir - 6 mois,Samsung,300000.0,49.0,3.0,noir,4.0,128.0,5.0,16.0,1
-380,Galaxy S9 Plus - 64Go HDD - Violet lilas - 6 Mois,Samsung,400000.0,49.0,2.0,violet lilas,4.0,16.0,5.0,16.0,1
-381,"Desire 610 - 8Go HDD - 1Go RAM - 4,7"" - Noir",HTC,40000.0,49.0,2.0,noir,6.2,16.0,0.0,8.0,1
-382,"Hot 6X - Dual SIM - 16Go HDD - 2Go RAM - 6,2"" - Noir",Infinix,83000.0,1001.0,3.0,noir,5.0,16.0,0.0,8.0,2
-383,Smart 2 Dual SIM 16 Go HDD - 1Go RAM - Or - 12 Mois,Infinix,68950.0,1001.0,2.0,or,5.0,16.0,5.0,8.0,2
-384,A3 Dual SIM 16Go HDD - Blanc - 12 Mois,Alcatel,65000.0,1001.0,2.0,blanc,4.7,128.0,8.0,13.0,2
-385,"Pouvoir 2 - Dual SIM - 16Go HDD - 3Go RAM - 6"" - Or - 12 Mois",Tecno,90000.0,1001.0,3.0,blue-champagne-noir,5.0,128.0,8.0,12.0,2
-386,Galaxy M10 Dual SIM - 16Go HDD - 2Go RAM - 13+5MP - Noir,Samsung,127000.0,101.0,2.0,noir,5.0,32.0,16.0,16.0,2
-387,Galaxy A7 Dual SIM 64 Go HDD - 4Go RAM - Or,Samsung,221000.0,101.0,4.0,or,5.0,32.0,12.0,12.0,2
-388,Galaxy J7 Pro - 64Go HDD - 3Go RAM - Noir,Samsung,242000.0,101.0,4.0,noir,5.5,64.0,5.0,16.0,1
-389,"Galaxy S10 Plus - 128Go HDD - 8Go RAM - 6,4"" - 24 Mois - Blanc",Samsung,651000.0,101.0,1.0,blanc,5.5,128.0,5.0,16.0,1
-390,Galaxy J6 Plus (2018) - 64 Go HDD - 4 Go RAM - 6'' - Gris - 3 Mois,Samsung,170000.0,101.0,3.0,gris,4.0,4.0,5.0,16.0,1
-391,Galaxy J6 Plus (2018) - 64 Go HDD - 4 Go RAM - 6'' - Rouge - 3 Mois,Samsung,170000.0,49.0,1.0,rouge,5.1,16.0,8.0,16.0,1
-392,Galaxy J6 Plus (2018) - 64 Go HDD - 4 Go RAM - 6'' - Gris - 3 Mois,Samsung,170000.0,10001.0,1.0,gris,5.8,32.0,8.0,12.0,1
-393,Honor 8X Dual SIM - 128Go HDD - 4Go RAM - Bleu,Huawei,235000.0,101.0,3.0,bleu,5.0,16.0,8.0,12.0,2
-394,Galaxy S7 Edge - 32 Go HDD - 4 Go RAM - Or - 12 Mois + Pochette + Protège Ecran,Samsung,167000.0,101.0,1.0,or,5.0,128.0,0.0,8.0,1
-395,Galaxy S7 Edge - 32 Go HDD - 4 Go RAM - Bleu - 12 Mois + Pochette + Protège Ecran,Samsung,167000.0,1001.0,1.0,bleu,6.0,8.0,2.0,5.0,1
-396,Honor 10 lite - 64 Go HDD - 3 Go RAM -  Bleu Saphir - 6 Mois,Huawei,175000.0,1001.0,1.0,bleu saphir,6.0,16.0,5.0,13.0,1
-397,Honor 10 lite - 64 Go HDD - 3Go Ram -  Noir - 6 Mois,Huawei,175000.0,101.0,1.0,noir,6.2,128.0,5.0,16.0,1
-398,Samsung Galaxy J4 Plus Dual SIM - 32Go HDD - 2Go RAM - 13MP - Rose,Samsung,141000.0,101.0,1.0,rose,5.1,32.0,5.0,12.0,2
-399,Camon 11 Dual SIM 32 Go HDD - Blue - 12 Mois,Tecno,145700.0,101.0,1.0,bleu,5.5,16.0,5.0,16.0,2
-400,"Galaxy S6 Edge - 32Go HDD - RAM 3Go - 5,7"" - Or - 12 Mois + Pochette + Protège Ecran Offerts",Samsung,2210000.0,101.0,3.0,or,5.8,32.0,5.0,16.0,1
-401,iPhone 6S Plus 16Go HDD - Gris + Pochette Et Ecran de Protection - 12 Mois,Apple,290000.0,101.0,4.0,gris,5.0,32.0,5.0,16.0,1
-402,Galaxy J4 Plus Dual SIM - 32Go HDD - 2Go RAM - 13MP - Noir Et Or - 12 Mois,Samsung,95265.0,101.0,1.0,noir et or,5.1,16.0,5.0,12.0,2
-403,Galaxy S10 - 128Go HDD - 8Go RAM - 16+12+12MP - Noir - 24 Mois de Garantie,Samsung,669900.0,101.0,1.0,noir,5.5,64.0,5.0,13.0,1
-404,Y5 Lite - Dual Sim - 16GO HDD -1GO Ram - Bleu - 6 Mois,Huawei,72000.0,101.0,3.0,bleu,5.0,64.0,5.0,12.0,2
-405,Honor 8X -Dual Sim - 128Go HDD - 4Go RAM  - Phantom bleu - 06 Mois,Huawei,230000.0,101.0,6.0,phantom bleu,5.0,8.0,8.0,12.0,2
-406,"Hot 7 Dual Sim - 6,2"" - 16 Go HDD - 1 Go RAM - Or",Infinix,77000.0,49.0,4.0,or,4.0,8.0,8.0,12.0,2
-407,"Hot 7 - Dual Sim - 6,2"" - 16 Go HDD - 1 Go RAM - Noir",Infinix,77000.0,49.0,2.0,noir,4.7,16.0,1.2,8.0,2
-408,Galaxy M10 Dual SIM - 16Go HDD - 2Go RAM - 13+5MP - Noir + Protège Ecran Offert,Samsung,200000.0,49.0,4.0,noir,5.5,8.0,5.0,12.0,2
-409,Vente Flash - Galaxy M10 Dual SIM - 16Go HDD - 2Go RAM - 13+5MP - Noir + Protège Ecran Offert,Samsung,200000.0,9.0,4.0,noir,5.7,16.0,7.0,12.0,2
-410,Galaxy A7 (2018) - Dual SIM - 128Go HDD - 4Go RAM - Noir - 6 Mois,Samsung,212000.0,49.0,1.0,bleu,5.5,32.0,7.0,12.0,2
-411,Galaxy A7 (2018) - Dual SIM - 128Go HDD - 4Go RAM - Noir - 6 Mois,Samsung,212000.0,49.0,2.0,noir,4.7,16.0,7.0,12.0,2
-412,Galaxy S7 Edge 32Go HDD - 4Go RAM - Or - 12 Mois,Samsung,243500.0,9.0,1.0,or,5.7,8.0,7.0,12.0,1
-413,Galaxy S7 Edge 32Go HDD -Perle Blanc - 6 mois,Samsung,243500.0,49.0,1.0,perle blanc,5.5,64.0,2.0,5.0,1
-414,"Galaxy S8 Plus - 64Go HDD - 4Go RAM - 6,2"" - Or - 06Mois",Samsung,300000.0,49.0,4.0,or,5.5,8.0,20.0,12.0,1
-415,"Galaxy S10 Plus - 128Go HDD - 8Go RAM - 6,4"" - 24 Mois - Blanc",Samsung,700000.0,49.0,1.0,blanc,5.0,16.0,5.0,8.0,1
-416,StarTrail 7 - 4 Go HDD - Bleu (Reconditionné pas de carton d'origine),Startrail,39615.0,49.0,1.0,bleu,5.6,8.0,5.0,16.0,1
-417,Spark 2 Dual SIM 16 Go HDD - 2 Go RAM - Or Et Noir,Tecno,88000.0,49.0,2.0,or et noir,6.0,16.0,8.0,16.0,2
-418,Galaxy J7 Pro 32Go HDD - Gris,Samsung,190000.0,49.0,4.0,gris,5.6,16.0,5.0,16.0,1
-419,Galaxy Grand Prime Pro Dual SIM 16Go HDD - Noir,Samsung,89500.0,101.0,1.0,noir,4.7,8.0,5.0,13.0,2
-420,iPhone 7 Plus 128Go HDD - Noir -  12 Mois + Pochette + Protège Ecran Offert,Apple,450000.0,101.0,2.0,noir,5.5,32.0,5.0,12.0,1
-421,1408 Dual SIM 8Go HDD - Gris,ITEL,33000.0,49.0,4.0,gris,6.0,64.0,5.0,16.0,2
-422,"Galaxy J4 Dual SIM 16Go HDD  2Go RAM - Ecran 5.5"" - Noir",Samsung,92000.0,99.0,1.0,noir,6.0,8.0,8.0,16.0,2
-423,iPhone 7 - 128Go HDD - Noir - 12 Mois,Apple,300000.0,9.0,2.0,noir,6.0,16.0,8.0,16.0,1
-424,Galaxy S7 - 32 Go HDD - Noir,Samsung,158550.0,10001.0,1.0,noir,6.0,32.0,5.0,12.0,1
-425,Camon 11 Dual SIM 32 Go HDD - Bordeaux -Noir - 13 Mois,Tecno,116350.0,101.0,3.0,bordeaux -noir,5.5,128.0,0.0,8.0,2
-426,Galaxy J2  - 16 Go HDD + 2 Go RAM -Or,Samsung,75000.0,101.0,2.0,or,6.0,64.0,5.0,12.0,1
-427,Galaxy J4 Plus Dual SIM - 32Go HDD - 2Go RAM - Noir Et Or,Samsung,99000.0,10001.0,3.0,noir et or,6.0,16.0,5.0,12.0,2
-428,Galaxy J6 Dual SIM - 32 Go HDD - 3 Go RAM - 6'' - Gris Et Bleu,Samsung,129000.0,101.0,2.0,gris et bleu,6.0,32.0,5.0,12.0,2
-429,Galaxy A3 Edition 2017 Dual SIM 16Go HDD - Or,Samsung,149000.0,101.0,2.0,or,6.0,64.0,5.0,12.0,2
-430,Galaxy J8 - Dual Sim - 64 Go HDD - 4 Go RAM - 6'' - Or,Samsung,199000.0,101.0,2.0,or,5.0,8.0,1.2,8.0,2
-431,"Galaxy S9 - 64Go HDD - 4 Go RAM - 6,2'' - Gris",Samsung,409000.0,101.0,3.0,gris,5.3,16.0,1.2,8.0,1
-432,"A14 + Carte memoire 16Go - Dual SIM- 8Go HDD - 512 Mo RAM - 4"" - Noir - 12 Mois",ITEL,35000.0,9.0,3.0,noir,6.3,16.0,8.0,12.0,2
-433,StarTrail 6 Reconditionné sans carton d'origine - 4Go HDD - 512Mo RAM - Noir,Startrail,34010.0,101.0,3.0,noir,5.0,8.0,7.0,12.0,1
-434,Pouvoir 2 PRO Dual SIM 16Go HDD - Bleu - 12 Mois,Tecno,104000.0,101.0,2.0,bleu,6.0,32.0,5.0,5.0,2
-435,Vente Flash - Core Stilo Dual SIM - 8 Go HDD - 1Go RAM - Noir - 24 Mois de Garantie,Noa,35000.0,9.0,3.0,noir,6.0,16.0,5.0,13.0,2
-436,iPhone 4S 16Go HDD - Noir - 12 Mois + Pochette + Protège Ecran Offert,Apple,65000.0,9.0,2.0,noir,6.0,64.0,2.0,13.0,1
-437,Vente Flash - Galaxy M10 Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Noir - 12 Mois,Samsung,114900.0,49.0,2.0,noir,6.0,128.0,5.0,12.0,2
-438,"V15 Dual Sim - 16Go HDD - 1GB RAM - 5"" - Noir Et Or - 12 Mois + Carte Mémoire 16GB",X-tigi,45500.0,101.0,3.0,noir et  or,4.0,32.0,5.0,16.0,2
-439,ZTE Dive71-  Reconditionné (Sans Carton D'Origine) - Noir,welcom et autres,50825.0,49.0,1.0,noir,4.3,64.0,5.0,16.0,1
-440,Vente Flash - iPhone 6 - 64Go HDD - Blanc Et Or - 12 Mois + Pochette + Protège Ecran Offerts,Apple,159900.0,49.0,4.0,blanc et or,6.0,64.0,5.0,12.0,1
-441,A16 + Carte memoire 16Go - Dual SIM - 8Go HDD - 512 Mo RAM - Noir -12 Mois,ITEL,42500.0,49.0,4.0,noir,5.7,32.0,5.0,12.0,2
-442,V15 Dual SIM - 16Go HDD - 1Go RAM - Or + Support paresseux - 12 Mois de Garantie,X-tigi,43000.0,9.0,3.0,or,6.0,8.0,5.0,12.0,2
-443,A16 + Support paresseux - Dual SIM - 8Go HDD - 512 Mo RAM - Noir - 12,ITEL,43500.0,9.0,4.0,noir,6.5,16.0,8.0,16.0,2
-444,A16 +Carte memoire 16Go + Support paresseux - Dual Sim - 8Go HDD - 512 Mo RAM - Noir - 12 Mois,ITEL,46500.0,9.0,4.0,noir,6.0,16.0,5.0,12.0,2
-445,iPhone 6+ 16 Go HDD - Noir -  06 Mois + Pochette + Protège Ecran Offert,Apple,185000.0,101.0,4.0,noir,6.0,32.0,5.0,12.0,1
-446,Tommy 2 Plus Reconditionné (Sans Carton D'Origine) - 16Go HDD - 1Go RAM - Noir,WIKO,56050.0,9.0,4.0,noir,5.5,32.0,8.0,16.0,1
-447,"A14 Double Puce - 8Go HDD - 512 Mo RAM - 4"" - Noir - 12 Mois + Carte Mémoire 16Go + Support Téléphone",ITEL,36000.0,101.0,1.0,noir,5.5,32.0,8.0,16.0,1
-448,Galaxy S6 Edge 32Go HDD - Bleu,Samsung,165000.0,101.0,1.0,bleu,5.6,32.0,1.2,8.0,1
-449,Galaxy S8 64Go HDD - Or - 12 Mois + Pochette + Protège Ecran Offert,Samsung,235500.0,9.0,1.0,or,5.0,16.0,1.2,8.0,1
-450,Galaxy J2 Core Dual Sim - 8Go HDD - 1Go RAM - Noir,Samsung,65000.0,9.0,4.0,noir,5.5,16.0,16.0,16.0,2
-451,"iPhone 6 - 16Go HDD - 1Go RAM - 4,7"" - Noir (Sans carton d'origine)- 12 Mois",Apple,133475.0,9.0,3.0,noir,6.3,32.0,1.2,8.0,1
-452,Galaxy J6 Plus (2018) Dual SIM - 32 Go HDD - 3 Go RAM - 6'' - Noir,Samsung,137000.0,9.0,4.0,noir,5.1,32.0,1.2,8.0,2
-453,"Galaxy A9 (2018) - 128Go HDD - 6Go RAM - 6"" - Noir",Samsung,294500.0,9.0,1.0,noir,5.7,32.0,5.0,12.0,1
-454,Galaxy S8 Plus 64Go HDD - Noir,Samsung,347000.0,9.0,6.0,noir,4.7,16.0,8.0,12.0,1
-455,Galaxy S5 16Go HDD - Noir,Samsung,75000.0,9.0,2.0,noir,6.0,32.0,7.0,12.0,1
-456,Galaxy S7 32Go HDD - Or - 12 Mois + Pochette + Protège Ecran Offert,Samsung,140000.0,9.0,2.0,or,6.0,32.0,8.0,12.0,1
-457,Galaxy S8 Dual SIM 64 Go HDD - Noir -  12 Mois + Pochette + Protège Ecran Offert,Samsung,310000.0,49.0,3.0,noir,6.0,32.0,7.0,12.0,2
-458,Fova Reconditionné - 8Go HDD - Bleu (sans carton d'origine),Orange,52250.0,101.0,1.0,bleu,6.0,32.0,7.0,12.0,1
-459,Galaxy S5 16Go HDD - Blanc,Samsung,75000.0,101.0,4.0,blanc,5.7,32.0,7.0,12.0,1
-460,Nura OneTouch M812 Reconditionné (sans carton d'origine) - 16Go HDD - Gris,Alcatel,56050.0,101.0,6.0,gris,5.7,32.0,7.0,12.0,1
-461,STARADDICT 5 Reconditionné sans carton d'origine - 8Go HDD - 1Go RAM - Noir,HISENSE,45125.0,99.0,3.0,noir,5.9,128.0,8.0,12.0,1
-462,Galaxy S7 Dual SIM 32 Go HDD - Noir - 05 Months + Cover + Screen Protector Offered,Samsung,155800.0,101.0,4.0,or,5.6,32.0,7.0,12.0,2
-463,iPhone 5S - 16Go HDD - Or - 12 Mois + Pochette + Protège Ecran Offerts,Apple,125900.0,101.0,2.0,blanc et gris argent,4.7,64.0,7.0,12.0,1
-464,iPhone 6 - 64 Go HDD - Blanc Et Gris Argent - 6 Mois,Apple,200000.0,49.0,2.0,or,4.7,64.0,7.0,12.0,1
-465,iPhone 6S Plus 128Go HDD - Or - 12 Mois,Apple,325000.0,49.0,1.0,or,6.1,64.0,8.0,12.0,1
-466,Galaxy S6 Edge plus 32Go HDD - Or - Pochette + Protège Ecran Offert,Samsung,165000.0,49.0,2.0,argent,5.0,64.0,7.0,12.0,1
-467,iPhone 6 Plus 64Go HDD - Argent - 06 Mois,Apple,200000.0,49.0,3.0,blanc et gris argent,5.5,8.0,8.0,12.0,1
-468,iPhone 6S - 64 Go HDD - Blanc Et Gris Argent - 6 Mois,Apple,200000.0,49.0,3.0,or,5.0,4.0,7.0,12.0,1
-469,Galaxy S6 Edge Plus Dual SIM - 32Go HDD - Or - 05 Mois + Pochette + Protège Ecran Offert,Samsung,180000.0,49.0,2.0,noir,5.5,16.0,7.0,12.0,2
-470,S13 - 8Go HDD - 1GB RAM - Noir - 13 Mois,ITEL,54000.0,101.0,3.0,gris,4.7,64.0,7.0,12.0,1
-471,"Nura2 Reconditionné (sans carton d'origine) - 5,5"" - 16Go - 4G - Gris",Orange,56050.0,101.0,2.0,noir,5.1,32.0,7.0,12.0,1
-472,Dive 72 Reconditionné - 16Go HDD - Noir (Sans carton d'origine),Orange,61750.0,1001.0,1.0,noir et or,5.0,128.0,2.0,5.0,1
-473,"Galaxy A6 Dual SIM (2018) - 32Go HDD - 3Go RAM - 5,6"" plus Montre connecte gear fit- Noir",Samsung,247500.0,1001.0,1.0,noir,5.5,16.0,2.0,5.0,2
-474,Samsung Galaxy J4 Plus Dual SIM GSM - LTE - 32Go HDD - 2Go RAM - Noir Et Or + Ecouteur,Samsung,150000.0,1001.0,6.0,noir,5.7,64.0,5.0,8.0,2
-475,"Galaxy J6 Infinity - Dual SIM - 32Go HDD - 3Go RAM - 5,6"" + Montre connectée - Noir",Samsung,238500.0,1001.0,1.0,or,6.3,16.0,5.0,5.0,2
-476,iPhone 7 32Go HDD + Montre Connectée - Noir - 12 Mois,Apple,533700.0,1001.0,2.0,bleu,5.0,16.0,5.0,13.0,1
-477,Smart 2 Pro Dual SIM 16 Go HDD - 2 Go RAM - Or,Infinix,81000.0,1001.0,1.0,or et noir,5.5,32.0,13.0,13.0,2
-478,"Pouvoir 2 - Dual Sim - 16Go HDD - 2Go RAM - 6"" - Bleu - 12 Mois",Tecno,84000.0,1001.0,2.0,rouge et noir,5.0,8.0,8.0,12.0,2
-479,Camon X Dual SIM 32Go HDD - Or Et Noir - 12 Mois,Tecno,130000.0,1001.0,2.0,bleu,5.7,32.0,8.0,12.0,2
-480,"X608 Hot 6 Pro - Dual SIM - 32Go HDD - 3Go RAM - 6"" - Rouge Et Noir - 12 Mois",Infinix,100000.0,99.0,3.0,gris,5.5,64.0,1.2,8.0,2
-481,"Hot 6X - Dual SIM - 32Go HDD - 3Go RAM - 6,2"" - Bleu",Infinix,105000.0,9.0,2.0,rouge,4.0,64.0,5.0,16.0,2
-482,Camon CX Dual SIM 16 Go HDD - Gris -12 Mois,Tecno,110250.0,9.0,2.0,or,5.5,32.0,1.2,8.0,2
-483,"Galaxy J6 Plus Dual SIM - 32Go HDD - 3Go RAM - 6"" - Rouge - 12 Mois",Samsung,125000.0,1001.0,2.0,noir,6.0,64.0,16.0,16.0,2
-484,Samsung Galaxy J4 Plus Dual SIM - 32Go HDD - 2Go RAM - Or - 12 Months,Samsung,110000.0,1001.0,4.0,gris,5.1,32.0,5.0,12.0,2
-485,Samsung Galaxy J4 Plus Dual SIM - 32Go HDD - 2Go RAM - 13MP - Noir- 12 Mois,Samsung,110000.0,101.0,2.0,gris,6.2,16.0,8.0,12.0,2
-486,Galaxy J6 Plus Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Gris - 12 Mois,Samsung,115000.0,1001.0,6.0,gris,5.8,16.0,2.0,0.3,2
-487,"iPhone 6 - 32Go HDD - 1Go RAM - 4,7"" - Gris - 12 Mois",Apple,205800.0,49.0,2.0,noir,5.5,32.0,2.0,3.0,1
-488,G5 32Go HDD - Gris,LG,260000.0,10001.0,1.0,noir,6.2,32.0,2.0,5.0,1
-489,Nova 3i Dual SIM - 128Go - 4Go Ram- HDD - Noir - 3 Mois,Huawei,265500.0,10001.0,4.0,bleu,5.1,16.0,2.0,5.0,2
-490,Zenfone 4 Max - Dual Sim - 32Go HDD - 3Go RAM - Noir,ASUS,95500.0,10001.0,2.0,or,5.5,32.0,5.0,8.0,2
-491,Galaxy A6 Plus - Dual Sim - 64Go HDD - 4Go RAM - Bleu,Samsung,215500.0,1001.0,2.0,noir,5.1,32.0,0.3,8.0,2
-492,Galaxy A7 - Dual Sim - 64Go HDD - 4Go RAM - Or,Samsung,215500.0,99.0,2.0,blue,5.3,64.0,5.0,5.0,2
-493,Galaxy A6 Plus - Dual Sim - 64Go HDD - 4Go RAM - Noir,Samsung,215500.0,99.0,2.0,noir,5.7,128.0,5.0,5.0,2
-494,Galaxy A7 - Dual SIM - 64Go HDD - 4Go RAM - Bleu,Samsung,215500.0,99.0,4.0,white,0.0,128.0,5.0,13.0,2
-495,Core stilo Dual SIM - 8Go HDD - 1Go RAM - Noir - 24 Mois,Noa,35000.0,99.0,3.0,noir,5.7,8.0,5.0,8.0,2
-496,Galaxy J1 Ace Dual SIM 4Go HDD / 512 Mo Ram - Blanc,Samsung,55700.0,99.0,6.0,noir et gris,2.0,16.0,0.0,8.0,2
-497,Galaxy J4 Core (2018) Dual SIM 16Go HDD / 1Go Ram - Ecran 6 pouces - Noir,Samsung,77700.0,49.0,2.0,or,5.0,8.0,5.0,13.0,2
-498,"V20 4G LTE - Empreinte Digitale - 64Go HDD - 4Go RAM - 5,7"" - Noir Et Gris",LG,132450.0,49.0,2.0,aurore violet,6.0,128.0,5.0,13.0,1
-499,"Galaxy J4 Pus Dual SIM - 32Go HDD- 3 Go RAM - 6"" - Or- 3 Mois",Samsung,115000.0,49.0,4.0,noir,5.8,32.0,5.0,13.0,2
-500,Y9 Dual SIM - 128Go HDD - 4Go RAM - Aurore violet - 3 Mois,Huawei,220500.0,9.0,3.0,noir,6.0,32.0,8.0,13.0,2
-501,Galaxy S7 Edge 32Go HDD- 4Go RAM - Noir - 12 Mois + Pochette,Samsung,160000.0,9.0,3.0,marron,6.0,16.0,2.0,8.0,1
-502,"Galaxy J4 Core - 16Go HDD - 1Go RAM - 6,1"" - Noir",Samsung,88000.0,99.0,2.0,bleu,5.6,64.0,20.0,16.0,1
-503,Galaxy Note 9 - 64Go HDD - 6Go RAM - Marron - 24 Mois de Garantie,Samsung,740000.0,9.0,4.0,or,6.0,16.0,8.0,13.0,1
-504,Galaxy J4 Dual SIM - 16Go HDD - 2Go RAM - 13MP - Bleu - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,79900.0,99.0,4.0,nor,4.0,32.0,5.0,13.0,2
-505,Galaxy J4 Dual SIM - 16Go HDD - 2Go RAM - 13MP - Or - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,79900.0,99.0,4.0,beige et noir,6.0,16.0,16.0,16.0,2
-506,Galaxy J6 Dual SIM - 32Go HDD - 3Go RAM - 13MP - Noir - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,99900.0,101.0,1.0,blanc,5.7,64.0,5.0,16.0,2
-507,"Torque Ego Note 3G - 8Go HDD - 1Go RAM - 5,5"" - Beige Et Noir",TORQUE,37000.0,9.0,2.0,noir,5.1,8.0,8.0,16.0,1
-508,"Galaxy S6 - 32Go HDD - 3Go RAM - 5,1"" - Blanc",Samsung,135000.0,9.0,4.0,noir,0.0,16.0,13.0,13.0,1
-509,"Galaxy S6 - 32Go HDD - 3Go RAM - 5,1"" - Noir",Samsung,135000.0,9.0,6.0,noir,5.7,8.0,13.0,13.0,1
-510,"Galaxy S7 - 32Go HDD - 4Go RAM - 5,1"" - Noir",Samsung,160000.0,99.0,6.0,noir,5.7,64.0,5.0,16.0,1
-511,"Galaxy S7 Edge - 32Go HDD - RAM 4Go - 5,5"" - Noir",Samsung,250000.0,99.0,3.0,noir,5.7,16.0,13.0,13.0,1
-512,"Galaxy Note 8 - 64Go HDD - 6Go RAM - 6,3"" - Noir",Samsung,550000.0,99.0,3.0,noir,5.2,16.0,5.0,12.0,1
-513,Galaxy S7 Edge 32Go HDD - noir - 3 Mois,Samsung,175500.0,99.0,4.0,noir,5.5,16.0,5.0,12.0,1
-514,"Galaxy S6 Edge - 64 Go HDD - 3 Go RAM - 5,1'' - Noir",Samsung,150000.0,99.0,512.0,or,6.0,16.0,8.0,12.0,1
-515,"Galaxy S6 Edge Plus  - 32 Go HDD - 4 Go RAM - 5,7"" - Noir",Samsung,160000.0,99.0,3.0,noir,5.8,64.0,7.0,12.0,1
-516,iPhone 6S 64 Go HDD - Or + Pochette et Ecran de Protection,Apple,255000.0,101.0,4.0,or,0.0,64.0,7.0,12.0,1
-517,"Hot 6X - Dual SIM - 32Go HDD - 2Go RAM - 6,2"" - Noir",Infinix,128500.0,99.0,4.0,rouge,5.5,64.0,4.0,16.0,2
-518,Galaxy S7 Edge 32 Go HDD - Or,Samsung,179500.0,101.0,3.0,noir,5.5,16.0,4.0,16.0,1
-519,"Hot 6 - Dual SIM - 16Go HDD - 1Go RAM - 6"" - Rouge",Infinix,77000.0,49.0,1.0,noir,5.5,64.0,5.0,12.0,2
-520,"Hot 6X - Dual SIM - 16Go HDD - 2Go RAM - 6,2"" - Noir",Infinix,105850.0,49.0,4.0,noire,5.5,64.0,5.0,16.0,2
-521,"Note 5 - Dual SIM - 32Go HDD - 3Go RAM - 6"" - Noir - 12 Mois",Infinix,126000.0,99.0,4.0,noir,5.5,32.0,8.0,12.0,2
-522,"Note 4 Pro - Dual SIM - 32Go HDD - 3Go RAM - 5,7"" - Noir - 12 Mois",Infinix,135000.0,99.0,2.0,or,5.0,128.0,8.0,12.0,2
-523,"Y6 Prime (2018) -16Go HDD - 2Go RAM - 5,7"" - Noir",Huawei,140000.0,99.0,2.0,noir,6.0,16.0,8.0,12.0,1
-524,"Y7 Prime (2018) - Dual SIM - 32Go HDD - 3Go RAM - 5,9 - Or",Huawei,195000.0,9.0,4.0,gris et noir,6.0,32.0,7.0,12.0,2
-525,"Galaxy J6 (2018) - Dual SIM - 32Go HDD - 2Go RAM - 5,6"" - Noir",Samsung,135000.0,99.0,4.0,noir,5.0,32.0,16.0,16.0,2
-526,"iPhone 6 - 64Go HDD - 1Go RAM - 4,7"" - Gris Et Noir - 12 Mois",Apple,200000.0,99.0,1.0,bleu,5.1,32.0,7.0,12.0,1
-527,"iPhone 6 - 128Go HDD - 1Go RAM - 4,7"" - Noir - 12 Mois",Apple,300000.0,99.0,2.0,noir,5.5,16.0,7.0,12.0,1
-528,"P20 Pro - Dual SIM - 128Go HDD - 6Go RAM - 6,1"" - Bleu - 12 Mois",Huawei,650000.0,99.0,3.0,noir,5.5,32.0,7.0,12.0,2
-529,"Galaxy J2 Prime - 8Go HDD - 1,5Go RAM - 5"" - Noir",Samsung,78000.0,99.0,3.0,beige,5.2,64.0,4.0,16.0,1
-530,"Galaxy J4 Dual SIM 16Go HDD - 2Go RAM - 5,5"" - Noir",Samsung,90000.0,99.0,3.0,gris,5.5,64.0,7.0,12.0,2
-531,"Torque EGO NOTE 3G - 8Go HDD - 1Go RAM - 5,5"" - Beige",TORQUE,37000.0,99.0,3.0,rose or et blanc,6.0,128.0,5.0,16.0,1
-532,"iPhone 6s Plus - 128Go - 2Go RAM - 5,5"" - Gris - 6 Mois",Apple,242650.0,99.0,1.0,or,5.0,32.0,5.0,12.0,1
-533,"iPhone 7 - 32Go HDD - 2Go RAM - 4,7"" - Rose Or Et Blanc - 6 Mois",Apple,284750.0,99.0,4.0,noir,5.1,32.0,7.0,12.0,1
-534,"Galaxy S6 - 32Go HDD - 3Go RAM - 5,1"" - Or - 12 Mois + Pochette + Protège Ecran Offerts",Samsung,130000.0,99.0,1.0,or,5.7,64.0,7.0,12.0,1
-535,"G4 PLAY - Compatible CAMTEL Uniquement - 16Go HDD - 2Go RAM - 5"" - Noir",MOTOROLA,100000.0,99.0,4.0,noir,5.3,8.0,12.0,12.0,1
-536,Galaxy S6 32 Go HDD - Or,Samsung,129500.0,99.0,4.0,gris,5.2,32.0,7.0,12.0,1
-537,Galaxy S6 Edge 32 Go HDD - Noir,Samsung,175000.0,101.0,4.0,or,5.5,64.0,7.0,12.0,1
-538,iPhone 6S Plus 64Go HDD - Gris - 12 Mois + Pochette + Protège Ecran Offert,Apple,285500.0,49.0,2.0,or,5.5,32.0,7.0,12.0,1
-539,Galaxy S6 Edge 64 Go HDD - Or,Samsung,150000.0,99.0,3.0,gris,5.7,32.0,8.0,12.0,1
-540,Galaxy S6 Edge 32 Go HDD - Or,Samsung,138500.0,99.0,1.0,noir,6.0,16.0,5.0,13.0,1
-541,"R1 Plus - Double Puce - 16Go HDD - 2Go RAM - 5,5"" - Gris - 12 Mois",Blu,92500.0,99.0,1.0,gris argent,5.2,32.0,5.0,8.0,1
-542,"Galaxy S6 Edge Plus - 32 Go HDD - 4 Go RAM - 5,7"" - Noir",Samsung,160000.0,49.0,1.0,or,6.0,64.0,8.0,13.0,1
-543,"R2 Plus (2019) - 16Go HDD - 2Go RAM - 6,2"" - Gris Argent - 12 Mois",Blu,105500.0,99.0,2.0,noir,4.7,16.0,4.0,20.0,1
-544,Galaxy S7 32Go HDD - Or - 3 Mois,Samsung,125000.0,1001.0,4.0,or,5.5,32.0,5.0,16.0,1
-545,"Galaxy Note 8 - 64 Go HDD - 6 Go RAM - 6,3'' - Noir - 24 Mois",Samsung,330000.0,1001.0,4.0,noir,5.5,128.0,8.0,13.0,1
-546,"Galaxy S7 Edge - 32Go HDD - 4GB RAM - 5,5"" - Or",Samsung,179550.0,99.0,4.0,gris,5.8,64.0,20.0,16.0,1
-547,"F1 - Dual SIM - 8Go HDD - 512Mo RAM - 5"" - Noir - 12 Mois",Tecno,43800.0,99.0,4.0,or,4.7,16.0,2.0,13.0,2
-548,"iPhone 6S Plus - 16Go HDD - 2Go RAM - 5,5"" - Gris - 12 Mois + Pochette Et Ecran De Protection",Apple,200500.0,101.0,4.0,noir,6.2,64.0,8.0,13.0,1
-549,Galaxy Grand Prime Plus Dual SIM 8Go HDD - Or,Samsung,85000.0,99.0,4.0,gris,4.7,128.0,5.0,12.0,2
-550,"V20 - 64 Go HDD - 4Go RAM - 5,7"" - Noir",LG,135000.0,101.0,4.0,blanc,5.5,256.0,2.0,8.0,1
-551,iPhone 6S Plus 16Go HDD - Gris + Pochette Et Ecran de Protection - 12 Mois,Apple,210500.0,99.0,4.0,blanc,4.7,256.0,13.0,13.0,1
-552,Galaxy S3 - 16 Go HDD - Blanc,Samsung,63500.0,99.0,4.0,noir,6.0,32.0,8.0,13.0,1
-553,Galaxy S5 16Go HDD - Blanc - 3 Mois,Samsung,95600.0,99.0,1.0,noir,5.5,8.0,16.0,16.0,1
-554,"Galaxy J7 (2016) Dual SIM - 16 Go - 2 Go RAM - 5,5'' - Noir",Samsung,130000.0,99.0,1.0,noir,5.5,64.0,8.0,13.0,2
-555,"Redmi 5 Plus - Dual SIM - 64Go HDD - 4Go RAM - 5,99"" - Noir + Pochette + Protège Ecran",Xiaomi,145000.0,99.0,6.0,noir,5.5,8.0,13.0,13.0,2
-556,"Galaxy S6 Edge - 64 Go HDD - 3 Go RAM - 5,1'' - Black",Samsung,155000.0,99.0,1.0,noir,6.2,64.0,16.0,16.0,1
-557,"Galaxy S8 Plus - 64 Go HDD - 6 Go RAM - 6,2'' - Noir",Samsung,285000.0,99.0,1.0,noir,5.5,32.0,13.0,13.0,1
-558,"X Bot Champ - 32 Mo -  4Mo RAM - 2,4"" - Noir",X TOUCH,20000.0,99.0,2.0,gris,6.0,32.0,13.0,13.0,1
-559,"X - Double Puce - 16Go HDD - 2Go RAM - 5,8"" - Noir + Écouteurs + Ecran De Protection",X TOUCH,140000.0,99.0,2.0,noir,5.8,128.0,8.0,16.0,1
-560,iPhone 6S Plus 64Go HDD - Gris+ Pochette et Ecran de Protection - 12 Mois,Apple,280500.0,101.0,4.0,blanc,5.8,32.0,16.0,16.0,1
-561,"Galaxy S8 Plus - 64 Go HDD - 4Go RAM - 6,2'' - Noir",Samsung,288700.0,99.0,2.0,noir,5.8,8.0,5.0,13.0,1
-562,Galaxy S4 16Go HDD - Blanc - 3 Mois,Samsung,75000.0,99.0,6.0,or,6.5,7.0,8.0,12.0,1
-563,Galaxy S6 Edge 32Go HDD - Noir - 12 Mois,Samsung,135000.0,101.0,2.0,noir,5.8,16.0,8.0,12.0,1
-564,"Galaxy S7 Edge - 32Go HDD - 4Go RAM - 5,5"" - Or",Samsung,165900.0,99.0,2.0,noir,5.0,16.0,8.0,12.0,1
-565,"iPhone 7 Plus - 128Go HDD - 3Go RAM - 5,5"" - Noir",Apple,347900.0,99.0,3.0,gris,5.0,32.0,7.0,12.0,1
-566,Galaxy S5 16Go HDD - Noir - 3 Mois,Samsung,85000.0,49.0,2.0,or,5.0,32.0,13.0,21.0,1
-567,G5 - 32Go HDD - Gris - 12 Mois + Protège Ecran Offert,LG,110000.0,49.0,32.0,bleu,5.5,32.0,2.0,5.0,1
-568,Galaxy S6 Edge plus 32Go HDD - Or - 3 Mois,Samsung,164000.0,49.0,3.0,noir,5.5,32.0,2.0,5.0,1
-569,Galaxy S6 32Go HDD - Bleu - 3 Mois,Samsung,119500.0,49.0,3.0,blanc,6.0,32.0,5.0,5.0,1
-570,Galaxy S6 Edge plus 32Go HDD - noir,Samsung,165000.0,49.0,3.0,noir et jaune,5.7,32.0,13.0,8.0,1
-571,"SP4 Senior - 32Mo - 4Mo RAM - 2,2"" - Blanc",X TOUCH,15000.0,99.0,4.0,bleu,5.2,32.0,5.0,12.0,1
-572,"X Bot Swimmer - 32 Mo -  4Mo RAM - 2,4"" - Noir Et Jaune",X TOUCH,36000.0,49.0,3.0,or,5.2,64.0,5.0,16.0,1
-573,"NX - Dual SIM - 16Go HDD - 1Go RAM - 5"" - Bleu - 12 Mois",Tecno,62000.0,49.0,32.0,or,4.7,32.0,5.0,12.0,2
-574,Spark 2 Dual SIM 32 Go HDD + 2 Go RAM - Or - 12 Mois,Tecno,95000.0,101.0,3.0,blanc et or,5.5,16.0,5.0,16.0,2
-575,Vente Flash - Galaxy S8 64Go HDD - Or,Samsung,225000.0,49.0,4.0,violet,6.0,128.0,5.0,16.0,1
-576,Galaxy C9 Pro - 64 Go HDD - 6 Go RAM - 6'' - Blanc Et Or,Samsung,260000.0,49.0,3.0,noir,6.0,64.0,5.0,12.0,1
-577,Galaxy Note 9 - 128Go HDD - 6Go RAM - Violet - 12 Mois de Garantie,Samsung,700000.0,49.0,4.0,noir,5.0,16.0,5.0,16.0,1
-578,Galaxy S6 Edge 32Go HDD - noir - 3 Mois,Samsung,135000.0,49.0,4.0,or,6.3,28.0,5.0,16.0,1
-579,"Galaxy J6 Infinity - Dual SIM - 32Go HDD - 3Go RAM - 5,6"" - Noir",Samsung,142500.0,49.0,1.0,noir,4.0,128.0,0.0,13.0,2
-580,Galaxy Note 5 32 Go HDD - Or,Samsung,145250.0,49.0,1.0,or,4.0,64.0,8.0,12.0,1
-581,iPhone6 16 Go HDD - Noir,Apple,150570.0,49.0,1.0,or,5.0,64.0,5.0,13.0,1
-582,iPhone 6 16 Go HDD - Or,Apple,165700.0,1001.0,1.0,argent,5.0,64.0,5.0,13.0,1
-583,iPhone 6 64 Go HDD - Or,Apple,179500.0,99.0,1.0,blanc,5.5,64.0,8.0,12.0,1
-584,iPhone 6 16 Go HDD - Argent,Apple,180050.0,1001.0,1.0,or,5.0,64.0,8.0,12.0,1
-585,Galaxy S6 Edge 64 Go HDD - Blanc,Samsung,189320.0,99.0,4.0,noir,5.0,128.0,8.0,12.0,1
-586,Galaxy C7 32 Go HDD - Or,Samsung,189500.0,99.0,4.0,blanc,5.0,32.0,5.0,8.0,1
-587,iPhone 6+ 16 Go HDD - Noir,Apple,203250.0,99.0,4.0,noir,5.5,256.0,1.2,8.0,1
-588,Galaxy S8 64Go HDD - Blanc - 3 Mois,Samsung,220000.0,10001.0,1.0,blanc,4.5,128.0,2.0,5.0,1
-589,Galaxy A7 (2018) - Dual SIM - 64Go HDD - 4Go RAM - Noir - 6 Mois + Glace De Protection Offerte,Samsung,221255.0,99.0,4.0,or,6.0,128.0,8.0,12.0,2
-590,Galaxy S8 Dual SIM 64 Go HDD - Blanc,Samsung,270055.0,99.0,1.0,noir,5.0,128.0,8.0,12.0,2
-591,iPhone 6  Plus  128 Go HDD - Or,Apple,280000.0,99.0,6.0,or,5.0,64.0,8.0,12.0,1
-592,"A14 - Double Puce - 8Go HDD - 512 Mo RAM - 4"" - Noir - 12 Mois",ITEL,30000.0,99.0,6.0,or,5.4,64.0,16.0,16.0,1
-593,"Redmi 5 Plus - Dual SIM - 32Go HDD - 3Go RAM - 5,99"" - Or + Pochette + Protège Ecran",Xiaomi,130000.0,99.0,6.0,noir,4.7,64.0,5.0,8.0,2
-594,Galaxy A5 16 Go HDD - Or,Samsung,130100.0,49.0,6.0,or,5.0,512.0,5.0,13.0,1
-595,"V20 4G LTE - 64Go HDD - 4Go RAM - 5,7"" - Empreinte Digitale - Noir",LG,132450.0,101.0,1.0,blanc,5.0,256.0,5.0,8.0,1
-596,Galaxy S7 32 Go HDD - Or,Samsung,138000.0,99.0,512.0,blanc,5.8,512.0,5.0,16.0,1
-597,Galaxy S6 32Go HDD - Blanc - 3 Mois,Samsung,140000.0,99.0,1.0,blanc,6.0,256.0,13.0,13.0,1
-598,Galaxy S6 Edge 32Go HDD - Blanc - 3 Mois,Samsung,140000.0,99.0,1.0,or,5.7,8.0,13.0,13.0,1
-599,"iPhone 6 - 16Go HDD - 1Go RAM - 4,7"" -  Blanc Et Or",Apple,162350.0,99.0,1.0,or,6.0,16.0,5.0,8.0,1
-600,Galaxy S6 Edge+ 32 Go HDD - Or,Samsung,169000.0,99.0,1.0,noir,4.3,16.0,5.0,13.0,1
-601,Galaxy S6 Edge Plus 64Go HDD - Or,Samsung,175000.0,49.0,3.0,or,5.2,7.0,8.0,12.0,1
-602,Galaxy S7 Edge 32 Go HDD - Noir,Samsung,175000.0,99.0,2.0,or,4.7,16.0,5.0,8.0,1
-603,Galaxy A5 Édition 2016 16Go HDD - Or + Pochette + Ecran De Protection,Samsung,200000.0,99.0,2.0,noir,5.7,16.0,0.0,13.0,1
-604,Galaxy S7 Edge Dual SIM 32Go HDD - Or,Samsung,221500.0,99.0,1.0,noir,5.7,32.0,8.0,13.0,2
-605,"Galaxy A7 (2018) - Dual SIM - 128Go HDD - 4Go RAM - 6"" - Noir - 6 Mois",Samsung,242250.0,101.0,3.0,noir,6.0,32.0,8.0,13.0,2
-606,"Galaxy S8 - 64Go HDD - 4Go RAM - 5,8"" - Noir",Samsung,300000.0,101.0,2.0,or,5.1,32.0,0.0,8.0,1
-607,Galaxy S8+  Duos 64Go HDD - Noir,Samsung,301500.0,1001.0,2.0,or,6.0,16.0,2.0,5.0,1
-608,iPhone 6 Plus - 16Go HDD - Or - 1 Mois,Apple,396300.0,99.0,3.0,rouge,6.0,32.0,5.0,8.0,1
-609,iPhone 6s Plus 64Go HDD - Or,Apple,419500.0,49.0,2.0,or,6.0,64.0,2.0,5.0,1
-610,iPhone 7 Plus 128Go HDD - Rouge,Apple,450000.0,99.0,2.0,rouge,5.5,64.0,8.0,13.0,1
-611,iPhone 7 Plus 256Go HDD - Or,Apple,475000.0,49.0,1.0,or,0.0,128.0,1.0,8.0,1
-612,iPhone 7 Plus 256Go HDD - Rouge,Apple,499000.0,99.0,2.0,noir,5.5,128.0,5.0,13.0,1
-613,iPhone 7 Plus 32Go HDD - Or,Apple,513600.0,99.0,1.0,rose-noir - or,5.5,64.0,8.0,13.0,1
-614,Ivory Dual SIM 8 Go HDD - 1Go RAM - Noir - 12 Mois,Flash,33900.0,49.0,4.0,noir et argent,5.8,8.0,0.0,8.0,2
-615,"Redmi 6X - Compatible Tous Réseaux - 64Go HDD - 4Go RAM - 5,99"" - Or",Xiaomi,149000.0,49.0,4.0,blanc,5.0,8.0,8.0,13.0,1
-616,A2 XL Dual SIM 8Go HDD - Noir Et Argent,Alcatel,45000.0,49.0,4.0,noir,6.0,8.0,8.0,13.0,2
-617,Galaxy S6 32 Go HDD - Blanc,Samsung,125915.0,49.0,3.0,or,6.2,8.0,8.0,13.0,1
-618,Galaxy C5 32 Go HDD - Noir,Samsung,134395.0,101.0,4.0,blanc et or,4.7,8.0,8.0,13.0,1
-619,Galaxy S6 Edge 32Go HDD - Or - 3 Mois,Samsung,135000.0,101.0,4.0,noir,4.7,4.0,8.0,13.0,1
-620,Mi A2 Dual SIM - 64Go HDD - 4Go RAM - 20+12MP - Blanc Et Or + Pochette + Protège Ecran Offerts - 12 Mois,Xiaomi,139900.0,49.0,4.0,noir,5.0,8.0,5.0,12.0,2
-621,Galaxy A5 16 Go HDD - Noir,Samsung,140100.0,9.0,3.0,noir,5.0,16.0,5.0,5.0,1
-622,Galaxy S7 Dual SIM 32 Go HDD - Noir,Samsung,150000.0,49.0,4.0,or,4.7,16.0,0.0,13.0,2
-623,Galaxy S6 Edge 64 Go HDD - Noir,Samsung,155000.0,49.0,4.0,blanc,5.7,16.0,5.0,16.0,1
-624,Galaxy C5 32 Go HDD - Or,Samsung,159500.0,49.0,4.0,or,5.8,16.0,16.0,20.0,1
-625,Galaxy C7 32 Go HDD - Blanc,Samsung,170500.0,49.0,6.0,or,5.9,16.0,5.0,13.0,1
-626,Galaxy S7 Dual SIM 32Go HDD - Or - 12 Mois,Samsung,170630.0,49.0,3.0,noir,5.0,16.0,8.0,12.0,2
-627,iPhone 6 Plus 64 Go HDD - Or,Apple,179000.0,49.0,4.0,noir,6.2,8.0,5.0,16.0,1
-628,Galaxy S7 Edge Dual SIM 32 Go HDD - Noir,Samsung,185000.0,49.0,2.0,blanc,6.3,32.0,16.0,20.0,2
-629,Galaxy S7 Edge 32Go HDD - Noir,Samsung,185500.0,49.0,2.0,argent,6.3,16.0,8.0,13.0,1
-630,Galaxy S7 Edge 32 Go HDD - Blanc,Samsung,199500.0,9.0,3.0,or,6.1,16.0,5.0,8.0,1
-631,iPhone 6S 64 Go HDD - Argent,Apple,205000.0,49.0,3.0,blanc,5.5,16.0,,,1
-632,iPhone 6  Plus  16 Go HDD - Or,Apple,220000.0,99.0,2.0,argent,6.0,16.0,,,1
-633,iPhone 6 Plus 128 Go HDD 1 Go RAM - Blanc - 12 Mois,Apple,240000.0,9.0,4.0,noir,5.5,16.0,,,1
-634,iPhone 6+ 64 Go HDD - Argent,Apple,250000.0,49.0,4.0,or,5.5,4.0,,,1
-635,Galaxy S8 Dual SIM 64 Go HDD - Noir,Samsung,270555.0,49.0,4.0,noir,5.8,16.0,,,2
-636,iPhone 7 Plus 32Go HDD - Or - 12 Mois,Apple,425500.0,49.0,4.0,noir,5.2,64.0,,,1
-637,A506 8Go HDD - 1Go RAM - Noir,ZTE,45000.0,49.0,6.0,or,4.7,32.0,,,1
-638,F3(Pop¹) Dual SIM 8Go HDD - Noir - 12 Mois,Tecno,59300.0,49.0,6.0,or,6.0,32.0,,,2
-639,Hot 6 Dual SIM 16Go HDD - Or,Infinix,79000.0,49.0,6.0,blanc,5.8,64.0,,,2
-640,Galaxy A7 16 Go HDD - Or,Samsung,95000.0,49.0,6.0,or,5.8,32.0,,,1
-641,"Galaxy S4 - 16Go HDD - 2Go RAM - 5"" - Blanc + Ecran De Protection",Samsung,100000.0,9.0,3.0,ou,6.0,64.0,,,1
-642,"Galaxy S7 - 32 Go HDD - 4 Go RAM - 5,1'' - Or",Samsung,139500.0,10001.0,6.0,blanc,4.7,64.0,,,1
-643,Galaxy Note 5 32Go HDD - OR,Samsung,139555.0,9.0,3.0,blanc,4.7,64.0,,,1
-644,Galaxy Note 5 32 Go HDD - Blanc,Samsung,154400.0,10001.0,3.0,gris,5.8,32.0,,,1
-645,Galaxy S7 32 Go HDD - Blanc,Samsung,154820.0,101.0,3.0,blanc,5.8,32.0,,,1
-646,Galaxy S7 Edge 32Go HDD - Gris + Protège Ecran,Samsung,159000.0,101.0,3.0,gris,5.0,64.0,,,1
-647,"Galaxy S7 Edge - 32 Go HDD - 4 Go RAM - 5,5"" - Blanc",Samsung,159000.0,1001.0,2.0,noir,5.0,64.0,,,1
-648,G5 32Go HDD - Gris - 12 Mois + Protège Ecran,LG,160000.0,101.0,4.0,noir,5.0,128.0,,,1
-649,Galaxy C5 32Go HDD - Noir,Samsung,160000.0,101.0,2.0,noir,5.7,32.0,,,1
-650,"Galaxy S7 Edge - 32 Go HDD - RAM 4 Go - 5,5"" - Noir - 12 Mois + Pochette + Protège Ecran",Samsung,165000.0,101.0,3.0,noir,5.6,64.0,,,1
-651,Galaxy S7 Edge - 32 Go HDD - 4 Go RAM - Noir - 12 Mois + Pochette + Protège Ecran,Samsung,169900.0,1001.0,3.0,noir,5.9,32.0,,,1
-652,Galaxy C7 32Go HDD - Noir - 6 Mois,Samsung,180000.0,101.0,6.0,or,5.5,32.0,,,1
-653,Galaxy J8 64Go HDD - Noir + Thé Edmark Red Bubble Offert (20 Sachets),Samsung,213800.0,101.0,2.0,gris,5.5,32.0,,,1
-654,Galaxy C5 32Go HDD - Or,Samsung,230000.0,1001.0,2.0,or,5.0,32.0,,,1
-655,iPhone 6 Plus - 16Go HDD - Gris,Apple,250000.0,49.0,3.0,noir,5.7,32.0,,,1
-656,iPhone 6 128Go HDD - Or,Apple,250000.0,49.0,4.0,gris,4.7,32.0,,,1
-657,Galaxy C9 Pro 64Go HDD - Noir - 6 Mois,Samsung,250000.0,49.0,1.0,noir,6.0,128.0,,,1
-658,iPhone 6 Plus - 16Go HDD - Gris,Apple,250000.0,49.0,1.0,noir,5.7,64.0,,,1
-659,iPhone 6 128 Go HDD 1 Go RAM - Noir - 12 Mois,Apple,280000.0,1001.0,3.0,noir et gris,5.0,64.0,,,1
-660,iPhone 6 Plus 128 Go HDD 1 Go RAM - Noir - 12 Mois,Apple,320000.0,101.0,4.0,noir,5.5,64.0,,,1
-661,iPhone 6s Plus 64Go - 2Go RAM - 12MP - Noir Et Gris,Apple,320000.0,49.0,3.0,or,6.0,64.0,,,1
-662,Galaxy S8 Duos SM-G950FD - 64Go HDD - Noir - 12 Mois,Samsung,373350.0,101.0,3.0,noir,5.7,64.0,,,1
-663,iPhone 8 64Go HDD - Or,Apple,420000.0,101.0,2.0,noir,6.0,128.0,,,1
-664,"S9 Plus - 64Go HDD - 6Go RAM - 6,2"" - Noir - 12 Mois",Samsung,429000.0,101.0,4.0,noir,6.0,256.0,,,1
-665,iPhone 8 64Go HDD - Noir,Apple,442700.0,101.0,2.0,noir,5.7,64.0,,,1
-666,iPhone 7 128Go HDD - Noir - 12 Mois,Apple,475000.0,1001.0,4.0,or,5.7,256.0,,,1
-667,iPhone 7 Plus 32Go HDD - Noir,Apple,489500.0,101.0,2.0,noir,6.0,128.0,,,1
-668,iPhone 7 256Go HDD - Or - 6 Mois,Apple,500000.0,101.0,4.0,rouge,6.0,64.0,,,1
-669,Galaxy S9 - 32Go HDD - 4Go RAM - Noir,Samsung,539500.0,1001.0,4.0,or,5.5,32.0,,,1
-670,iPhone 7 Plus 128Go HDD - Rouge - 12 Mois,Apple,540000.0,1001.0,2.0,noir,5.8,32.0,,,1
-671,iPhone 7 Plus 128Go HDD - Or - 12 Mois,Apple,540000.0,1001.0,4.0,noir,5.6,128.0,,,1
-672,iPhone 7 Plus 128Go HDD - Noir - 12 Mois,Apple,550000.0,101.0,4.0,rouge,5.5,64.0,,,1
-673,Galaxy S8 Plus (DUOS) 64Go HDD - Noir,Samsung,560000.0,101.0,3.0,gris,5.8,64.0,,,1
-674,iPhone 8 Plus - 64Go HDD - Rouge,Apple,589500.0,1001.0,4.0,argent,6.2,64.0,,,1
-675,Galaxy S9 Plus - 32Go HDD - 6Go RAM - Gris,Samsung,595000.0,1001.0,4.0,blanc,5.5,128.0,,,1
-676,iPhone X 64Go HDD - Argent,Apple,790000.0,99.0,4.0,gris,6.5,128.0,,,1
-677,"iPhone XS - 512 Go HDD - 4 Go RAM - 5,8'' - Blanc",Apple,896000.0,99.0,4.0,gris sidéral,5.0,128.0,,,1
-678,iPhone X 256Go HDD - 3Go RAM - 12MP - Gris - 12 Mois + Pochette + Protège Ecran Offerts,Apple,979900.0,1001.0,4.0,or,5.0,256.0,,,1
-679,iPhone XS Max 512Go HDD - 4Go RAM - Gris Sidéral,Apple,980000.0,99.0,4.0,rose or,5.0,64.0,,,1
-680,iPhone XS 256Go HDD - Or,Apple,999900.0,99.0,4.0,or,5.0,8.0,,,1
-681,A32F Dual SIM 8Go HDD - Rose Or - 12 Mois,ITEL,49900.0,1001.0,4.0,noir,6.0,8.0,,,2
-682,"V15 - Double Puce - 16Go - 1Go RAM - 5"" - Or - 12 Mois",X-tigi,52000.0,1001.0,3.0,bleu,6.4,32.0,,,1
-683,PIXI 4 Plus Power 16Go HDD - Noir,Alcatel,54000.0,9.0,2.0,noir,5.5,64.0,,,1
-684,F3(Pop¹) Dual SIM 8Go HDD - Bleu - 12 Mois,Tecno,59500.0,1001.0,4.0,or,5.5,32.0,,,2
-685,F3(Pop¹) Pro - Dual SIM - 16Go HDD - Noir - 12 Mois,Tecno,65500.0,101.0,6.0,or,5.7,32.0,,,2
-686,"S33 - 16Go HDD - 1Go RAM - 6"" - Or - 12 Mois",ITEL,69500.0,99.0,6.0,bleu,5.5,32.0,,,1
-687,Galaxy J7 Max Dual SIM - 32Go HDD - 4Go RAM - Or - 3 Mois,Samsung,140000.0,10001.0,3.0,bleu,5.1,32.0,,,2
-688,P10 Lite Dual SIM 64Go HDD - Bleu- 12 Mois,Huawei,161000.0,101.0,4.0,gris sidéral,5.7,16.0,,,2
-689,P10 Lite Dual SIM 32Go HDD - Bleu - 12 Mois + Edmark Shake Off Offert (20 Sachets),Huawei,169000.0,1001.0,3.0,or,5.7,32.0,,,2
-690,iPhone 6 16 Go HDD -  Gris Sidéral,Apple,170000.0,1001.0,1.0,or,6.2,16.0,,,1
-691,Galaxy S6 Edge Plus - 32Go HDD - RAM 4Go - Or + Protège Ecran,Samsung,215000.0,99.0,1.0,or,5.8,64.0,,,1
-692,iPhone 5S 64 Go HDD - Or - 12 Mois,Apple,220000.0,101.0,1.0,rose or,5.0,32.0,,,1
-693,Galaxy C9 Pro 64Go HDD - Or,Samsung,250000.0,101.0,1.0,noir,6.2,32.0,,,1
-694,"iPhone 6S - 64 Go HDD - 2 Go RAM - 4,7"" - Rose Or",Apple,270000.0,1001.0,4.0,noir,6.2,64.0,,,1
-695,"Galaxy A9 (2018) - 128Go HDD - 6Go RAM 6"" - Noir - 6 Mois",Samsung,295000.0,1001.0,1.0,noir,5.8,64.0,,,1
-696,"P10+ -128Go HDD - 6Go RAM - 5,5"" - Noir",Huawei,305000.0,49.0,4.0,bleu,5.0,32.0,,,1
-697,Galaxy Note 8 64Go HDD - Noir,Samsung,337000.0,1001.0,4.0,bleu,6.2,64.0,,,1
-698,A14 - 8GB HDD - Bleu,ITEL,27400.0,1001.0,4.0,blanc,5.0,64.0,,,1
-699,A11 Dual SIM 8Go HDD - Bleu - 13 Mois,ITEL,30500.0,1001.0,4.0,noir,5.7,32.0,,,2
-700,V10 Dual SIM 8 Go HHD - Blanc - 13 Mois,X-tigi,33000.0,1001.0,4.0,noir et gris,6.0,32.0,,,2
-701,IT P12 Dual SIM 8Go HDD - Noir,ITEL,46800.0,99.0,4.0,blanc,4.0,64.0,,,2
-702,A5002 Dual SIM 8 Go HDD - Noir Et Gris - 12 Mois,Fero,47000.0,101.0,2.0,bleu,5.0,64.0,,,2
-703,V9 4 Go HDD - Blanc,VSUN,54400.0,9.0,4.0,noir,6.0,64.0,,,1
-704,P32 Dual SIM 8Go HDD - 1 Go RAM - Bleu - 13 Mois,ITEL,54900.0,9.0,2.0,bleu,6.0,64.0,,,2
-705,X-tigi V18 Dual SIM 16Go HDD + B310 Dual SIM - Noir - 12 Mois,X-tigi,56500.0,9.0,4.0,noir,6.0,32.0,,,2
-706,F3(Pop¹) Pro Dual SIM 16Go HDD - Bleu- 12 Mois,Tecno,64000.0,9.0,6.0,noir,6.2,16.0,,,2
-707,Core 2 - Noir,Samsung,70600.0,49.0,4.0,rose or,5.8,64.0,,,1
-708,Hot 6 Dual SIM 16Go HDD - Noir,Infinix,79000.0,49.0,6.0,or,5.6,64.0,,,2
-709,Royale X1 Dual SIM 16Go HDD - Rose Or - 12 Mois,Fero,83000.0,9.0,3.0,bleu,6.0,64.0,,,2
-710,XT1762 Moto E4 Dual Sim 16 Go HDD - Or - 6 mois,MOTOROLA,85100.0,9.0,6.0,noir,5.5,256.0,,,2
-711,Y5 Prime 2018 Dual SIM 16Go HDD - Bleu - 12 Mois + Edmark Café73 Offert (20 Sachets),Huawei,86500.0,9.0,2.0,or et blanc,5.2,64.0,,,2
-712,L9 II - 8Go HDD - 1Go RAM - Noir,LG,86600.0,101.0,3.0,blanc,5.2,32.0,,,1
-713,One A9s - 32Go HDD - 3Go RAM - Or Et Blanc,HTC,90000.0,9.0,4.0,blanc,5.5,8.0,,,1
-714,Galaxy A7 16 Go HDD - Blanc,Samsung,90000.0,49.0,4.0,noir,5.7,16.0,,,1
-715,Galaxy A5 16 Go HDD - Blanc,Samsung,95000.0,101.0,1.0,noir,5.7,16.0,,,1
-716,562 Dual SIM 32Go HDD - Noir - 12 Mois,TCL,95000.0,101.0,1.0,noir,6.2,16.0,,,2
-717,X Bot Junior -16Go - Noir,X TOUCH,100000.0,101.0,4.0,or,6.0,128.0,,,1
-718,X-Touch X Dual SIM - 16Go HDD - Noir + écouteurs et Ecran De Protection,X TOUCH,101000.0,9.0,4.0,or,5.5,16.0,,,2
-719,Camon X Dual SIM 16Go HDD - Or -12 Mois,Tecno,110000.0,9.0,4.0,noir,6.0,32.0,,,2
-720,Y6 Prime 2018 Dual SIM 16Go HDD - Or - 12 Mois + Edmark Bubble C Offert (20 Sachets),Huawei,115000.0,10001.0,4.0,blanc,5.9,32.0,,,2
-721,"L9 Plus - Dual SIM - 16Go HDD - 2Go RAM - 6"" - Noir + W2 8Go HDD Dual SIM",Tecno,135950.0,9.0,4.0,or,6.3,32.0,,,2
-722,Desire 500 4Go HDD - Blanc,HTC,140400.0,1001.0,3.0,or,5.0,32.0,,,1
-723,Galaxy A5 Edition 2016 16Go HDD - Or,Samsung,145000.0,9.0,1.0,blanc,5.0,32.0,,,1
-724,Galaxy S6 Edge Plus 32Go HDD - Or - 12 Mois,Samsung,150000.0,1001.0,3.0,gris,5.0,32.0,,,1
-725,Galaxy C5 32 Go HDD - Blanc,Samsung,155000.0,9.0,4.0,or,6.2,32.0,,,1
-726,iPhone 6 64Go HDD - Gris - 12 Mois + Pochette + Protège Ecran Offerts,Apple,159900.0,101.0,2.0,or,6.2,64.0,,,1
-727,Galaxy J7 Max Dual SIM 32Go HDD - Or + Edmark Café Ginseng Offert - 12 Mois,Samsung,162000.0,1001.0,4.0,noir,5.9,16.0,,,2
-728,"Galaxy J7 Max - Dual SIM - 32Go HDD - 4Go RAM - 5,7"" - Or - 12 Mois + Café Edmark Ginseng",Samsung,167000.0,1001.0,4.0,blanc,6.0,64.0,,,2
-729,Galaxy J8 - 32Go HDD - Noir + Thé Edmark Red Bubble Offert,Samsung,170000.0,9.0,4.0,or,4.7,64.0,,,1
-730,Galaxy S6 Edge 32 Go HDD - Blanc,Samsung,170500.0,1001.0,4.0,noir,6.4,64.0,,,1
-731,Galaxy S6 32Go HDD - RAM 3Go - Or - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,180000.0,101.0,6.0,bleu,6.0,128.0,,,1
-732,Mate10  Lite - DUAL SIM -64Go HDD - 4Go Ram - Noir - 6 Mois,Huawei,180500.0,1001.0,4.0,noir,6.0,32.0,,,2
-733,Huawei Ascend Mate 10 Lite Dual SIM 64 Go HDD - Bleu - 12 Mois,Huawei,182000.0,1001.0,3.0,noir,5.9,64.0,,,2
-734,Galaxy J6 Plus (2018) - 64 Go HDD - 4 Go RAM - 6'' - Noir + Pochette,Samsung,185000.0,10001.0,4.0,bleu,6.7,16.0,,,1
-735,Galaxy J7 Pro 32Go HDD - Noir + Pochette,Samsung,185500.0,1001.0,4.0,or,6.3,32.0,,,1
-736,Galaxy S7 Edge 32Go HDD - Bleu - 3 Mois,Samsung,195000.0,101.0,4.0,bleu,6.0,64.0,,,1
-737,Galaxy S7 Edge 32Go HDD - Or - 3 Mois,Samsung,198500.0,101.0,1.0,noir,3.5,64.0,,,1
-738,Nova 2 Plus 64Go HDD - 4Go RAM - Bleu + Edmark Shake Off Offert (20 sachets),Huawei,208650.0,101.0,1.0,bleu,4.0,16.0,,,1
-739,Nova 3E - 64Go HDD - 4Go Ram - Noir + Edmark Shake Off Offert (12 Sachets),Huawei,226000.0,10001.0,2.0,noir,5.5,8.0,,,1
-740,Honor 9 Dual SIM 128Go HDD - 6Go RAM - Bleu - 12 Mois,Huawei,250000.0,101.0,6.0,or,6.1,64.0,,,2
-741,X Bot Senior - 32 Go HDD - 3Go RAM - Noir,X TOUCH,250000.0,101.0,4.0,noir,5.0,64.0,,,1
-742,Galaxy S8 Plus 64Go HDD - Or,Samsung,300000.0,1001.0,4.0,rose or,5.7,128.0,,,1
-743,iPhone 7 32Go HDD - Noir - 12 Mois,Apple,303000.0,101.0,1.0,blanc,6.1,64.0,,,1
-744,iPhone 7 32Go HDD - Rose Or - 12 Mois,Apple,303000.0,1001.0,2.0,noir,5.0,64.0,,,1
-745,"Mi 5 - Dual SIM - 32Go HDD - 3Go RAM - 5,15"" - Blanc",Xiaomi,309200.0,101.0,4.0,gris,6.4,32.0,,,2
-746,"Mi 5 - Dual SIM - 32 Go HDD - 3Go RAM - 5,15"" - Noir",Xiaomi,309200.0,1001.0,2.0,or,6.0,16.0,,,2
-747,iPhone 6S - 32Go - RAM 2Go - 12MP - Gris,Apple,310000.0,1001.0,1.0,noir,6.2,32.0,,,1
-748,Galaxy Note 5 32 Go HDD 4 Go RAM - Or - 12 Mois,Samsung,320000.0,101.0,4.0,or,5.5,16.0,,,1
-749,"P20 - 128 Go HDD - 4Go RAM - 5,8"" - Noir",Huawei,348000.0,101.0,6.0,noir,5.5,16.0,,,1
-750,"Mate 10 Lite - Dual SIM - 64Go HDD - 4Go RAM - 5,9"" - Or - 12 Mois",Huawei,350000.0,1001.0,4.0,violet lilas,6.0,64.0,,,2
-751,Galaxy S9 Dual SIM - 64Go HDD - 4Go RAM - Noir + Pochette Intelligente Antichoc - 24 Mois de Garantie,Samsung,387300.0,1001.0,6.0,noir,6.0,64.0,,,2
-752,Galaxy S9Plus - 64Go HDD - Violet lilas - 6 Mois,Samsung,400000.0,1001.0,6.0,noir,6.0,64.0,,,1
-753,"Galaxy Note 8 - 64Go HDD - 6Go RAM - 6,3"" - Noir - 24 Mois",Samsung,418900.0,1001.0,1.0,twilight,6.0,32.0,,,1
-754,"Galaxy Note 8 - 64Go HDD - 6 Go RAM - 6,3'' - Noir - 24 Mois",Samsung,421600.0,1001.0,4.0,noir,6.0,64.0,,,1
-755,P20 Pro - 128 Go HDD - 6Go Ram - Twilight + Edmark Shake Off Offert (12 Sachets),Huawei,440000.0,1001.0,1.0,or,5.5,64.0,,,1
-756,"iPhone 8 Plus - 256 Go HDD - 3 Go RAM - 5,5'' - Noir",Apple,470000.0,1001.0,4.0,noir,5.5,32.0,,,1
-757,Galaxy C9 Pro 64Go HDD - Or - 6 Mois,Samsung,482300.0,1001.0,1.0,or,5.0,64.0,,,1
-758,iPhone 7 Plus 256Go HDD - Noir,Apple,485000.0,1001.0,6.0,gris,5.5,64.0,,,1
-759,iPhone 8 Plus 64Go HDD - Or,Apple,485000.0,1001.0,3.0,or,6.2,64.0,,,1
-760,iPhone X 64Go HDD - 3Go RAM - 12MP - Gris - 12 Mois + Pochette + Protège Ecran Offerts,Apple,494900.0,1001.0,6.0,or,6.4,16.0,,,1
-761,"Mi 5 - Dual SIM - 32Go HDD - 3Go RAM - 5,2"" - Or",Xiaomi,499500.0,1001.0,1.0,noir,5.9,16.0,,,2
-762,iPhone 7 32Go HDD - Or - 12 Mois,Apple,539500.0,1001.0,3.0,gris,6.5,16.0,,,1
-763,"Mi Mix - Dual SIM - 128Go HDD - 4Go RAM - 6"" - Noir",Xiaomi,559700.0,1001.0,1.0,gris,6.4,64.0,,,2
-764,iPhone 6S 64Go HDD - Gris - 12 Mois,Apple,563000.0,1001.0,2.0,noir,5.9,64.0,,,1
-765,iPhone X 64Go HDD - 3Go RAM - 12MP - Gris,Apple,579500.0,49.0,1.0,bleu,6.4,64.0,,,1
-766,iPhone X 64Go HDD - Noir,Apple,586150.0,1001.0,1.0,rouge,6.0,16.0,,,1
-767,"Galaxy Note 9 - 128Go HDD - 6Go RAM - 6,4"" - Bleu - 24 Mois",Samsung,599000.0,1001.0,1.0,noir de jais,5.8,16.0,,,1
-768,iPhone 7 128Go HDD - Rouge - 6 Mois,Apple,600000.0,1001.0,1.0,noir,6.4,64.0,,,1
-769,iPhone 7 128Go HDD - Noir De Jais - 12 Mois,Apple,621100.0,1001.0,2.0,gris,5.0,16.0,,,1
-770,iPhone X 256Go HDD - Noir,Apple,646200.0,99.0,2.0,noir,5.5,16.0,,,1
-771,Galaxy S9 SM-G960 Dual Sim - 64Go HDD - Gris - 12 Mois,Samsung,700000.0,49.0,2.0,noir et blanc,,64.0,,,2
-772,Desire 626  8Go HDD - Noir,HTC,55000.0,99.0,4.0,or,,128.0,,,1
-773,Geek V975 Dual SIM 8Go HDD -  Noir Et Blanc - 6 mois,ZTE,65000.0,101.0,4.0,or,,64.0,,,2
-774,562 Dual SIM 32Go HDD - Or - 12 Mois,TCL,85000.0,9.0,1.0,noir,,128.0,,,2
-775,One M9 32Go HDD - Or - 3 Mois,HTC,90000.0,9.0,2.0,noir,,64.0,,,1
-776,V20 4G LTE - 64Go HDD - 4Go RAM - 16MP - Empreinte digitale - Noir - 12 Mois + Pochette + Protège Ecran Offerts,LG,110900.0,9.0,3.0,bleu,,8.0,,,1
-777,Galaxy J6 Dual SIM 32Go HDD - Noir,Samsung,115000.0,9.0,4.0,noir,,64.0,,,2
-778,Camon X Dual SIM - 32Go HDD - 12 Mois - Bleu,Tecno,125000.0,9.0,4.0,gris,,16.0,,,2
-779,OT Idol X+ Dual SIM 16Go HDD - Noir,Alcatel,130000.0,9.0,4.0,bleu,,8.0,,,2
-780,One Touch Idol 3 32Go HDD - Gris,Alcatel,130000.0,9.0,4.0,noir,,64.0,,,1
-781,Galaxy S7 Edge 32Go HDD - 4Go RAM - Bleu - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,154900.0,101.0,4.0,noir,,16.0,,,1
-782,Z30 16 Go HDD - Noir - 12 Mois,Blackberry,160900.0,99.0,2.0,or,,128.0,,,1
-783,Galaxy J7 Max Dual SIM 32Go HDD - Noir + Edmark Café Ginseng Offert  - 12 Mois,Samsung,162000.0,1001.0,1.0,or,,8.0,,,2
-784,Galaxy A3 Edition 2017 Dual SIM 16Go HDD - Or - 6 Mois,Samsung,166700.0,100001.0,4.0,bleu,,32.0,,,2
-785,Galaxy J8 64Go HDD - Or + Edmark Red Bubble Tea Offert (20 Sachets),Samsung,170000.0,9.0,4.0,noir et gris,,128.0,,,1
-786,Galaxy A5 Edition 2017 32Go HDD - Bleu,Samsung,179800.0,9.0,8.0,noir,,8.0,,,1
-787,One Touch Idol 3 Dual SIM 16Go HDD - Noir + Samsung GT-E1205Y 32Mo ROM - 4Mo RAM - Gris,Alcatel,182500.0,9.0,2.0,gris,,64.0,,,2
-788,"Galaxy J7 Max - Dual SIM - 32Go HDD - 4Go RAM - 5,7'' - Noir",Samsung,185000.0,101.0,1.0,or,,8.0,,,2
-789,One M8 32Go HDD - Gris,HTC,188800.0,1001.0,,noir,,32.0,,,1
-790,Nova 2 Plus 64Go HDD - 4Go Ram - Or + Edmark Shake Off Offert (12 sachets),Huawei,190000.0,1001.0,,noir,,8.0,,,1
-791,Mate 10 Lite 64Go HDD - 4Go Ram - Noir - 12 Mois + Edmark Shake Off Offert (12 Sachets),Huawei,195000.0,1001.0,,or,,8.0,,,1
-792,Galaxy A7 Dual SIM Edition 2017 32Go HDD - Noir - 6 Mois,Samsung,195000.0,1001.0,,noir,,16.0,,,2
-793,Galaxy J8 (2018) - Dual SIM - 64 Go HDD - 4 Go RAM - 6'' - Or + Pochette,Samsung,200500.0,1001.0,,or,,16.0,,,2
-794,Galaxy J8 (2018) - Dual SIM - 64 Go HDD - 4 Go RAM - 6'' + Pochette - Noir,Samsung,200500.0,1001.0,,noir,,16.0,,,2
-795,"Galaxy J7 Max - Dual SIM - 32Go HDD - 4Go RAM - 5,7"" + Pochette - Or",Samsung,205000.0,9.0,,or,,16.0,,,2
-796,"Galaxy J7 Max - Dual SIM - 32Go HDD - 4Go RAM - 5,7"" + Pochette - Noir",Samsung,205000.0,1001.0,,noir,,16.0,,,2
-797,Galaxy J8 (2018) - Dual SIM - 64 Go HDD - 4 Go RAM - 6'' - Or + Pochette,Samsung,220500.0,1001.0,,bleu,,64.0,,,2
-798,Galaxy J8 (2018) - 64Go HDD - Noir + Pochette,Samsung,220500.0,1001.0,,bleu,,32.0,,,1
-799,Nokia 8 Dual SIM 64Go HDD - Bleu + Pochette + Ecran de protection,Nokia,225000.0,1001.0,,or,,16.0,,,2
-800,Nova 3E - 64Go HDD - 4Go Ram - Bleu + Edmark Shake Off Offert (12 Sachets),Huawei,226000.0,1001.0,,noir,,8.0,,,1
-801,Galaxy A6 Edition 2018 32Go HDD - Or,Samsung,230000.0,1001.0,,gris,,32.0,,,1
-802,Galaxy A7 Dual SIM 16 Go HDD - Noir - 24 Mois,Samsung,279200.0,49.0,,noir,,64.0,,,2
-803,Galaxy S8 DUOS 64Go HDD - Gris - 12 Mois,Samsung,319000.0,101.0,,rose,,64.0,,,1
-804,Galaxy Note 8 Duos 64Go HDD - Noir 24Mois,Samsung,370000.0,1001.0,,noir,,64.0,,,1
-805,Galaxy S9 Plus 64Go HDD - Rose - 24 Mois,Samsung,459000.0,1001.0,,noir,,128.0,,,1
-806,iPhone 8 Plus 256Go HDD - Noir,Apple,510000.0,1001.0,,noir,,64.0,,,1
-807,"iPhone XS Max - 64 Go HDD - 4 GB RAM - 6,5"" - Noir",Apple,815000.0,1001.0,,or,,128.0,,,1
-808,Kodak Ektra - 32 Go HDD - 3 Go Ram - Noir,KODAK,62500.0,1001.0,,noir et  or,,16.0,,,1
-809,V11 8Go HDD Dual SIM - Or,X-tigi,35000.0,1001.0,,gris,,8.0,,,2
-810,"V15 Dual Sim - 16Go HDD - 1GB RAM - 5"" - Noir Et Or - 12 Mois + Carte Mémoire 16GB",X-tigi,35400.0,1001.0,,rouge,,64.0,,,2
-811,V18 Pro Dual SIM - 16Go HDD - 1 Go RAM - Gris - 12 Mois,X-tigi,45000.0,101.0,,noir,,32.0,,,2
-812,"Hot 6 - Dual SIM - 16Go HDD - 1Go RAM - 6"" - Rouge",Infinix,76400.0,1001.0,,rose or,,128.0,,,2
-813,Galaxy A50 Dual SIM - 128Go HDD - 4Go RAM - 25+8+5MP - Noir - 12 Mois,Samsung,243000.0,1001.0,,noir,,16.0,,,2
-814,Smart 2 Dual SIM 16 Go HDD - 1 Go RAM - Rose Or,Infinix,68000.0,1001.0,,noir,,16.0,,,2
-815,Galaxy S7 Edge 32Go HDD - RAM 4Go - Noir - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,179900.0,1001.0,,noir,,,,,1
-816,Galaxy S6 Edge Plus - 32 Go HDD - Or - 12 Mois + Pochette + Protège Ecran Offert,Samsung,165600.0,1001.0,,noir,,,,,1
-817,Galaxy S7 Edge 32Go HDD - Noir - 12 Mois + Pochette + Protège Ecran Offert,Samsung,170000.0,1001.0,,noir,,,,,1
-818,Galaxy S6 32 Go HDD - Blanc - 12 Mois + Pochette + Protège Ecran Offert,Samsung,120000.0,1001.0,,noir,,,,,1
-819,Galaxy S6 Edge 32 Go HDD - Noir - 12 Mois + Pochette + Protège Ecran Offert,Samsung,135000.0,1001.0,,noir,,,,,1
-820,Galaxy S7 32 Go HDD - Noir - 12 Mois + Pochette + Protège Ecran Offert,Samsung,140000.0,1001.0,,or,,,,,1
-821,Galaxy S6 Edge Plus 32 Go HDD - Noir - 12 Mois + Pochette + Protège Ecran Offert,Samsung,166600.0,9.0,,noir,,,,,1
-822,Galaxy S6 Edge Plus Dual SIM 32Go HDD - Or - 12 Mois + Pochette + Protège Ecran Offert,Samsung,179000.0,49.0,,noir,,,,,2
-823,Galaxy A10 Dual Sim - 32Go HDD - 2Go RAM - 13MP - Noir - 24 Mois de Garantie,Samsung,98000.0,1001.0,,blanc,,,,,2
-824,Galaxy S8 64Go HDD - Noir,Samsung,235000.0,101.0,,noir,,,,,1
-825,A3 Dual SIM 16Go HDD - Blanc - 12 Mois,Alcatel,69900.0,49.0,,or,,,,,2
-826,Galaxy A7 Dual SIM 16 Go HDD - Noir - 6 Mois,Samsung,120000.0,1001.0,,noir,,,,,2
-827,Galaxy S8 Plus 64 Go HDD - Or - 12 Mois + Pochette + Protège Ecran Offert,Samsung,288900.0,1001.0,,or,,,,,1
-828,Galaxy S8 Plus 64 Go HDD - Noir - 12 Mois + Pochette + Protège Ecran Offert,Samsung,285000.0,1001.0,,bleu,,,,,1
-829,Vente Flash - Galaxy S8 64Go HDD - Or,Samsung,250600.0,101.0,,bleu,,,,,1
-830,Honor 9 Dual SIM 128Go HDD - 6Go RAM - Bleu - 12 Mois,Huawei,250000.0,1001.0,,noir,,,,,2
-831,"Honor 8C - 32 Go HDD - 3 Go RAM - 6,26'' - Bleu - 12 Mois",Huawei,145000.0,10001.0,,noir,,,,,1
-832,Lenovo S5 Pro Double Puce 64Go HDD - 6Go RAM - 12+20MP - Noir + Pochette Offert - 12 Mois,Lenovo,160000.0,10001.0,,bleu,,,,,1
-833,Galaxy J2 Pro Dual SIM - 16 Go HDD - 1.5 Go RAM - Noir,Samsung,85000.0,101.0,,noir,,,,,2
-834,"K5 Play Dual SIM - 32 Go HDD - 3 Go RAM - 5,7"" - Bleu - 12 Mois",Lenovo,85000.0,10001.0,,or,,,,,2
-835,Galaxy M20 Dual SIM - 64Go HDD - 4Go RAM - 13+5MP - Noir - 12 Mois  + Protège Ecran Offert,Samsung,190000.0,101.0,,gris argent,,,,,2
-836,Galaxy A7 (2018) - Dual SIM - 64Go HDD - 4Go RAM - Or - 6 Mois,Samsung,235000.0,1001.0,,noir,,,,,2
-837,iPhone 5S 16 Go HDD - 1 Go RAM - 4'' - Gris Argent,Apple,89500.0,1001.0,,rouge,,,,,1
-838,Ivory Dual SIM - 8Go HDD - 1Go RAM - Noir - 12 Mois,Flash,43500.0,49.0,,bleu,,,,,2
-839,Galaxy J6 Plus (2018) - 64 GB HDD - 4 GB RAM - 6'' + Pochette - Rouge,Samsung,185000.0,9.0,,bleu,,,,,1
-840,Galaxy A7 (2018) - Dual SIM - 64Go HDD - 4Go RAM - Bleu - 6 Mois,Samsung,250000.0,101.0,,or,,,,,2
-841,"Galaxy A7 (2018) - Dual SIM - 128Go HDD - 4Go RAM - 6"" - Bleu - 6 Mois",Samsung,275000.0,99.0,,or,,,,,2
-842,Galaxy S8 - 64Go HDD - Or - 12 Mois,Samsung,285000.0,9.0,,noir,,,,,1
-843,Galaxy S8 Plus Duos - 64Go HDD - Or,Samsung,340000.0,101.0,,noir,,,,,1
-844,"Galaxy S9 SM-G960 - 64Go HDD - 4Go RAM - 5,8"" - Noir - 24 Mois",Samsung,400000.0,1001.0,,noir,,,,,1
-845,"Galaxy A6 Dual SIM (2018) - 32Go HDD - 3Go RAM - 5,6"" - Noir + Glace De Protection",Samsung,161500.0,101.0,,gris,,,,,2
-846,"Alcatel OT9001D - Dual SIM - 16 Go HDD - 1,5 Go RAM - 6"" - Noir - 12 Mois",Alcatel,65000.0,1001.0,,noir,,,,,2
-847,TCL 562 Dual SIM 32Go HDD - Gris - 12 Mois,TCL,70000.0,101.0,,gris,,,,,2
-848,Alcatel A5 Dual SIM 16Go HDD - Noir - 12 Mois,Alcatel,85000.0,101.0,,bleu,,,,,2
-849,A5 Dual SIM 16Go HDD - Gris - 12 Mois,Alcatel,85000.0,101.0,,rose,,,,,2
-850,"Mix - Dual SIM - 64Go HDD - 4Go RAM - 5,5"" - Bleu + Pochette - 12 Mois",ULEFONE,95000.0,101.0,,blanc et or,,,,,2
-851,V20 64Go HDD - 4Go RAM - Empreinte digitale - Rose,LG,120000.0,101.0,,noir,,,,,1
-852,"Redmi Note 5 - Dual SIM - 64 Go HDD - RAM 4 Go - 5,99'' - Blanc Et Or",Xiaomi,135000.0,101.0,,noir,,,,,2
-853,Galaxy J7 Max Dual SIM 32Go HDD - Noir - 24 Mois,Samsung,162000.0,101.0,,bleu,,,,,2
-854,"Redmi Note 6 Pro - Dual SIM - 64 Go HDD - 6 Go RAM - 6,26'' - Noir + Pochette + - 12 Mois",Xiaomi,165000.0,9.0,,noir,,,,,2
-855,Galaxy J8 - Dual Sim - 64 Go HDD - 4 Go RAM - 6'' - Bleu,Samsung,185000.0,101.0,,bleu,,,,,2
-856,Galaxy J7 Pro 32Go HDD - Noir,Samsung,195000.0,101.0,,or,,,,,1
-857,Galaxy J8 Dual SIM 32Go HDD - Bleu,Samsung,225000.0,1001.0,,bleu,,,,,2
-858,"Redmi Note 5 - Dual SIM - 64Go HDD - 4Go RAM - 5,99"" - Or",Xiaomi,230000.0,1001.0,,bleu,,,,,2
-859,Nova 3I 128Go HDD - Bleu,Huawei,255000.0,1001.0,,noir,,,,,1
-860,NX Dual SIM 16Go HDD - Bleu - 12 Mois + Forfait Internet Offert,Tecno,59900.0,1001.0,,noir,,,,,2
-861,1X - 16Go HDD - Noir - 12 Mois + Forfait Internet Offert,Alcatel,70900.0,1001.0,,noir,,,,,1
-862,A3 Dual SIM - 16Go HDD - Noir - 12 Mois,Alcatel,69900.0,1001.0,,noir,,,,,2
-863,Galaxy S8 Plus 64 Go HDD - Noir - 12 Mois + Pochette + Protège Ecran Offert,Samsung,285000.0,1001.0,,noir,,,,,1
-864,Camon 11 K Dual SIM - 64Go HDD - 4Go RAM - Noir,Tecno,139500.0,101.0,,black,,,,,2
-865,"Lenovo K5 Pro - Dual Sim - 64 Go HDD - 4 Go RAM - 5,99'' - Noir",Lenovo,135000.0,101.0,,or et bleu,,,,,2
-866,Blitzwolf BW-BTS1 Sport Bluetooth Earphone Headphone IPX4 Waterproof Magnetic Adsorption With Mic,BlitzWolf,12157.0,49.0,,noir,,,,,1
-867,P33 PLUS - 5000Mah - 16Go HDD - 1Go RAM - Or Et Bleu,ITEL,59300.0,49.0,,noir,,,,,1
-868,One E8 - 16Go HDD - 2Go RAM - Noir,HTC,63800.0,49.0,,noir,,,,,1
-869,Galaxy A30 - 64Go HDD - 4Go RAM - Noir - 3 Mois,Samsung,150500.0,1001.0,,noir,,,,,1
-870,Spark 2 Dual SIM 16 Go HDD - 2 Go RAM - Noir - 12 Mois,Tecno,69200.0,101.0,,noir,,,,,2
-871,Spark 2 Dual SIM 16 Go HDD - 1 Go RAM - Noir - 12 Mois,Tecno,76500.0,,,noir,,,,,2
-872,Samsung Galaxy A40 - 64Go  4GB Ram HDD - Noir,Samsung,195500.0,,,beige,,,,,1
-873,Galaxy A70 Dual SIM - 128Go HDD - 6Go RAM - 32+8+5MP - Noir - 12 Mois,Samsung,320000.0,,,noir,,,,,2
-874,Colorful Carrying Storage Bag Case For Earphone Cable,Universal,1039.0,,,noir,,,,,1
-875,S5 Double Puce 64Go HDD - 4Go RAM - 13+13MP - Noir + Pochette Offerte - 12 Mois,Lenovo,100000.0,,,noir,,,,,1
-876,K5 Pro Dual SIM 128Go HDD - 6Go RAM - 16+5MP - Noir - 12 Mois,Lenovo,159000.0,,,rouge,,,,,2
-877,Galaxy Note 8 - 64 Go HDD - 6 Go RAM - Noir - 24 Mois + Pochette + Protège Ecran Offerts,Samsung,298000.0,,,noir,,,,,1
-878,Nokia Lumia 1320 Reconditionné sans carton d'origine - 8Go - Rouge,Nokia,59500.0,,,blanc,,,,,1
-879,Mi 8 Lite Dual SIM 64Go HDD - 4Go RAM - Noir + Pochette Offert - 12 Mois de Garantie,Xiaomi,174900.0,,,or,,,,,2
-880,"iPhone 4S - 16Go HDD - 512Mo - 3,5"" - Blanc - 12 Mois + Pochette + Protège Ecran",Apple,43500.0,,,noir,,,,,1
-881,Flash Dual SIM 8 Go HDD - Or - 12 Mois,Flash,26900.0,,,bleu,,,,,2
-882,"MI 8 Lite - Dual SIM - 64 Go HDD - RAM 4 Go - 6,26'' - Noir + Pochette + Glace De Protection",Xiaomi,165000.0,,,bleu,,,,,2
-883,P33 Dual SIM 16Go HDD - 1Go RAM - Bleu,ITEL,58500.0,,,or,,,,,2
-884,P20 Pro - 128 Go HDD - 6Go Ram - Bleu,Huawei,433000.0,,,noir,,,,,1
-885,A16 Dual SIM 8Go HDD - 512 Mo RAM - Or - 13 Mois,ITEL,41000.0,,,noir,,,,,2
-886,Note 4 Pro Dual SIM 32Go HDD - Noir - 12 Mois,Infinix,130000.0,,,noir,,,,,2
-887,P20 Pro - 128 Go HDD - 6Go Ram - Noir,Huawei,433900.0,,,bleu,,,,,1
-888,Microsoft Lumia 640 - 8Go HDD - 1Go RAM - Noir (Reconditionné - Sans carton d'origine),Microsoft,45500.0,,,noir,,,,,1
-889,Galaxy A20 Dual SIM 64Go HDD - 3Go RAM - Bleu - 6 Mois,Samsung,135000.0,,,or,,,,,2
-890,Nokia Lumia 1320 - 8Go HDD - 4G (sans carton d'origine) - Noir,Nokia,59500.0,,,bleu,,,,,1
-891,"Hot 7 Pro Dual Sim - 6,2"" - 32 Go HDD - 2 Go RAM - Or",Infinix,89000.0,,,or,,,,,2
-892,"Pop 2 - Dual Sim - 5,5"" - 8Go HDD - 1Go RAM - Bleu",Tecno,54500.0,,,noir et or,,,,,2
-893,"Pop 2 - Dual Sim - 5,5"" - 8Go HDD - 1Go RAM - Or",Tecno,54500.0,,,bordeaux,,,,,2
-894,Spark 2 Dual SIM - 16 Go HDD - Noir Et Or - 12 Mois,Tecno,75300.0,,,noir,,,,,2
-895,Spark 2 Dual SIM 16 Go HDD - 1 Go RAM - Bordeaux - 12 Mois,Tecno,82700.0,,,noir,,,,,2
-896,Spark 2 Dual SIM 16 Go HDD - 2 Go RAM - Noir - 12 Mois,Tecno,82700.0,,,bleu et blanc,,,,,2
-897,Spark 2 Dual SIM - 16 Go HDD -  2Go RAM - Noir - 12 Mois,Tecno,82300.0,,,noir,,,,,2
-898,Spark 2 Dual SIM - 16 Go HDD - 2 Go RAM - Bleu Et Blanc - 12 Mois,Tecno,82700.0,,,or,,,,,2
-899,CRYSTAL Dual SIM 64Go HDD - 4Go RAM - 13+5MP - 12 Mois,UMIDIGI,195000.0,,,gris,,,,,2
-900,Galaxy S7 Edge 32Go HDD - 4Go RAM - Or - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,250500.0,,,noir,,,,,1
-901,V18 Pro Dual SIM 16Go HDD -RAM 1 Go -Gris - 12 Mois,X-tigi,35300.0,,,bleu,,,,,2
-902,P13 Dual SIM 8Go HDD - 512 Mo RAM - Noir - 13 Mois,ITEL,45700.0,,,noir,,,,,2
-903,Galaxy A10 Dual Sim - 32Go HDD - 2Go RAM - 13MP - Bleu - 24 Mois,Samsung,98900.0,,,noir,,,,,2
-904,Galaxy A30 Dual SIM 64Go HDD - 3Go RAM - Noir - 6 Mois,Samsung,175000.0,,,phantom bleu,,,,,2
-905,Galaxy A40 - 64Go HDD - 4GB RAM - Noir,Samsung,195000.0,,,noir,,,,,1
-906,Honor 8X -Dual Sim - 64Go HDD - 4Go RAM - Phantom Bleu - 6 Mois,Huawei,220000.0,,,bleu,,,,,2
-907,Galaxy A50 Dual SIM - 128Go HDD - 4Go RAM - 25+8+5MP - Noir - 12 Mois,Samsung,240000.0,,,noir,,,,,2
-908,Mate 10 Lite Dual SIM - 64Go HDD - 4Go RAM - Bleu - 3 Mois,Huawei,205000.0,,,noir,,,,,2
-909,Galaxy A50 - 128Go HDD - 4GB RAM - Noir,Samsung,240500.0,,,black,,,,,1
-910,ULEFONE S8 Pro Dual SIM 16Go HDD - Noir,ULEFONE,66500.0,,,noir,,,,,2
-911,ROCK 360 Degree Rotation Qi Wireless Car Charger Phone Holder With LED Indicator For IPhone X S8,Rock,13223.0,,,noir,,,,,1
-912,"Pixi4  - 8 Go HDD - 1 Go RAM - 6"" - Noir",Alcatel,53000.0,,,noir,,,,,1
-913,"Galaxy S8 - 64Go HDD - 4GB RAM - 5.8"" - Noir",Samsung,320600.0,,,bleu,,,,,1
-914,Galaxy Note5 - 32Go HDD -Noir,Samsung,125800.0,,,gris,,,,,1
-915,"Find X - Dual SIM - 128Go - 8Go RAM - 6,42"" - Bleu",Oppo,505800.0,,,or,,,,,2
-916,Blade V7 Lite Dual SIM 16Go HDD - 2 Go Ram - Gris  - 12 Mois,ZTE,59900.0,,,,,,,,2
-917,"OK-Smart18 - Dual SIM - 16Go HDD - 1 Go RAM - 5,5"" - Or - 12 Mois",Oking,36800.0,,,,,,,,2
+name,seller,price,number-of-items-sold,ram,rom,screen-size,color,front-camera,rear-camera,number_of_sims
+Spark Dual SIM - 8Go HDD - 1Go RAM - Noir - 12 Mois De Garantie,Xtouch,32100.0,99.0,1.0,8.0,5.0,noir,2.0,5.0,2
+iPhone 4S - 16Go HDD - Noir - 12 Mois,Apple,47900.0,10001.0,1.0,16.0,3.5,noir,0.0,8.0,1
+"Hot 7 Dual Sim - 6,2"" - 16 Go HDD - 1 Go RAM - Or",Infinix,61500.0,1001.0,1.0,16.0,6.2,or,8.0,13.0,2
+Rise 31 Dual SIM 8Go HDD - Bleu + 1 Carte SIM et 1 Forfait Internet Offerts,Orange,24900.0,1001.0,1.0,8.0,4.0,bleu,8.0,13.0,2
+"Hot 7 Dual SIM - 6,2"" - 16 Go HDD - 1 Go RAM - Noir",Infinix,61500.0,1001.0,1.0,16.0,6.2,noir,8.0,13.0,2
+Spark 2 Dual SIM  16 Go HDD + 1Go RAM - Rouge - 12 Mois,Tecno,63700.0,1001.0,2.0,16.0,6.0,rouge,8.0,13.0,2
+"S503 Dual SIM - 16Go HDD - 2Go RAM - 5,5"" - Noir - 12 Mois",SIMI,45000.0,1001.0,1.0,16.0,5.0,noir,13.0,8.0,2
+"Redmi Go - Dual SIM - 8Go HDD - 1Go RAM - 5"" - Noir",Xiaomi,41500.0,1001.0,1.0,8.0,5.0,noir,8.0,13.0,2
+Smart 2 Dual SIM 16 Go HDD - Or - 12 Mois,Infinix,58600.0,1001.0,2.0,16.0,5.5,or,5.0,13.0,2
+Spark 2 Dual SIM 16 Go HDD + 2 Go RAM - Noir - 12 Mois,Tecno,70600.0,1001.0,2.0,16.0,6.0,noir,0.3,2.0,2
+"Redmi 6A Dual SIM - 16 Go HDD - 2Go RAM - 5,45"" - Or",Xiaomi,56800.0,1001.0,3.0,16.0,5.4,or,5.0,5.0,2
+Camon 11 Dual SIM - 32 Go HDD - Noir - 12 Mois,Tecno,109000.0,1001.0,1.0,32.0,6.2,noir,7.0,12.0,2
+Rise 53 Dual SIM 8Go HDD - Noir - 12 Mois + Forfait Internet Offert,Orange,34900.0,1001.0,1.0,8.0,5.0,noir,5.0,8.0,2
+Desire 610 - 8Go HDD - 1Go RAM - Noir,HTC,31200.0,101.0,1.0,8.0,4.7,noir,0.3,0.3,1
+"V5 Dual SIM - 8 Go HDD - 1 Go RAM - 5"" - Noir",X-tigi,23800.0,1001.0,3.0,8.0,4.0,noir,2.0,13.0,2
+Lenovo K5 Play Dual SIM 32Go HDD 3Go RAM - 13+2MP - Noir + Pochette Offert - 12 Mois de Garantie,Lenovo,74900.0,10001.0,3.0,32.0,5.7,noir,5.0,16.0,2
+Lenovo A5 Dual SIM 16Go HDD - 3Go RAM - 13MP - Noir  - 12 Mois,Lenovo,59900.0,10001.0,1.0,16.0,5.8,noir,2.0,13.0,2
+OK-LX6 Dual SIM 4Go HDD - 1Go RAM - 12 Mois - Blanc Et Or,Oking,28900.0,101.0,4.0,4.0,6.0,blanc et or,7.0,12.0,2
+"iPhone XS - 256 Go HDD - 4 Go RAM - 5,8'' - Or",Apple,1800000.0,101.0,4.0,256.0,5.5,or,7.0,12.0,1
+K5 Note Dual SIM 64Go HDD - 4Go RAM - 16+2MP - Noir - 12 Mois de Garantie,Lenovo,109900.0,10001.0,1.0,64.0,3.0,noir,0.3,2.0,2
+"OK-Smart18 - Dual SIM - 16Go HDD - 1 Go RAM - 5,5"" - Rouge - 12 Mois",Oking,36500.0,101.0,4.0,16.0,6.0,rouge,0.3,2.0,2
+Lenovo S5 Dual Sim - 64Go HDD - 4Go RAM - 13+13MP - Noir + Pochette Offert - 12 Mois de Garantie,Lenovo,94900.0,10001.0,3.0,64.0,5.7,noir,7.0,12.0,2
+"S301 Dual SIM 3.5"" - 4Go HDD - 512Mo RAM - Noir  - 12 Mois",SIMI,17500.0,99.0,3.0,4.0,5.0,noir,8.0,13.0,2
+Galaxy J6 Plus  2018 - 32 Go HDD - 3 Go RAM - 6'' - Gris,Samsung,106200.0,101.0,2.0,32.0,5.8,gris,7.0,12.0,1
+"Galaxy S4 - 16Go HDD - 2Go RAM - 5"" - Blanc",Samsung,51000.0,101.0,4.0,32.0,5.8,blanc,7.0,12.0,1
+"Galaxy S6 Edge - 32Go HDD - RAM 3Go - 5,7"" - Or - 12 Mois + Pochette + Protège Ecran Offerts",Samsung,117000.0,101.0,4.0,16.0,6.4,or,17.0,12.0,1
+"Galaxy S4 - 16Go HDD - 2Go RAM - 5"" - Noir",Samsung,51000.0,101.0,8.0,256.0,6.0,noir,7.0,12.0,1
+iPhone XS Max 256Go HDD - Blanc,Apple,850000.0,101.0,4.0,64.0,4.0,blanc,8.0,12.0,1
+iPhone XS 64Go HDD - Or,Apple,780000.0,101.0,4.0,128.0,4.0,or,5.0,12.0,1
+Galaxy S10 Plus - 128Go HDD - 8Go RAM - 16+12+12MP - Noir - 24 Mois de Garantie,Samsung,679900.0,10001.0,1.0,64.0,5.8,noir,5.0,8.0,1
+K5 Note Dual SIM 64Go HDD - 4Go RAM - 16+2MP - Or - 12 Mois de Garantie,Lenovo,99900.0,10001.0,3.0,8.0,5.5,or,10.0,16.0,2
+Y2 Dual SIM 8Go HDD - Noir - 12 Mois,Tecno,35000.0,1001.0,2.0,64.0,5.5,noir,7.0,12.0,2
+Lenovo K5 Pro Dual SIM 64Go HDD - 4Go RAM - 16+5MP - Noir - 12 Mois,Lenovo,119900.0,10001.0,3.0,8.0,5.8,noir,8.0,12.0,2
+"V5 Dual SIM - 8Go HDD - 1 Go RAM - 5"" - Bleu",X-tigi,23800.0,1001.0,4.0,256.0,4.0,bleu,1.2,8.0,2
+iPhone X 256Go HDD - Noir,Apple,650000.0,101.0,3.0,16.0,6.2,noir,5.0,16.0,1
+Simi S503 Dual SIM - 5.5 pouces - 3G - 13MP/8MP - 16Go/2Go - Android 6.0 - Noir  - 12 Mois,SIMI,43900.0,99.0,1.0,256.0,5.8,noir,0.0,13.0,2
+iPhone 8 Plus 256Go HDD - Rouge,Apple,550000.0,101.0,6.0,64.0,5.8,rouge,8.0,12.0,1
+Redmi Note 7 Dual SIM 64Go HDD - 4Go RAM - 48+5MP - Noir + Pochette Offert - 12 Mois de Garantie,Xiaomi,184900.0,10001.0,3.0,256.0,6.2,noir,7.0,12.0,2
+iPhone X 256Go HDD - 3Go RAM - 12MP - Argent - 12 Mois + Pochette + Protège Ecran Offerts,Apple,979900.0,10001.0,3.0,8.0,6.0,gris,8.0,13.0,1
+ZTE A110 - 8 Go - 1 Go RAM - 4'' - Noir,ZTE,25000.0,1001.0,6.0,64.0,6.0,noir,5.0,16.0,1
+"Camon 11 Pro - Dual SIM - 64Go HDD - 6Go RAM - 6,2"" - Noir",Tecno,164000.0,99.0,3.0,128.0,6.0,noir,8.0,13.0,2
+iPhone XR - 128 Go HDD - 3 Go RAM - Rouge,Apple,520000.0,49.0,1.0,64.0,6.1,rouge,13.0,21.0,1
+iPhone X 64Go HDD - 3Go RAM - 12MP - Gris,Apple,579500.0,10001.0,1.0,64.0,5.8,gris,8.0,13.0,1
+"Galaxy S9 Plus - 64Go HDD - 6Go RAM - 6,2"" - Noir - 12 Mois",Samsung,396000.0,101.0,3.0,32.0,6.2,noir,0.0,8.0,1
+Galaxy J6 Plus Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Rouge - 12 Mois + Pochette Et Protège Ecran Offerts,Samsung,104900.0,49.0,8.0,16.0,4.0,rouge,5.0,13.0,2
+Vente Flash - Galaxy S7 Edge 32Go HDD - 4Go RAM - Or + Pochette,Samsung,159000.0,101.0,3.0,16.0,5.1,or,1.2,8.0,1
+Spark 3 Dual SIM - 16Go HDD - 1Go RAM - Noir - 12 Mois,Tecno,75900.0,10001.0,6.0,32.0,6.2,noir,5.0,8.0,2
+Galaxy J4 Core Dual SIM 16Go HDD - 1Go RAM - Noir,Samsung,72500.0,101.0,1.0,128.0,5.8,noir,5.0,5.0,2
+Galaxy M10 Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Bleu - 12 Mois de Garantie,Samsung,114000.0,10001.0,3.0,64.0,5.8,bleu,8.0,12.0,2
+"Galaxy S10 - 128Go HDD - 8Go RAM - 6,1"" - Blanc",Samsung,560000.0,49.0,2.0,256.0,6.2,blanc,8.0,12.0,1
+iPhone X 64Go HDD - 3Go RAM - 12MP - Argent - 12 Mois + Pochette + Protège Ecran Offerts,Apple,494900.0,10001.0,4.0,32.0,5.1,argent,7.0,12.0,1
+Galaxy S9 Plus SM-G965 - 256Go HDD - Noir - 12 mois,Samsung,415000.0,49.0,4.0,32.0,5.6,noir,5.0,16.0,1
+iPhone 5 32Go HDD - Blanc - 12 Mois + Pochette + Protège Ecran  Offerts,Apple,79900.0,10001.0,3.0,32.0,5.0,blanc,8.0,12.0,1
+Galaxy S6 - 32Go HDD - RAM 3Go - Blanc - 12 Mois,Samsung,135000.0,101.0,2.0,64.0,6.2,blanc,5.0,5.0,1
+Galaxy A10 Dual Sim - 32Go HDD - 2Go RAM - 13MP - Noir - 24 Mois de Garantie,Samsung,99900.0,10001.0,3.0,64.0,3.5,noir,8.0,12.0,2
+Galaxy S8 64Go HDD- 4Go RAM- 5.8' - Noir + Pochette,Samsung,220000.0,49.0,3.0,64.0,6.0,noir,5.0,12.0,1
+Redmi 6 Pro - Dual SIM - 64Go HDD - 4Go RAM - 12+5MP - Or + Pochette Offert - 12 Mois de Garantie,Xiaomi,114900.0,49.0,3.0,32.0,6.0,noir et or,8.0,13.0,2
+"iPhone X - 64 Go HDD - 3 Go RAM - 5,8"" - Noir - 12 Mois",Apple,500000.0,10001.0,2.0,32.0,5.5,noir,5.0,12.0,1
+"Hot 7 Pro Dual Sim - 6,2"" - 32 Go HDD - 2 Go RAM - Noir",Infinix,88900.0,10001.0,2.0,32.0,5.5,noir,16.0,12.0,2
+Galaxy S6 Edge - 32Go HDD - RAM 3Go - Or - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,124900.0,1001.0,3.0,32.0,5.0,or,7.0,12.0,1
+Galaxy J6 Dual SIM - 32Go HDD - 3Go RAM - 13MP - Bleu - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,99900.0,49.0,1.0,32.0,6.2,bleu,0.3,2.0,2
+Kodak Ektra - 32 Go HDD - 3 Go Ram - Noir,KODAK,49900.0,101.0,6.0,16.0,6.2,noir,5.0,13.0,1
+"Hot 7 Pro Dual Sim - 6,2"" - 32 Go HDD - 2 Go RAM - Voilet",Infinix,89000.0,10001.0,1.0,32.0,4.7,voilet,8.0,13.0,2
+"iPhone 4S - 16Go HDD - 512Mo RAM - 3,5"" - Noir - 12 Mois + Pochette + Protège Ecran",Apple,43000.0,101.0,4.0,32.0,5.7,noir,1.2,8.0,1
+Samsung Galaxy J4 Plus Dual SIM - 32Go HDD - 2Go RAM - 13MP - Noir - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,89900.0,10001.0,1.0,64.0,5.8,noir,8.0,13.0,2
+Galaxy J6 Plus Dual SIM 2018 - 32 Go HDD - 3 Go RAM - 6'' - Rouge,Samsung,106200.0,10001.0,4.0,128.0,5.5,rouge,5.0,8.0,2
+iPhone 6 Plus - 64Go HDD - Or - 12 Mois + Pochette + Protège Ecran Offerts,Apple,174900.0,101.0,6.0,16.0,6.0,or,8.0,16.0,1
+Mi 8 Lite Dual SIM 128Go HDD - 6Go RAM - Noir + Pochette Offert - 12 Mois de Garantie,Xiaomi,189900.0,10001.0,2.0,128.0,6.2,noir,5.0,16.0,2
+"OK-Smart18 - Dual SIM - 16Go HDD - 1 Go RAM - 5,5"" - Or - 12 Mois",Oking,36900.0,1001.0,1.0,16.0,5.5,or,5.0,16.0,2
+Redmi Note 7 Dual SIM 128Go HDD - 4Go RAM - 48+5MP - Noir + Pochette  Offert - 12 Mois de Garantie,Xiaomi,199900.0,10001.0,4.0,64.0,6.3,noir,5.0,13.0,2
+V18 Pro Dual SIM 16Go HDD -RAM 1 Go -Gris - 12 Mois,X-tigi,36450.0,99.0,4.0,64.0,6.4,gris,8.0,13.0,2
+"Galaxy S8 Plus - 64Go HDD - 4Go RAM - 6,2"" - Or - 12 Mois + Pochette + Protège Ecran Offerts",Samsung,249900.0,49.0,6.0,128.0,6.0,or,16.0,16.0,1
+"Galaxy S8 Plus - 64 Go HDD - 6 Go RAM - 6,2'' - Or",Samsung,255000.0,101.0,1.0,4.0,5.5,or,5.0,12.0,1
+"iPhone 7 - 128Go HDD - 2Go RAM - 4,7"" - Rouge - 6 Mois",Apple,240000.0,49.0,2.0,64.0,4.5,rouge,5.0,8.0,1
+Galaxy S6 Edge 32 Go HDD - Noir + Pochette Et Ecran de Protection - 12 Mois,Samsung,117000.0,101.0,6.0,32.0,5.0,noir,8.0,13.0,1
+Galaxy S8 Plus 64Go HDD - Or - 12 Mois,Samsung,249000.0,99.0,4.0,128.0,6.2,or,13.0,8.0,1
+OK-LX6 Dual SIM - 4Go - 1Go RAM - Rose - 12 Mois,Oking,28900.0,49.0,3.0,16.0,6.2,rose,5.0,16.0,2
+Galaxy S8 64Go HDD - Noir,Samsung,235000.0,10001.0,3.0,128.0,6.2,noir,0.0,5.0,1
+Galaxy S7 Edge 32Go HDD - Or,Samsung,170000.0,1001.0,4.0,128.0,2.0,or,5.0,13.0,1
+Mi A2 Dual SIM - 128Go HDD - 6Go RAM - 20+12MP - Blanc Et Or + Pochette + Protège Ecran Offerts - 12 Mois,Xiaomi,179900.0,9.0,1.0,128.0,4.0,blanc et or,13.0,20.0,2
+"Hot 7 Dual SIM - 6,2"" - 16 Go HDD - 1 Go RAM - Noir",Infinix,61500.0,101.0,1.0,32.0,6.0,noir,0.0,8.0,2
+"iPhone 6s Plus - 128Go - 2Go RAM - 5,5"" - Gris - 6 Mois",Apple,242650.0,101.0,3.0,64.0,5.7,gris,13.0,8.0,1
+"Galaxy A9 2018 Dual SIM - 128Go HDD - 6Go RAM - 6.3"" - Bleu",Samsung,235000.0,1001.0,6.0,64.0,6.0,bleu,13.0,20.0,2
+Galaxy A50 - 128Go HDD - RAM 4Go - DUAL SIM - Noir - 6 Mois,Samsung,211500.0,49.0,1.0,16.0,5.0,noir,8.0,13.0,2
+Note 5 Dual SIM 32 Go HDD - Bleu,Infinix,119000.0,10001.0,2.0,16.0,6.2,bleu,2.0,16.0,2
+iPhone 8 Plus 64Go HDD - Noir,Apple,650000.0,101.0,4.0,32.0,6.0,noir,20.0,16.0,1
+Redmi 6 Pro Dual SIM - 64Go HDD - 4Go RAM - 12+5MP - Noir + Pochette Offert - 12 Mois de Garantie,Xiaomi,119900.0,10001.0,4.0,64.0,4.0,noir,5.0,12.0,2
+"Moto G 16 Go HDD - 1Go Ram - 4,5'' - Noir",MOTOROLA,35000.0,99.0,3.0,16.0,6.2,noir,5.0,5.0,1
+E2C Dual SIM - 16Go HDD - Or - 12 Mois de Garantie,COOLPAD,39900.0,101.0,2.0,16.0,6.0,or,0.0,8.0,2
+Camon 11 Dual SIM - 32 Go HDD - Noir - 12 Mois,Tecno,105000.0,101.0,2.0,8.0,4.7,noir,5.0,5.0,2
+"Camon 11 Pro - Dual SIM - 64Go HDD - 6Go RAM - 6,2"" - Noir - 12 Mois",Tecno,163000.0,10001.0,1.0,64.0,5.9,noir,0.0,8.0,2
+Spark 3 Dual SIM - 16Go HDD - 1Go RAM - Noir - 12 Mois,Tecno,71800.0,101.0,3.0,32.0,6.3,noir,5.0,8.0,2
+E561 Dual SIM - 16Go HDD - 2Go RAM - Marron + Pochette Offert - 12 Mois de Garantie,COOLPAD,42900.0,10001.0,4.0,32.0,5.6,marron,16.0,20.0,2
+A11 Dual SIM 8Go HDD - 512 Mo - Or - 13 Mois,ITEL,24500.0,10001.0,6.0,16.0,5.0,or,16.0,16.0,2
+"Redmi 5 Plus - Dual SIM - 64Go HDD - 4Go RAM - 6"" - Noir + Pochette Offert - 12 Mois de Garantie",Xiaomi,104900.0,10001.0,1.0,16.0,5.5,noir,5.0,16.0,2
+G6 32Go HDD - 4Go RAM - Or - 12 Mois + Pochette + Protège Ecran  Offerts,LG,119900.0,99.0,4.0,16.0,5.0,or,2.0,5.0,1
+K5 Play Dual SIM - 32Go HDD - 3Go RAM - 13+2MP - Bleu - 12 Mois + Pochette Offert,Lenovo,74900.0,1001.0,6.0,32.0,5.7,noir,5.0,5.0,2
+Hot 6X Dual SIM 16Go HDD - Noir,Infinix,83500.0,101.0,3.0,64.0,6.2,noir,5.0,13.0,2
+Blade V7 Lite Dual SIM 16Go HDD - 2 Go Ram - Gris  - 12 Mois,ZTE,48800.0,10001.0,1.0,64.0,5.6,gris,5.0,12.0,2
+iPhone 6 Plus - 16Go HDD - Blanc Et Or,Apple,162350.0,1001.0,4.0,8.0,6.0,blanc et or,8.0,12.0,1
+Camon 11 Dual SIM 32 Go HDD - Blue - 12 Mois,Tecno,114000.0,1001.0,6.0,64.0,6.4,bleu,2.0,3.0,2
+Redmi Note 5 Dual SIM 64Go HDD - 4Go RAM - 12+5MP - Noir + Pochette Offert - 12 Mois de Garantie,Xiaomi,124900.0,10001.0,3.0,64.0,5.3,noir,5.0,16.0,2
+Lenovo S5 Pro Double Puce 64Go HDD - 6Go RAM - 12+20MP - Noir + Pochette Offert - 12 Mois,Lenovo,158500.0,99.0,1.0,32.0,5.0,noir,8.0,12.0,2
+U3 Dual SIM 8Go HDD - Blanc - 12 Mois + Forfait Internet Offert,Alcatel,31900.0,1001.0,4.0,8.0,6.0,blanc,0.0,8.0,2
+Redmi Note 6 Pro Dual SIM - 64Go HDD - 4Go RAM - 12MP+5MP - Noir + Pochette Offert - 12 Mois de Garantie,Xiaomi,144900.0,101.0,1.0,64.0,5.5,noir,5.0,12.0,2
+Camon 11 Pro Dual SIM 64 Go HDD - Noir - 12 Mois,Tecno,164000.0,10001.0,4.0,64.0,5.7,noir,5.0,16.0,2
+Galaxy J6 Plus Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Noir - 12 Mois,Samsung,115000.0,99.0,2.0,32.0,4.3,noir,5.0,5.0,2
+Microsoft Lumia 550 - Reconditionné sans carton d'origine - 8Go HDD - 1RAM - Noir,Nokia,43600.0,10001.0,6.0,8.0,5.2,noir,5.0,13.0,1
+"Redmi Note 5 Dual SIM - 64Go HDD - 4Go RAM - 5,99"" - Or + Pochette Offert - 12 Mois de Garantie",Xiaomi,114900.0,10001.0,4.0,64.0,6.2,or,5.0,8.0,2
+"Galaxy Note 8 - 64 Go HDD - 6 Go RAM - 6,3'' - Noir",Samsung,275000.0,101.0,4.0,16.0,5.3,noir,5.0,12.0,1
+Galaxy J6 Dual SIM - 32Go HDD - 3Go RAM - 13MP - Or - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,99900.0,1001.0,4.0,32.0,5.0,or,5.0,8.0,2
+"Redmi Go Dual SIM - 8Go HDD - 1Go RAM - 5"" + Protége écran Offert - Bleu",Xiaomi,42000.0,101.0,3.0,32.0,5.5,bleu,2.0,5.0,2
+A32F 8Go HDD - Noir,ITEL,42900.0,101.0,1.0,64.0,5.0,noir,8.0,12.0,1
+Nokia 8 Dual SIM 64Go HDD - Bleu,Nokia,215000.0,10001.0,1.0,64.0,6.0,bleu,8.0,13.0,2
+"Galaxy S6 - 32Go HDD - 3Go RAM - 5,1"" - Or",Samsung,100000.0,10001.0,3.0,64.0,5.5,or,2.0,5.0,1
+Galaxy S6  32 Go HDD - Noir + Ecran de Protection et Pochette - 12 Mois,Samsung,99000.0,99.0,1.0,64.0,6.2,noir,2.0,5.0,1
+E2C Dual SIM - 16Go HDD - Gris - 12 Mois de Garantie,COOLPAD,39900.0,10001.0,4.0,32.0,5.1,gris,2.0,5.0,2
+"G6 - 32Go HDD - 4Go RAM - 5,7"" - Noir - 12 Mois + Pochette + Protège Ecran",LG,119900.0,9.0,0.512,16.0,6.0,noir,2.0,5.0,1
+"Hot 7 Pro Dual Sim - 6,2"" - 32 Go HDD - 2 Go RAM - Voilet",Infinix,88200.0,99.0,2.0,8.0,6.2,voilet,2.0,5.0,2
+S5 Pro Dual Sim - 64Go HDD - 6Go RAM - 20+12MP - Noir - 12 Mois,Lenovo,149000.0,10001.0,1.0,16.0,5.5,noir,5.0,12.0,2
+Galaxy A6 Dual SIM 64Go HDD - Or,Samsung,217000.0,101.0,3.0,16.0,5.0,or,2.0,5.0,2
+Note 5 Stylus Dual SIM 64 Go HDD - Or,Infinix,143500.0,101.0,1.0,32.0,3.5,or,2.0,5.0,2
+Redmi Note 7 Dual SIM 64Go HDD - 4Go RAM - 48+5MP - Bleu + Pochette Offert - 12 Mois de Garantie,Xiaomi,189900.0,9.0,1.0,4.0,5.5,bleu,20.0,16.0,2
+A32F 8Go HDD -Noir,ITEL,44700.0,99.0,1.0,16.0,3.5,noir,5.0,8.0,1
+"Samsung Galaxy A20- 32Go HDD 3Go RAM - 6.4"" - Noir",Samsung,115900.0,1001.0,3.0,16.0,6.0,noir,2.0,5.0,1
+Galaxy Note N7000 SIM Réconditionné - 16Go HDD - 1Go RAM - Blanc,Samsung,37500.0,9.0,3.0,32.0,5.0,blanc,5.0,13.0,1
+Galaxy S7 - 32 Go HDD - Noir,Samsung,133500.0,1001.0,1.0,8.0,6.5,noir,5.0,16.0,1
+Galaxy J2 Core Dual SIM - 8 Go HDD - 1 Go RAM - Noir,Samsung,54000.0,101.0,4.0,16.0,6.0,noir,5.0,8.0,2
+"Pouvoir 2 - Dual SIM - 16Go HDD - 3Go RAM - 6"" - Or - 12 Mois",Tecno,90000.0,101.0,2.0,16.0,5.1,blue-champagne-noir,5.0,13.0,2
+Smart 2 Dual SIM 16 Go HDD - 1Go RAM - Bleu - 12 Mois,Infinix,58600.0,1001.0,3.0,32.0,4.7,bleu,5.0,12.0,2
+Galaxy Note 5 32 Go HDD 4 Go RAM - Or - Pochette - Protege Ecran- 12 Mois,Samsung,125000.0,99.0,1.0,32.0,5.0,or,5.0,12.0,1
+Galaxy J1 Ace - 4Go HDD -  512 Mo - Blanc - 24 Mois,Samsung,49700.0,1001.0,4.0,16.0,4.0,blanc,2.0,8.0,1
+A50 16Go HDD - Gris Et Noir,Alcatel,46000.0,1001.0,2.0,64.0,5.5,gris et noir,2.0,5.0,1
+Spark 3 Dual SIM - 16Go HDD - 1Go RAM - Noir - 12 Mois,Tecno,72000.0,1001.0,1.0,16.0,5.4,noir,5.0,13.0,2
+A1 Dual SIM 32Go HDD - Or,X-tigi,79000.0,1001.0,0.512,32.0,4.3,or,5.0,8.0,2
+Lumia 640 - 8Go HDD - Noir - 6 Mois,Nokia,53800.0,99.0,1.0,16.0,6.0,noir,20.0,16.0,1
+Smart 2 Dual SIM 16 Go HDD - 1Go RAM - Rouge - 12 Mois,Infinix,58600.0,1001.0,4.0,64.0,4.3,rouge,5.0,5.0,2
+Energy 4S Dual SIM 16Go HDD - Gris - 6 Mois,PHICOMM,49000.0,49.0,1.0,64.0,5.1,gris,8.0,12.0,2
+Hot 6X Dual SIM 32Go HDD -  3Go RAM - Noir,Infinix,101000.0,10001.0,4.0,16.0,5.5,noir,8.0,5.0,2
+"One E9+ - 32 Go HDD - 3 GB RAM - 5,5'' - Gris",HTC,85500.0,101.0,4.0,16.0,6.2,gris,5.0,16.0,1
+"Hot 7 - Dual Sim - 6,2"" - 16 Go HDD - 1 Go RAM - Noir",Infinix,75000.0,99.0,3.0,16.0,4.0,noir,8.0,13.0,2
+Redmi Note 7 Dual SIM 32Go HDD - 3Go RAM - 48+5MP - Bleu + Pochette Offert - 12 Mois de Garantie,Xiaomi,159900.0,101.0,4.0,16.0,5.7,bleu,1.2,8.0,2
+"Galaxy S5 - 16Go HDD - 2Go RAM - 5,1"" - Blanc - 12 Mois + Pochette + Protège Ecran Offerts",Samsung,69900.0,10001.0,1.0,64.0,3.5,blanc,1.2,8.0,1
+"Camon X - Dual SIM - 32Go HDD - 3Go RAM - 6"" - Noir - 12 Mois",Tecno,107000.0,101.0,1.0,8.0,6.0,noir,5.0,16.0,2
+Spark 3 Dual SIM - 16Go HDD - 1Go RAM - Bleu - 13 Mois,Tecno,75600.0,99.0,2.0,128.0,5.7,bleu,8.0,13.0,2
+Mi A2 Dual SIM - 64Go HDD - 4Go RAM - 20+12MP - Noir + Pochette Offert - 12 Mois de Garantie,Xiaomi,139900.0,99.0,1.0,64.0,5.0,noir,5.0,12.0,2
+"iPhone 6s+ - 64Go HDD - 2Go RAM - 5,5"" - Or",Apple,240000.0,99.0,1.0,32.0,5.7,or,5.0,8.0,1
+V18 Pro - Dual SIM 16Go HDD - Or - 12 Mois,X-tigi,48000.0,101.0,0.512,64.0,5.7,or,1.2,8.0,2
+iPhone 4S 16 Go HDD - Noir,Apple,55500.0,10001.0,4.0,4.0,5.5,noir,8.0,13.0,1
+A5 Dual SIM - 1Go RAM - 16Go HDD - Noir - 12 Mois,Xtouch,68000.0,1001.0,3.0,16.0,5.5,noir,5.0,8.0,2
+"iPhone 4S - 16Go HDD - 512Mo - 3,5"" - Blanc - 12 Mois + Pochette + Protège Ecran",Apple,43500.0,1001.0,4.0,4.0,5.0,blanc,5.0,16.0,1
+Redmi S2 - Dual SIM - 64Go HDD - 4Go RAM - 12+5 MP - Gris + Pochette Offert - 12 Mois de Garantie,Xiaomi,114900.0,49.0,4.0,8.0,6.2,gris,2.0,5.0,2
+"EGO NOTE 3G - Dual SIM - 8Go HDD - 1Go RAM - 5,5"" - Noir",TORQUE,37000.0,99.0,3.0,16.0,5.9,noir,2.0,5.0,2
+Honor 8X -Dual Sim - 128Go HDD - 4Go RAM  - Phantom bleu - 06 Mois,Huawei,230000.0,10001.0,4.0,8.0,6.2,phantom bleu,1.3,8.0,2
+Note 5 Stylus Dual SIM 64 Go HDD - Or  Et Noir,Infinix,160000.0,101.0,4.0,16.0,4.5,or et noir,0.0,8.0,2
+Galaxy S6 32Go HDD - Noir,Samsung,112700.0,101.0,4.0,8.0,5.3,noir,8.0,13.0,1
+Redmi Note 6 Pro Dual SIM - 64Go HDD - 4Go RAM - 12+5MP - Bleu + Pochette + Protège Ecran Offerts,Xiaomi,144900.0,101.0,1.0,32.0,6.2,bleu,2.0,16.0,2
+OK-LS1 Dual SIM 4Go - 512Mo RAM - Rouge - 12 Mois,Oking,27000.0,49.0,4.0,32.0,5.0,rouge,8.0,13.0,2
+V18 Pro Dual SIM 16Go HDD -RAM 1 Go -Gris - 12 Mois,X-tigi,35300.0,101.0,1.0,64.0,6.2,gris,2.0,8.0,2
+Nokia Lumia 530 RM-1017 Reconditionné sans carton d'origine - 4 Go - Noir,Nokia,29000.0,101.0,4.0,64.0,5.0,noir,5.0,12.0,1
+Pop 2 Power - 8Go HDD - 1Go RAM -  Or,Tecno,56000.0,101.0,1.0,8.0,4.5,or,8.0,13.0,1
+"Redmi 6A Dual SIM - 16Go HDD - 2Go RAM - 5,45"" - Or - 12 Mois de Garantie",Xiaomi,57900.0,101.0,1.0,32.0,6.3,or,5.0,8.0,2
+Lumia 820 - 8Go HDD - Reconditionné sans carton d'origine - Noir,Nokia,30000.0,99.0,4.0,16.0,4.0,noir,0.0,5.0,1
+"S33 - 6"" - 16 Go HDD - Noir",ITEL,65000.0,1001.0,3.0,64.0,5.1,noir,0.3,2.0,1
+Nokia Lumia 635 RM - 974 - Noir ( sans carton d'origine),Nokia,25700.0,10001.0,3.0,32.0,5.0,noir,5.0,16.0,1
+"Galaxy S7 - 32 Go HDD - 4 Go RAM - 5,1"" - Noir",Samsung,129500.0,101.0,1.0,64.0,5.0,noir,5.0,8.0,1
+Redmi 6 Dual SIM - 32Go - 3Go Ram HDD - Noir,Xaomi,95500.0,101.0,3.0,8.0,5.5,noir,5.0,13.0,2
+Lenovo S5 Dual SIM 64Go HDD - 4Go RAM - 13+13MP - Rouge + Pochette  Offert - 12 Mois,Lenovo,99900.0,101.0,2.0,64.0,6.0,rouge,0.3,2.0,2
+"Samsung Galaxy S8 Plus - 64 Go HDD - 4 Go RAM - 6,2'' - Noir - 12 Mois - Pochette",Samsung,245000.0,99.0,1.0,16.0,6.0,noir,5.0,13.0,1
+A11 Dual SIM 8Go HDD - Bleu - 13 Mois,ITEL,30500.0,99.0,1.0,32.0,6.2,bleu,5.0,8.0,2
+"Galaxy S6 Edge - 32Go HDD - RAM 3Go - 5,7"" - Blanc - 12 Mois + Pochette + Protège Ecran Offerts",Samsung,117000.0,101.0,1.0,16.0,5.0,blanc,2.0,5.0,1
+Galaxy S8 Dual SIM 64 Go HDD - Or,Samsung,220000.0,99.0,1.0,8.0,5.5,or,0.0,8.0,2
+iPhone 4S 16 Go HDD - Noir + Pochette et Ecran de Protection,Apple,55500.0,9.0,4.0,64.0,4.5,noir,8.0,13.0,1
+"Redmi 6 Pro Dual SIM - 64Go HDD - 4Go RAM - 6"" - Noir + Pochette + Protège Ecran",Xiaomi,129900.0,49.0,3.0,32.0,5.5,noir,8.0,13.0,2
+"Galaxy S6 Edge Plus  - 32Go HDD - 4Go RAM - 5,7"" - Bleu",Samsung,145000.0,10001.0,0.512,32.0,5.7,bleu,8.0,13.0,1
+"Redmi Note 6 Pro - Dual SIM - 32Go HDD - 3Go RAM - 6,26"" - Noir",Xiaomi,121578.0,101.0,4.0,8.0,5.0,noir,8.0,13.0,2
+WX3 Dual SIM 8 Go HDD - Gris  - 13 Mois,Tecno,45200.0,99.0,2.0,32.0,5.7,gris,5.0,8.0,2
+G6 64Go HDD - 4Go RAM - Noir - 12 Mois + Pochette + Protège Ecran  Offerts,LG,124900.0,101.0,1.0,32.0,5.1,noir,2.0,5.0,1
+OK-CX1 - Dual SIM - 16Go HDD - 1 Go RAM - Noir - 12 Mois,Oking,45000.0,49.0,4.0,8.0,4.7,noir,5.0,13.0,2
+Galaxy S7 Edge 32Go HDD - Or - 24 Mois,Samsung,159300.0,49.0,2.0,16.0,5.0,or,2.0,5.0,1
+"OK-Smart18 - Dual SIM - 16Go HDD - 1 Go RAM - 5,5"" - Noir - 12 Mois",Oking,36900.0,1001.0,3.0,8.0,5.0,noir,5.0,13.0,2
+A32F 8Go HDD - 1Go RAM - Noir,ITEL,50000.0,101.0,1.0,8.0,5.2,noir,5.0,13.0,1
+Galaxy S8 Plus 64Go HDD - 4Go RAM-Noir,Samsung,249000.0,1001.0,1.0,64.0,5.0,noir,8.0,13.0,1
+Y7 Pro Dual SIM 32Go HDD - Noir,Huawei,135000.0,100001.0,2.0,32.0,5.4,noir,2.0,8.0,2
+Camon 11 Dual SIM 32 Go HDD -3 GB RAM- AQUA BLEU - 13 Mois,Tecno,110000.0,99.0,4.0,8.0,6.0,aqua-bleu,2.0,5.0,2
+Y3 2017 8Go HDD - Or,Huawei,64900.0,1001.0,2.0,32.0,5.0,or,2.0,5.0,1
+A1 Lite Double SIM 32Go HDD - Rouge,Gionee,135000.0,101.0,4.0,16.0,4.7,rouge,13.0,5.0,1
+Galaxy A10 Dual SIM - 32Go HDD - 2Go RAM - Noir,Samsung,99000.0,1001.0,1.0,8.0,6.2,noir,5.0,8.0,2
+Rise 53 Dual SIM 8Go HDD - Blanc - 12 Mois + 1 Carte SIM et 1 Forfait Internet Offerts,Orange,34900.0,1001.0,4.0,64.0,4.0,blanc,5.0,5.0,2
+Spark 3 Dual SIM - 16Go HDD - 1Go RAM - Noir - 13 Mois,Tecno,75600.0,101.0,3.0,16.0,4.0,noir,5.0,8.0,2
+218 M Dual SIM 8Go HDD - Noir,Maku,32000.0,1001.0,2.0,32.0,5.5,noir,0.0,8.0,2
+Y3 2017 8Go HDD - Or + 1 Montre Connectée Galaxy Gear Offerte,Huawei,74900.0,49.0,1.0,16.0,5.7,or,5.0,16.0,1
+Mate20 Lite -  Dual Sim- 64Go HDD- 4Go Ram - Noir - 6 mois,Huawei,225000.0,99.0,2.0,16.0,6.0,noir,5.0,13.0,2
+Galaxy M20 Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Noir - 12 Mois,Samsung,155000.0,100001.0,1.0,16.0,5.5,noir,16.0,20.0,2
+"A14 - Dual Sim - 8Go HDD - 512 Mo RAM - 4"" - Noir - 12 Mois",ITEL,27800.0,101.0,2.0,64.0,6.0,noir,0.0,13.0,2
+Galaxy S7 Edge 32Go HDD - 4Go RAM - Or - Pochette + Protège Écran Offerts,Samsung,148400.0,10001.0,3.0,8.0,5.5,or,8.0,13.0,1
+X1 Dual SIM 16Go HDD - Noir,Gionee,103000.0,1001.0,1.0,16.0,5.5,noir,8.0,13.0,2
+A32F 8Go HDD - Noir,ITEL,45000.0,1001.0,3.0,32.0,4.7,noir,1.0,8.0,1
+Redmi 7 Dual SIM - 64Go HDD - 4Go RAM - 12+2MP - Noir + Pochette Offert - 12 Mois de Garantie,Xiaomi,154900.0,101.0,1.0,16.0,6.4,noir,0.0,13.0,2
+"Mione X2 4G - 5.5"" - 16 Go + 2 Go - Dual Sim - Noir",mione,42900.0,49.0,6.0,64.0,6.0,noir,5.0,16.0,2
+Camon X - Dual SIM - 32Go HDD - Noir - 12 Mois,Tecno,125000.0,99.0,1.0,32.0,4.7,noir,5.0,8.0,2
+Galaxy J4 Core Dual SIM - 16Go HDD - 1Go RAM - Or,Samsung,72500.0,1001.0,1.0,64.0,5.0,or,5.0,8.0,2
+Spark 3 Dual SIM - 16Go HDD - 1Go RAM - Noir - 12 Mois,Tecno,78000.0,101.0,1.0,8.0,5.0,noir,5.0,13.0,2
+X9 Dual SIM Avec Deverouillage Faciale - 16 Go HDD - 2 Go RAM - 12 Mois De Garantie - Noir,Xtouch,57000.0,49.0,4.0,8.0,6.0,noir,5.0,13.0,2
+"K8 Note - Dual Sim - 64 Go HDD - 4 Go RAM - 5,5'' - Noir",Lenovo,125000.0,99.0,4.0,16.0,5.0,noir,2.0,5.0,2
+Nokia Lumia 625  8GB sans carton d'origine - Noir,Nokia,35900.0,101.0,2.0,8.0,6.5,noir,0.0,13.0,1
+Galaxy J7 Core - 16Go HDD - Or,Samsung,96000.0,10001.0,1.0,16.0,5.7,or,7.0,12.0,1
+Galaxy S6 Edge Plus Dual SIM - 32Go HDD - Or - 3 Mois,Samsung,165000.0,49.0,2.0,32.0,5.0,or,5.0,16.0,2
+NX Dual SIM 16Go HDD - Bleu - 12 Mois,Tecno,62000.0,49.0,1.0,8.0,4.0,bleu,7.0,12.0,2
+G6 64Go HDD - 4Go RAM - Or - 12 Mois + Pochette + Protège Ecran  Offerts,LG,124900.0,49.0,1.0,32.0,4.7,or,5.0,13.0,1
+Galaxy S6 32Go HDD - RAM 3Go - Or - 12 Mois + Pochette + Protège Ecran  Offerts,Samsung,110000.0,9.0,1.0,16.0,6.0,or,5.0,13.0,1
+Galaxy S7 32Go HDD - Noir,Samsung,240000.0,1001.0,3.0,64.0,6.0,noir,5.0,13.0,1
+iPhone 6S 64Go HDD - Or,Apple,280000.0,1001.0,2.0,8.0,3.5,or,5.0,16.0,1
+"Y3 2018 Dual SIM - 8Go HDD - 5.0"" - Or",Huawei,95000.0,100001.0,1.0,8.0,6.0,or,5.0,12.0,2
+"Studio J2 - 5"" - 8Go HDD + 512Mo RAM - Noir",Blu,26900.0,101.0,1.0,1616.0,5.3,noir,7.0,12.0,1
+A50 16Go HDD - Argent,Alcatel,55000.0,1001.0,1.0,32.0,5.1,argent,5.0,13.0,1
+iPhone 6 64Go HDD - Or - 12 Mois + Pochette + Protège Ecran  Offerts,Apple,300000.0,1001.0,3.0,64.0,5.0,black,5.0,8.0,1
+Galaxy J2 Core Dual Sim - 8Go HDD + 1Go RAM - Lavande,Samsung,56800.0,1001.0,1.0,16.0,6.0,noir,8.0,16.0,2
+"Y5 Prime (2018) - Double Puce - 16Go HDD - 2Go RAM - 5,4"" - Bleu - 12 Mois + Bubble C Offert (20 Sachets)",Huawei,86500.0,99.0,4.0,16.0,4.0,bleu,5.0,16.0,2
+Camon X Dual SIM 32Go HDD - Or - 12 Mois,Tecno,110000.0,49.0,4.0,16.0,6.0,or,5.0,16.0,2
+Kenny 4G 8Go HDD - Noir,WIKO,47900.0,99.0,0.512,16.0,5.0,noir,5.0,5.0,1
+Galaxy M10 Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Noir - 12 Mois  + Protège Ecran Offert,Samsung,129000.0,101.0,1.0,64.0,5.7,noir,5.0,13.0,2
+iPhone 6 16Go HDD - Or + Protège Ecran,Apple,150000.0,1001.0,4.0,64.0,4.3,or,5.0,8.0,1
+Galaxy S8 Plus Dual SIM - 64 Go HDD - Noir,Samsung,270255.0,49.0,3.0,32.0,4.0,noir,5.0,8.0,2
+ZTE A110 - 8 GB - 4'' - 1400 mAh - Noir,ZTE,25000.0,101.0,1.0,32.0,5.7,noir,8.0,12.0,1
+"U3 - Dual SIM - 8Go HDD - 1Go RAM - 4"" - Gris - 12 Mois",Alcatel,31900.0,1001.0,3.0,8.0,6.0,gris,8.0,12.0,2
+P33 Dual SIM 16Go HDD - 1Go RAM - Bleu,ITEL,59500.0,49.0,3.0,8.0,5.0,bleu,8.0,12.0,2
+"Galaxy Note 5 - 32 Go HDD - 4 Go RAM - 5,7'' - Bleu",Samsung,125000.0,99.0,2.0,16.0,6.0,bleu,8.0,12.0,1
+Galaxy M30 Dual SIM - 64Go HDD - 4Go RAM - 13+5MP - Noir - 12 Mois  + Protège Ecran Offert,Samsung,240000.0,49.0,1.0,16.0,5.2,noir,13.0,5.0,2
+"X608 Hot 6 Pro - Dual SIM -16Go HDD - 2Go RAM - 6"" - Rouge - 12 Mois",Infinix,84000.0,49.0,2.0,8.0,4.0,rouge,5.0,12.0,2
+"S503 Dual SIM - 16Go HDD - 1Go RAM - 5,5"" - Noir - 12 Mois",SIMI,43900.0,10001.0,2.0,64.0,6.0,noir,5.0,8.0,2
+"Hot 6C - Dual SIM - 16Go HDD - 2Go RAM - 6"" Or",Infinix,80000.0,49.0,2.0,32.0,6.0,or,8.0,13.0,2
+iPhone 6 Plus 16Go HDD - Or - 12 Mois,Apple,157000.0,101.0,1.0,8.0,5.0,or,5.0,16.0,1
+IPhone 6 Plus 64Go HDD - Gris - 12 Mois + Pochette + Protège Ecran  Offerts,Apple,174900.0,1001.0,1.0,8.0,5.5,gris,5.0,16.0,1
+"iPhone 6 - 64 Go HDD - 1 Go RAM - 4,7"" - Or - 12 Mois + Protège Ecran",Apple,175000.0,99.0,0.512,8.0,5.5,or,0.3,2.0,1
+Galaxy A30 DUAL SIM 32Go HDD - 3Go RAM - Noir - 6 Mois,Samsung,160000.0,101.0,3.0,64.0,6.0,noir,2.0,5.0,2
+Spark 2 Dual SIM 32 Go HDD + 2 Go RAM - Bleu - 12 Mois,Tecno,95000.0,101.0,4.0,32.0,6.0,bleu,2.0,8.0,2
+Galaxy S7 Edge Dual SIM 32 Go HDD - Or,Samsung,185000.0,101.0,1.0,16.0,6.0,or,13.0,20.0,2
+"Desire 610 - 8Go HDD - 1Go RAM - 4,7"" - Noir",HTC,35000.0,1001.0,2.0,16.0,6.0,noir,8.0,13.0,1
+Galaxy J2 Core - Dual SIM - 8Go HDD + 1Go RAM - Violet,Samsung,56800.0,49.0,2.0,32.0,5.0,noir,5.0,12.0,2
+iPhone 6 Plus - 16Go HDD - Or - 12 Mois - Pochette - Glass,Apple,157900.0,1001.0,2.0,32.0,4.5,or,10.0,16.0,1
+"Pouvoir 2 - Dual SIM - 16Go HDD - 3Go RAM - 6"" - Or - 12 Mois",Tecno,95000.0,49.0,1.0,16.0,5.0,or,13.0,5.0,2
+Galaxy Grand Prime Plus Dual SIM 8Go HDD / 1.5Go Ram - Gris Et Or,Samsung,63500.0,101.0,1.0,8.0,5.0,gris et or,8.0,5.0,2
+Honor 8X Dual SIM - 64G HDD - 4Go RAM - Bleu,Huawei,200000.0,49.0,1.0,16.0,4.5,bleu,8.0,13.0,2
+Galaxy Note 5 32Go HDD - Or + Pochette + Ecran De Protection,Samsung,139000.0,101.0,1.0,16.0,5.0,or,8.0,13.0,1
+V10 Dual SIM 8 Go HDD - Noir - 13 Mois,X-tigi,33000.0,1001.0,1.0,32.0,5.0,noir,8.0,13.0,2
+"A14 - Dual Sim - 8Go HDD - 512 Mo RAM - 4"" - Noir - 12 Mois",ITEL,28000.0,1001.0,1.0,16.0,5.0,noir,0.0,13.0,2
+"Desire 610 - 8Go HDD - 1Go RAM - 4,7"" - Noir",HTC,36500.0,49.0,1.0,16.0,5.0,noir,20.0,16.0,1
+Galaxy J6 Plus (2018) - 64 GB HDD - 4 GB RAM - 6'' + Pochette - Noir,Samsung,185000.0,49.0,2.0,4.0,4.0,noir,5.0,16.0,1
+Galaxy J6 Plus Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Rouge - 12mois,Samsung,115000.0,100001.0,1.0,8.0,5.0,rouge,5.0,16.0,2
+"iPhone 4S - 16Go HDD - 512Mo RAM - 3,5"" - Noir - 12 Mois + Pochette + Protège Ecran",Apple,45000.0,101.0,1.0,32.0,5.5,noir,8.0,13.0,1
+Spark 2 Dual SIM 16 Go HDD - 1 Go RAM - Or Et Noir- 12 Mois,Tecno,75000.0,49.0,1.0,64.0,5.5,or et noir,0.0,13.0,2
+A1 Lite Double SIM 32Go HDD - Blanc Et Or,Gionee,135000.0,1001.0,2.0,8.0,5.5,blanc et or,8.0,13.0,1
+Galaxy M10 Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Noir - 12 Mois  + Protège Ecran Offert,Samsung,159000.0,1001.0,1.0,32.0,5.5,noir,8.0,13.0,2
+Galaxy S5 16Go HDD - Blanc,Samsung,160000.0,99.0,1.0,16.0,6.0,blanc,13.0,13.0,1
+R6 Plus Dual SIM 8Go HDD - Gris + 1 Carte SIM et 1 Forfait Internet Offerts,Orange,39900.0,101.0,2.0,8.0,6.0,gris,10.0,16.0,2
+Pouvoir 2 Dual SIM 16Go HDD - Bleu - 12 Mois,Tecno,90000.0,49.0,2.0,32.0,5.0,bleu,20.0,40.0,2
+Vente Flash - Galaxy S3 - 16 Go HDD - Blanc,Samsung,48000.0,101.0,1.0,16.0,6.4,blanc,7.0,12.0,1
+Galaxy S7 Edge 32Go HDD - 4Go RAM - Or - 3 Mois + Pochette,Samsung,160000.0,101.0,0.512,8.0,6.4,or,5.0,13.0,1
+Spark 2 Dual SIM 32 Go HDD - 2 Go RAM - Rouge - 12 Mois,Tecno,89000.0,101.0,1.0,8.0,6.4,rouge,16.0,16.0,2
+"iPhone 6 - 16Go HDD - 1Go RAM - 4,7"" - Gris (Sans carton d'origine) - 12 Mois",Apple,125500.0,101.0,1.0,8.0,6.5,gris,2.0,5.0,1
+OK-CX1 Dual SIM 16Go HDD - 1 Go RAM - Rouge - 12 Mois,Oking,50000.0,10001.0,1.0,16.0,6.4,rouge,8.0,13.0,2
+Galaxy J1 Ace 4Go HDD - Bleu - 24 Mois,Samsung,50000.0,10001.0,1.0,16.0,4.7,bleu,8.0,13.0,1
+"Y2 2018- Dual SIM - 8 Go HDD - 512 Mo - 4"" - Gris- 12 Mois",Tecno,34500.0,1001.0,1.0,16.0,6.0,gris,8.0,13.0,2
+Galaxy S6 Edge 32Go HDD - RAM 3Go - Noir - 12 Mois + Pochette + Protège Ecran  Offerts,Samsung,124900.0,1001.0,1.0,16.0,6.0,noir,2.0,5.0,1
+"Redmi S2 - Dual SIM - 64Go HDD - 4Go RAM - 6"" - Or + Pochette + Protège Ecran Offerts",Xiaomi,114900.0,1001.0,3.0,16.0,5.0,or,5.0,16.0,2
+"Blade A506 - 8Go HDD - 1Go RAM - 5"" - Noir - 6 Mois",ZTE,45000.0,1001.0,3.0,8.0,6.2,noir,1.2,8.0,1
+Samsung Galaxy J4 Plus Dual SIM - 32Go HDD - 2Go RAM - 13MP - Or - 12 Mois,Samsung,110000.0,49.0,4.0,8.0,6.4,or,7.0,12.0,2
+Blade Lite V8 Dual SIM - 16Go HDD - 2Go RAM - Or,ZTE,65500.0,101.0,4.0,16.0,5.9,or,5.0,12.0,2
+Y2 Dual SIM 8Go HDD - Gris - 12 Mois,Tecno,34000.0,101.0,8.0,8.0,6.4,gris,7.0,12.0,2
+Samsung Galaxy J4 Plus Dual SIM - 32Go HDD - 2Go RAM - 13MP - Noir,Samsung,99000.0,101.0,2.0,8.0,6.7,noir,7.0,12.0,2
+"Galaxy J4 Core Dual SIM - 16Go HDD - 1Go RAM - 6"" - Bleu",Samsung,72500.0,101.0,2.0,16.0,5.5,bleu,7.0,12.0,2
+V11 8Go HDD Dual SIM - Or,X-tigi,35300.0,101.0,1.0,16.0,6.0,or,7.0,12.0,2
+"Pop 2 - Dual Sim - 5,5"" - 8Go HDD - 1Go RAM - Bleu",Tecno,54500.0,101.0,1.0,8.0,6.2,bleu,7.0,12.0,2
+"Pop 2 - Dual Sim - 5,5"" - 8Go HDD - 1Go RAM - Or",Tecno,54500.0,101.0,2.0,8.0,6.2,or,7.0,12.0,2
+Spark 2 Dual SIM - 16 Go HDD - Noir Et Or - 12 Mois,Tecno,75300.0,101.0,4.0,8.0,5.9,noir et or,5.0,13.0,2
+Spark 2 Dual SIM  16 Go HDD - Noir - 12 Mois,Tecno,75300.0,1001.0,4.0,8.0,6.2,noir,5.0,8.0,2
+Spark 2 Dual SIM 16 Go HDD - 1 Go RAM - Bordeaux - 12 Mois,Tecno,82700.0,1001.0,3.0,8.0,5.0,bordeaux,5.0,12.0,2
+Spark 2 Dual SIM 16 Go HDD - 2 Go RAM - Noir - 12 Mois,Tecno,82700.0,1001.0,4.0,16.0,5.0,noir,5.0,12.0,2
+1X - 16Go HDD - Noir - 12 Mois + Forfait Internet Offert,Alcatel,70900.0,1001.0,4.0,8.0,5.9,noir,8.0,12.0,1
+Y3 2017 8Go HDD - Gris,Huawei,64900.0,1001.0,6.0,16.0,5.9,gris,8.0,12.0,1
+Galaxy Grand Prime Dual Sim 8 Go HDD - Noir + 1 Routeur 4G Offert,Samsung,87900.0,1001.0,1.0,16.0,6.4,noir,8.0,12.0,2
+A3 Dual SIM - 16Go HDD - Noir - 12 Mois,Alcatel,69900.0,1001.0,1.0,8.0,6.2,noir,1.3,8.0,2
+Y3 2017 8Go HDD - Or + 1 Modem Airbox 3G Offert,Huawei,84900.0,100001.0,2.0,32.0,6.5,or,13.0,8.0,1
+Galaxy Grand Prime Dual Sim 8 Go HDD - Argent + 1 Carte Sim Offerte,Samsung,67900.0,10001.0,2.0,64.0,5.5,argent,5.0,13.0,2
+A3 Dual SIM 16Go HDD - Blanc - 12 Mois,Alcatel,69900.0,1001.0,4.0,128.0,5.5,blanc,13.0,13.0,2
+Galaxy A7 Dual SIM 16 Go HDD - Noir - 6 Mois,Samsung,120000.0,100001.0,4.0,64.0,5.4,noir,5.0,8.0,2
+"Mi4 4G FDD-LTE - 16Go HDD - 2Go RAM - 5"" - Blanc",Xiaomi,142500.0,100001.0,6.0,128.0,5.4,blanc,5.0,12.0,1
+Alcatel 1 Dual SIM 8Go HDD - Gris - 12 Mois + Forfait Internet Offert,Alcatel,44900.0,9.0,4.0,16.0,5.4,gris,5.0,12.0,2
+Smart Dual SIM 16Go HDD - Noir  - 12 Mois,Infinix,96800.0,9.0,4.0,16.0,5.7,noir,5.0,13.0,2
+Galaxy A7 Dual SIM 16 Go HDD - Blanc - 6 Mois,Samsung,120000.0,9.0,4.0,16.0,5.5,blanc,5.0,16.0,2
+"A14 - Dual Sim - 8Go HDD - 512 Mo RAM - 4"" - Noir - 12 Mois",ITEL,27000.0,9.0,2.0,8.0,5.5,noir,5.0,12.0,2
+"A16 - Dual SIM - 8Go HDD - 512 Mo RAM - 5"" - Noir - 13 Mois",ITEL,37600.0,9.0,4.0,32.0,5.0,noir,5.0,13.0,2
+P13 Dual SIM 8Go HDD - 512 Mo RAM - Noir - 13 Mois,ITEL,44800.0,9.0,3.0,64.0,5.5,noir,8.0,13.0,2
+S13 - 8Go HDD - 1GB RAM - Noir - 13 Mois,ITEL,52600.0,9.0,3.0,64.0,5.5,noir,8.0,13.0,1
+P33 Dual SIM 16Go HDD - 1Go RAM - Or,ITEL,52860.0,9.0,2.0,64.0,6.0,or,8.0,13.0,2
+P32 Dual SIM - 8Go HDD - 1 Go RAM - Bleu - 13 Mois,ITEL,54680.0,101.0,2.0,64.0,5.5,bleu,5.0,12.0,2
+P33 PLUS - 5000Mah - 16Go HDD - 1Go RAM - Or,ITEL,58875.0,101.0,2.0,128.0,6.3,or,5.0,12.0,1
+"S33 - 16Go HDD - 1Go RAM - 6"" - Or - 12 Mois",ITEL,63550.0,1001.0,4.0,128.0,5.1,or,8.0,12.0,1
+"Microsoft Lumia 640 LTE - 8Go HDD - 5"" (Reconditionné pas de carton d'origine)",Microsoft,45500.0,101.0,3.0,16.0,5.7,bleu,2.0,8.0,1
+Galaxy A30 DUAL SIM 32Go HDD - 3Go RAM - Noir - 6 Mois,Samsung,145400.0,1001.0,3.0,16.0,5.5,noir,8.0,13.0,2
+Galaxy A20 Dual SIM 64Go HDD - 3Go RAM - Bleu - 6 Mois,Samsung,135000.0,101.0,3.0,32.0,5.5,bleu,13.0,13.0,2
+Galaxy A50 - 128Go HDD - RAM 4Go - DUAL SIM - Noir - 6 Mois,Samsung,209000.0,101.0,1.0,32.0,5.5,noir,8.0,5.0,2
+Honor 8X -Dual Sim - 64Go HDD - 4Go RAM - Phantom Bleu - 6 Mois,Huawei,220000.0,1001.0,1.0,64.0,6.0,phantom bleu,2.0,5.0,2
+Galaxy S10 Plus - 128Go HDD - 8Go RAM - 16+12+12MP - Noir - 24 Mois,Samsung,823000.0,1001.0,1.0,64.0,6.0,noir,5.0,13.0,1
+One E8 - 16Go HDD - 2Go RAM - Noir,HTC,63800.0,1001.0,1.0,128.0,5.5,noir,7.0,12.0,1
+Spark 2 Dual SIM 16 Go HDD - 2 Go RAM - Noir - 12 Mois,Tecno,69200.0,1001.0,4.0,8.0,5.5,noir,5.0,12.0,2
+Spark 2 Dual SIM 16 Go HDD - 1 Go RAM - Noir - 12 Mois,Tecno,76500.0,1001.0,3.0,64.0,6.2,noir,5.0,8.0,2
+Microsoft Lumia 640 - 8Go HDD - 1Go RAM - Noir (Reconditionné - Sans carton d'origine),Microsoft,51800.0,1001.0,4.0,64.0,5.0,noir,5.0,13.0,1
+Galaxy A10 Dual Sim - 32Go HDD - 2Go RAM - 13MP - Bleu - 24 Mois,Samsung,98900.0,1001.0,1.0,128.0,6.2,bleu,8.0,13.0,2
+S5 Double Puce 64Go HDD - 4Go RAM - 13+13MP - Noir + Pochette Offerte - 12 Mois,Lenovo,100000.0,101.0,2.0,32.0,5.5,noir,8.0,12.0,2
+"MI 8 Lite - Dual SIM - 64 Go HDD - RAM 4 Go - 6,26'' - Noir + Pochette + Glace De Protection",Xiaomi,165000.0,49.0,1.0,256.0,5.5,noir,0.3,2.0,2
+Galaxy A30 Dual SIM 64Go HDD - 3Go RAM - Noir - 6 Mois,Samsung,175000.0,1001.0,1.0,32.0,6.2,noir,0.0,5.0,2
+Galaxy A40 - 64Go HDD - 4GB RAM - Noir,Samsung,195000.0,1001.0,1.0,32.0,6.4,noir,2.0,5.0,1
+Galaxy A50 Dual SIM - 128Go HDD - 4Go RAM - 25+8+5MP - Noir - 12 Mois,Samsung,240000.0,1001.0,1.0,16.0,4.0,noir,13.0,13.0,2
+Galaxy A70 Dual SIM - 128Go HDD - 6Go RAM - 32+8+5MP - Noir - 12 Mois,Samsung,320000.0,49.0,4.0,16.0,5.0,noir,0.0,5.0,2
+"OK-Smart18 - Dual SIM - 16Go HDD - 1 Go RAM - 5,5"" - Or - 12 Mois",Oking,36800.0,101.0,32.0,16.0,12.0,or,2.0,5.0,2
+P33 PLUS - 5000Mah - 16Go HDD - 1Go RAM - Or Et Bleu,ITEL,59300.0,101.0,6.0,32.0,5.3,or et bleu,0.0,5.0,1
+Galaxy A10 - 32Go HDD - 2Go RAM - Bleu - 3 Mois,Samsung,115500.0,1001.0,1.0,128.0,6.2,bleu,2.0,5.0,1
+Galaxy A10 Dual SIM - 32Go HDD - 2Go RAM - Noir - 3 Mois,Samsung,115500.0,1001.0,1.0,32.0,5.5,noir,0.0,5.0,2
+"Lenovo K5 Pro - Dual Sim - 64 Go HDD - 4 Go RAM - 5,99'' - Noir",Lenovo,135000.0,1001.0,2.0,32.0,6.1,noir,5.0,13.0,2
+Camon 11 K Dual SIM - 64Go HDD - 4Go RAM - Noir,Tecno,139500.0,101.0,4.0,8.0,6.4,noir,0.3,2.0,2
+Honor 9 Dual SIM 128Go HDD - 6Go RAM - Bleu - 12 Mois,Huawei,250000.0,101.0,1.0,8.0,5.5,bleu,5.0,8.0,2
+A16 Dual SIM 8Go HDD - 512 Mo RAM - Or - 13 Mois,ITEL,37500.0,99.0,2.0,8.0,5.0,or,8.0,12.0,2
+Samsung Galaxy A40 - 64Go  4GB Ram HDD - Noir,Samsung,190500.0,1001.0,3.0,16.0,5.5,noir,12.0,12.0,1
+Mate 10 Lite Dual SIM - 64Go HDD - 4Go RAM - Bleu - 3 Mois,Huawei,205000.0,10001.0,2.0,16.0,5.5,bleu,8.0,13.0,2
+Galaxy A50 - 128Go HDD - 4GB RAM - Noir,Samsung,240500.0,10001.0,4.0,128.0,6.2,noir,8.0,13.0,1
+Galaxy A10 Dual Sim - 32Go HDD - 2Go RAM - 13MP - Noir - 24 Mois de Garantie,Samsung,98000.0,10001.0,8.0,64.0,6.0,noir,3.0,5.0,2
+iPhone XS Max 256Go HDD - Gris Sidéral,Apple,870600.0,101.0,8.0,32.0,6.0,noir,5.0,8.0,1
+Galaxy Note 5 32 Go HDD - Or-glace et pochette offert,Samsung,145250.0,99.0,1.0,8.0,6.2,or,5.0,13.0,1
+Redmi 6 Dual SIM - 32Go - 3Go Ram HDD - 12+5MP - Bleu,Xaomi,95500.0,99.0,1.0,16.0,6.0,bleu,13.0,5.0,2
+iPhone 7 Plus - 32Go HDD - 3Go RAM - 12MP - Rouge + Pochette Offert - 12 Mois de Garantie,Apple,279900.0,10001.0,1.0,16.0,6.0,noir,5.0,13.0,1
+"Redmi 6A Dual SIM - 16Go HDD - 2Go RAM - 5,45"" - Gris - 12 Mois de Garantie",Xiaomi,57900.0,101.0,1.0,16.0,6.4,or,5.0,13.0,2
+"Redmi 6A Dual SIM - 16Go HDD - 2Go RAM - 5,45"" - Gris - 12 Mois de Garantie",Xiaomi,57900.0,101.0,1.0,16.0,4.7,gris,16.0,16.0,2
+"Redmi 6A Dual SIM - 16Go HDD - 2Go RAM - 5,45"" - Gris - 12 Mois de Garantie",Xiaomi,58900.0,101.0,1.0,8.0,6.0,gris,5.0,13.0,2
+Galaxy S6 Edge Plus Dual SIM - 32Go HDD - Or - 3 Mois-galce+pochette,Samsung,175000.0,101.0,2.0,16.0,6.4,or,7.0,12.0,2
+Galaxy S7 Edge Dual SIM 64 Go HDD - Or,Samsung,185000.0,49.0,2.0,64.0,6.0,or,13.0,8.0,2
+iPhone 7 Plus - 128Go - Noir - 12 Mois + Pochette + Protège Ecran Offerts,Apple,521000.0,1001.0,1.0,64.0,6.2,noir,8.0,13.0,1
+iPhone 7 Plus 32Go HDD - Or,Apple,532000.0,99.0,3.0,8.0,6.2,or,20.0,16.0,1
+Redmi 5A Dual SIM - 32Go HDD - 3Go RAM - 13MP - Or - 12 Mois de Garantie,Xiaomi,77900.0,99.0,3.0,16.0,6.0,or,8.0,13.0,2
+P13 - Dual SIM - 8Go HDD - 512Mo RAM - Noir -12 Mois,ITEL,45000.0,99.0,1.0,32.0,6.2,noir,16.0,16.0,2
+Pop2 Power Dual SIM - 8Go HDD - 1Go RAM - Bleu - 13 Mois,Tecno,57000.0,49.0,1.0,64.0,6.2,bleu,5.0,13.0,2
+Pop2 Power Dual SIM - 8Go HDD - 1Go RAM - Noir - 13 Mois,Tecno,57000.0,10001.0,2.0,8.0,6.3,noir,5.0,13.0,2
+"S33 - 16Go HDD - 1Go RAM - 6"" - Or - 12 Mois",ITEL,65300.0,49.0,4.0,8.0,5.5,or,1.2,8.0,1
+Pop 2 Power - 16Go HDD - 1Go RAM - Or Et Noir -13 Mois,Tecno,70000.0,49.0,1.0,16.0,6.0,or et noir,5.0,2.0,1
+Redmi Note 7 Dual SIM - 128Go - 4Go Ram HDD - Noir,Xaomi,200500.0,9.0,3.0,32.0,6.0,noir,24.0,16.0,2
+Galaxy C5 -dual Sim- 32 Go HDD - Noir-pochette+glass,Samsung,139395.0,99.0,2.0,16.0,5.7,noir,24.0,16.0,2
+"Galaxy S6 Edge - 64 Go HDD - 3 Go RAM - 5,1'' - Noir-glace+pochette",Samsung,150000.0,49.0,1.0,32.0,5.2,noir,24.0,16.0,1
+Galaxy S6 Edge plus 32Go HDD - noir-pochette+glass,Samsung,160000.0,99.0,1.0,128.0,6.3,noir,24.0,16.0,1
+P32 Dual SIM - 8Go HDD - 1 Go RAM - Bleu - 13 Mois,ITEL,55000.0,99.0,2.0,128.0,6.1,bleu,5.0,16.0,2
+Galaxy J4 Dual SIM - 16Go HDD - 2Go RAM - Noir,Samsung,79900.0,99.0,3.0,8.0,7.2,noir,5.0,16.0,2
+P33 Dual SIM 16Go HDD - 1Go RAM - Bleu,ITEL,58500.0,99.0,6.0,8.0,4.7,bleu,2.0,5.0,2
+"S33 - 6"" - 16 Go HDD - Noir",ITEL,64500.0,49.0,3.0,8.0,6.0,noir,2.0,5.0,1
+"Hot 6 - Dual SIM - 16Go HDD - 1Go RAM - 6"" Or",Infinix,74210.0,101.0,2.0,1616.0,5.5,or,5.0,8.0,2
+P13 Dual SIM 8Go HDD - 512 Mo RAM - Noir - 13 Mois,ITEL,45500.0,99.0,1.0,16.0,5.5,noir,5.0,8.0,2
+P33 Dual SIM 16Go HDD - 1Go RAM - Or,ITEL,53000.0,101.0,2.0,16.0,5.0,or,5.0,16.0,2
+"Samsung Galaxy S8 Plus - 64 Go HDD - 4 Go RAM - 6,2'' - Noir - 12 Mois - Pochette",Samsung,243000.0,49.0,4.0,16.0,6.0,noir,5.0,12.0,1
+Galaxy S8 Dual SIM 64 Go HDD - Or,Samsung,270000.0,49.0,3.0,32.0,6.0,or,5.0,13.0,2
+Galaxy S9 - 32Go HDD - 4Go RAM - Noir,Samsung,365000.0,99.0,4.0,16.0,6.0,noir,8.0,12.0,1
+"Galaxy S9 Plus - 64Go HDD - 6Go RAM - 6,2"" - Noir - 12 Mois",Samsung,390000.0,99.0,6.0,32.0,5.0,noir,8.0,12.0,1
+S13 - 8Go HDD - 1GB RAM - Noir - 13 Mois,ITEL,65000.0,99.0,8.0,64.0,6.4,noir,5.0,12.0,1
+Blitzwolf BW-BTS1 Sport Bluetooth Earphone Headphone IPX4 Waterproof Magnetic Adsorption With Mic,BlitzWolf,12157.0,101.0,6.0,8.0,6.0,black,5.0,8.0,1
+Galaxy S7 - 32 Go HDD - Noir-glace+pochette,Samsung,133500.0,99.0,2.0,8.0,5.5,noir,12.0,12.0,1
+P33 Dual SIM 16Go HDD - 1Go RAM - Or,ITEL,58600.0,9.0,3.0,16.0,5.8,or,5.0,13.0,2
+"Hot 7 Pro Dual Sim - 6,2"" - 32 Go HDD - 2 Go RAM - Noir",Infinix,89000.0,99.0,1.0,128.0,5.5,noir,5.0,16.0,2
+Galaxy A30 DUAL SIM 64Go HDD - 4Go RAM - Noir,Samsung,175000.0,99.0,2.0,8.0,6.0,noir,5.0,13.0,2
+Galaxy S6 32 Go HDD - Noir + Pochette et Ecran de Protection,Samsung,120500.0,99.0,2.0,32.0,6.3,noir,5.0,13.0,1
+"V5 Dual SIM - 8Go HDD - 1 Go RAM - 4"" - Bleu",X-tigi,27800.0,49.0,3.0,32.0,5.8,bleu,8.0,13.0,2
+V10 Dual SIM 8 Go HDD - Noir - 13 Mois,X-tigi,32900.0,99.0,1.0,16.0,6.2,noir,5.0,8.0,2
+BLACKBERRY LEAP 16Go HDD - Marron (Reconditionné pas de carton d'origine),Blackberry,43500.0,99.0,1.0,16.0,5.7,marron,5.0,16.0,1
+A1 Dual SIM 32Go HDD - Or,X-tigi,71450.0,99.0,3.0,32.0,6.0,or,5.0,16.0,2
+"Hot 7 Dual Sim - 6,2"" - 16 Go HDD - 1 Go RAM - Violet",Infinix,84740.0,99.0,3.0,32.0,6.0,violet,5.0,12.0,2
+Galaxy S7 Edge 64Go HDD - Noir -  12 Mois,Samsung,241500.0,99.0,4.0,128.0,5.5,noir,5.0,12.0,1
+"Galaxy S10 - 128Go HDD - 8Go RAM - 6,1"" - Blanc",Samsung,504000.0,99.0,4.0,32.0,5.5,blanc,8.0,12.0,1
+"Galaxy S10 Plus - 128Go HDD - 8Go RAM - 6,4"" - 24 Mois - Blanc",Samsung,556000.0,99.0,1.0,16.0,5.5,blanc,5.0,16.0,1
+"Pop 2 - Dual Sim - 5,5"" - 8Go HDD - 1Go RAM - Or",Tecno,56000.0,99.0,4.0,16.0,5.8,or,5.0,16.0,2
+A32F 8Go HDD -Noir,ITEL,47000.0,99.0,4.0,16.0,5.5,noir,5.0,16.0,1
+"Tecno B1 - Dual SIM - 8Go HDD - 1 Go RAM - 5"" - Noir",Tecno,50000.0,99.0,4.0,64.0,5.8,noir,5.0,16.0,2
+S13 - 8Go HDD - 1GB RAM - Noir - 13 Mois,ITEL,53000.0,99.0,3.0,32.0,5.8,noir,5.0,12.0,1
+P33 Dual SIM 16Go HDD - 1Go RAM - Bleu,ITEL,59000.0,101.0,4.0,64.0,6.0,bleu,8.0,12.0,2
+"Hot 7 Dual SIM - 6,2"" - 16 Go HDD - 1 Go RAM - Noir",Infinix,72000.0,101.0,3.0,64.0,5.0,noir,5.0,8.0,2
+Spark 2 Dual SIM  16 Go HDD + 1Go RAM - Rouge - 12 Mois,Tecno,75000.0,99.0,6.0,128.0,5.4,rouge,5.0,13.0,2
+Spark 2 Dual SIM 16 Go HDD + 2 Go RAM - Noir - 12 Mois,Tecno,76000.0,99.0,4.0,128.0,6.2,noir,16.0,12.0,2
+Galaxy A10 Dual Sim - 32Go HDD - 2Go RAM - 13MP - Noir - 24 Mois,Samsung,109000.0,101.0,4.0,32.0,6.0,noir,8.0,13.0,2
+"Hot S3X - Dual SIM - 32 Go HDD - 2Go RAM - 6"" - Noir",Infinix,111000.0,101.0,3.0,32.0,5.5,noir,8.0,13.0,2
+Camon X Dual SIM - 32Go HDD - Noir - 12 Mois,Tecno,123000.0,101.0,3.0,16.0,5.4,noir,8.0,13.0,2
+Galaxy A30 Dual SIM 64Go HDD - 3Go RAM - Noir - 6 Mois,Samsung,180000.0,9.0,3.0,16.0,6.3,noir,5.0,8.0,2
+Microsoft Lumia 550 - Reconditionné sans carton d'origine - 8Go HDD - 1Go RAM - Blanc,Nokia,45900.0,99.0,3.0,8.0,6.2,blanc,8.0,12.0,1
+Nokia Lumia 1320 Reconditionné sans carton d'origine - 8Go - Rouge,Nokia,59500.0,99.0,4.0,16.0,6.0,rouge,7.0,12.0,1
+Galaxy M10 Dual SIM - 16Go HDD - 2Go RAM - 13+5MP - Noir,Samsung,130000.0,10001.0,3.0,16.0,6.0,noir,5.0,8.0,2
+Galaxy A50 Dual SIM - 128Go HDD - 4Go RAM - 25+8+5MP - Noir - 12 Mois,Samsung,239000.0,99.0,2.0,16.0,6.0,noir,2.0,16.0,2
+Nokia Lumia 1320 - 8Go HDD - 4G (sans carton d'origine) - Noir,Nokia,59500.0,10001.0,1.0,8.0,6.4,noir,5.0,12.0,1
+Camon 11 Dual SIM 32 Go HDD - 3Go RAM - Noir - 12 Mois,Tecno,114000.0,101.0,2.0,32.0,5.5,noir,5.0,13.0,2
+Galaxy S6  32 Go HDD -Blanc + Ecran de Protection et Pochette - 12 Mois,Samsung,100000.0,99.0,3.0,32.0,6.2,blanc,5.0,16.0,1
+"Hot 7  Dual Sim - 6,2"" - 32 Go HDD - 2 Go RAM - Champagne",Infinix,95263.0,101.0,4.0,64.0,6.2,champagne,2.0,13.0,2
+"Hot 6 - Dual SIM - 16Go HDD - 1Go RAM - 6"" - Rouge",Infinix,76400.0,10001.0,4.0,64.0,6.2,rouge,5.0,16.0,2
+Spark 3 Dual SIM - 16Go HDD - 1Go RAM - Noir - 12 Mois,Tecno,76500.0,49.0,1.0,64.0,4.7,noir,5.0,12.0,2
+Galaxy A10 Dual Sim - 32Go HDD - 2Go RAM - 13MP - Bleu - 24 Mois,Samsung,99900.0,10001.0,3.0,64.0,6.0,bleu,5.0,12.0,2
+Galaxy M20 Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Bleu - 12 Mois,Samsung,142000.0,10001.0,3.0,64.0,5.5,bleu,2.0,5.0,2
+K5 Pro Dual SIM 128Go HDD - 6Go RAM - 16+5MP - Noir - 12 Mois,Lenovo,159000.0,49.0,3.0,256.0,6.0,noir,2.0,16.0,2
+"iPhone 7 Plus - 32Go HDD - 3Go RAM - 5,5"" - Rose Or",Apple,320000.0,101.0,4.0,32.0,5.0,rose or,8.0,16.0,1
+Infinix Hot 6X Dual SIM 16Go HDD - 2Go - Noir,Infinix,72500.0,49.0,4.0,64.0,6.0,noir,5.0,16.0,2
+Spark 2 Dual SIM 16 Go HDD - Bleu - 12 Mois,Tecno,83800.0,101.0,4.0,32.0,5.5,bleu,5.0,16.0,2
+Note 4 Dual SIM 16Go HDD - Noir - 12 Mois,Infinix,89000.0,101.0,4.0,64.0,5.0,noir,8.0,13.0,2
+K5 Pro Dual SIM 64Go HDD - 6Go RAM - 16+5MP - Rose Or - 12 Mois,Lenovo,149900.0,101.0,4.0,64.0,6.0,rose or,13.0,8.0,2
+Galaxy J5 Pro 32Go HDD - Noir,Samsung,169000.0,101.0,4.0,32.0,6.0,noir,5.0,8.0,1
+Mi 8 Lite Dual SIM 64Go HDD - 4Go RAM - Noir + Pochette Offert - 12 Mois de Garantie,Xiaomi,174900.0,101.0,4.0,32.0,6.0,noir,8.0,13.0,2
+Galaxy Note 8 - 64 Go HDD - 6 Go RAM - Noir - 24 Mois + Pochette + Protège Ecran Offerts,Samsung,298000.0,101.0,4.0,128.0,6.5,noir,8.0,12.0,1
+"Galaxy S10 - 128Go HDD - 8Go RAM - 6,1"" - Bleu Ciel",Samsung,499000.0,101.0,4.0,64.0,6.4,bleu ciel,5.0,16.0,1
+Mate20 X Dual SIM - 128Go HDD - 6Go RAM - Bleu,Huawei,510000.0,1001.0,6.0,64.0,5.5,bleu nuit,5.0,16.0,2
+iPhone 7 - 32Go HDD - 2GB RAM - Noir Et Gris,Apple,315000.0,1001.0,1.0,64.0,5.5,noir et gris,5.0,16.0,1
+Galaxy J6 Plus  2018 - 32 Go HDD - 3 Go RAM - 6'' - Gris,Samsung,200000.0,1001.0,2.0,256.0,6.2,gris,8.0,16.0,1
+F3(Pop¹) Pro - Dual SIM - 16Go HDD - Noir - 12 Mois,Tecno,65000.0,1001.0,1.0,32.0,6.2,noir,5.0,12.0,2
+Camon CX Dual SIM 16 Go HDD - Gris -12 Mois,Tecno,93900.0,1001.0,1.0,8.0,6.0,gris,0.0,8.0,2
+"A16 - Dual SIM - 8Go HDD - 512 Mo RAM - 5"" - Noir - 13 Mois",ITEL,37900.0,1001.0,2.0,16.0,6.2,noir,5.0,13.0,2
+Spark 2 Dual SIM 16 Go HDD - 2 Go RAM - Noir - 12 Mois,Tecno,85000.0,49.0,4.0,64.0,5.7,noir,5.0,16.0,2
+"Pouvoir 2 - Dual SIM - 16Go HDD - 3Go RAM - 6"" - NOIR - 12 Mois",Tecno,100000.0,1001.0,3.0,128.0,5.5,noir,5.0,13.0,2
+Spark 2 Dual SIM  16 Go HDD -1 Go RAM - Noir - 12 Mois,Tecno,75000.0,1001.0,2.0,32.0,6.0,noir,5.0,12.0,2
+A32F Dual SIM 8Go HDD - Rose Or - 12 Mois,ITEL,44700.0,1001.0,2.0,32.0,6.1,rose or,5.0,8.0,2
+Galaxy A30 Dual SIM 32Go HDD - 3Go RAM - Noir - 6 Mois,Samsung,160000.0,1001.0,4.0,32.0,5.4,noir,5.0,16.0,2
+"Hot 6X Dual SIM - 32Go HDD - 3Go RAM - 6,2"" - Bleu",Infinix,149700.0,1001.0,4.0,64.0,6.5,bleu,5.0,16.0,2
+Mi A2 Dual SIM - 64Go HDD - 4Go RAM - Noir,Xaomi,155500.0,49.0,4.0,64.0,6.2,noir,5.0,12.0,2
+Redmi 6 Pro Dual SIM 64Go HDD - 4Go RAM - Noir,Xaomi,159500.0,49.0,4.0,64.0,6.2,noir,5.0,16.0,2
+iPhone 6 Plus  64 Go HDD - Blanc Et Or,Apple,186925.0,49.0,8.0,128.0,5.7,blanc et or,5.0,13.0,1
+V30 - 64Go HDD - 4Go RAM - Bleu,LG,200500.0,49.0,4.0,128.0,6.2,bleu,5.0,12.0,1
+Mate20 Lite Dual SIM - 64Go HDD - 4Go RAM - Noir - 6 Mois,Huawei,225000.0,49.0,4.0,128.0,6.0,noir,8.0,12.0,2
+iPhone XS Max 256Go HDD - Gris Sidéral,Apple,875000.0,49.0,3.0,128.0,6.0,gris sidéral,7.0,12.0,1
+"Honor 8C - 32 Go HDD - 3 Go RAM - 6,26'' - Bleu - 12 Mois",Huawei,145000.0,49.0,3.0,32.0,5.5,bleu,1.2,8.0,1
+Lenovo S5 Dual SIM 64Go HDD - 4Go RAM - 13+13MP - Rouge + Pochette Offert - 12 Mois,Lenovo,110000.0,101.0,2.0,64.0,5.5,rouge,5.0,12.0,2
+"Galaxy J6 Plus Dual SIM - 32Go HDD - 3Go RAM - 6"" - Noir - 12 Mois",Samsung,120000.0,1001.0,3.0,64.0,6.2,noir,7.0,12.0,2
+Lenovo S5 Pro Double Puce 64Go HDD - 6Go RAM - 12+20MP - Noir + Pochette Offert - 12 Mois,Lenovo,160000.0,1001.0,3.0,64.0,5.0,noir,7.0,12.0,2
+Galaxy J8 Dual SIM 64Go HDD - Bleu,Samsung,195000.0,1001.0,2.0,8.0,6.0,bleu,7.0,12.0,2
+Galaxy S7 32 Go HDD - 4 Go RAM  - Or,Samsung,232000.0,1001.0,2.0,16.0,5.5,or,7.0,12.0,1
+iPhone 7 Plus - 32Go HDD - 3Go RAM - Noir,Apple,410000.0,1001.0,8.0,16.0,5.0,noir,2.0,5.0,1
+iPhone 7 Plus - 128Go HDD - 3Go RAM Rose Or,Apple,495000.0,49.0,1.0,8.0,4.0,rose or,0.0,8.0,1
+iPhone X 64Go HDD - 3Go RAM - Gris Sidéral,Apple,651000.0,49.0,4.0,16.0,5.5,gris sidéral,0.0,8.0,1
+iPhone 8 Plus 64Go HDD - Gris Sidéral,Apple,662000.0,1001.0,1.0,64.0,6.2,gris sidéral,5.0,8.0,1
+iPhone XS Max 64 Go HDD - Argent,Apple,700000.0,49.0,1.0,64.0,5.0,argent,5.0,8.0,1
+iPhone X 256Go HDD - 3Go RAM - Gris Sidéral,Apple,789000.0,49.0,2.0,16.0,6.0,gris sidéral,5.0,16.0,1
+Galaxy J4 Plus Dual SIM - 32Go HDD - 2Go RAM - 13MP - Or - 12 Mois,Samsung,175000.0,101.0,3.0,16.0,6.0,or,8.0,16.0,2
+"Blade A506 - 8Go HDD - 1Go RAM - 5"" - Noir - 6 Mois",ZTE,45000.0,1001.0,2.0,64.0,4.7,noir,5.0,16.0,1
+Y5 Prime 2018 Dual SIM 16Go HDD - Bleu - 12 Mois + Edmark Café73 Offert (20 Sachets),Huawei,86500.0,101.0,2.0,64.0,6.0,bleu,5.0,13.0,2
+Honor 10 lite - 64 Go HDD - 3 Go RAM -  Bleu Saphir - 6 Mois,Huawei,175000.0,49.0,4.0,64.0,6.0,bleu saphir,5.0,12.0,1
+"Galaxy A7 (2018) - Dual SIM - 128Go HDD - 4Go RAM - 6"" - Bleu - 6 Mois",Samsung,212000.0,1001.0,4.0,128.0,4.0,bleu,5.0,16.0,2
+Galaxy S7 Edge 32Go HDD - 4Go RAM - Or - 12 Mois,Samsung,243500.0,1001.0,4.0,128.0,5.0,or,8.0,16.0,1
+Y5 Lite - Dual Sim - 16GO HDD -1GO Ram - Bleu - 6 Mois,Huawei,72000.0,1001.0,4.0,32.0,4.0,bleu,8.0,16.0,2
+Galaxy M10 Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Noir - 12 Mois,Samsung,125000.0,1001.0,4.0,32.0,6.0,noir,5.0,12.0,2
+Galaxy M20 Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Bleu - 12 Mois,Samsung,142000.0,49.0,4.0,64.0,6.2,bleu,5.0,12.0,2
+Honor 10 lite - 64 Go HDD - 3Go Ram -  Noir - 6 Mois,Huawei,175000.0,49.0,1.0,64.0,5.0,noir,5.0,12.0,1
+Galaxy M20 Dual SIM - 64Go HDD - 4Go RAM - 13+5MP - Bleu - 12 Mois,Samsung,179000.0,9.0,2.0,32.0,4.7,bleu,1.2,8.0,2
+Galaxy M30 Dual SIM - 64Go HDD - 4Go RAM - 13+5MP - Bleu - 12 Mois,Samsung,211000.0,49.0,3.0,32.0,5.0,bleu,7.0,12.0,2
+"Galaxy A7 (2018) - Dual SIM - 128Go HDD - 4Go RAM - 6"" - Noir - 6 Mois",Samsung,212000.0,49.0,1.0,32.0,5.0,noir,12.0,12.0,2
+"Galaxy A7 (2018) - Dual SIM - 128Go HDD - 4Go RAM - 6"" - Noir - 6 Mois",Samsung,212000.0,49.0,2.0,16.0,5.0,noir,2.0,5.0,2
+"Galaxy A7 (2018) - Dual SIM - 128Go HDD - 4Go RAM - 6"" - Bleu - 6 Mois",Samsung,212000.0,49.0,2.0,32.0,5.0,bleu,5.0,5.0,2
+Galaxy A50 Dual SIM - 128Go HDD - 4Go RAM - 25+8+5MP - Noir - 12 Mois,Samsung,243000.0,1001.0,3.0,128.0,5.5,noir,8.0,5.0,2
+Galaxy S7 Edge 32Go HDD -Perle Blanc - 6 mois,Samsung,243500.0,49.0,2.0,128.0,4.0,perle blanc,5.0,13.0,1
+Galaxy S8 Plus SM-G955F - 64Go HDD -4 Go Ram - Noir - 6 mois,Samsung,300000.0,1001.0,2.0,16.0,6.0,noir,2.0,13.0,1
+"Galaxy S8 Plus - 64Go HDD - 4Go RAM - 6,2"" - Or - 6 Mois",Samsung,300000.0,1001.0,3.0,16.0,5.0,or,5.0,16.0,1
+Galaxy S9 Plus - 64Go HDD - Violet lilas - 6 Mois,Samsung,400000.0,1001.0,2.0,16.0,5.0,violet lilas,5.0,16.0,1
+"Desire 610 - 8Go HDD - 1Go RAM - 4,7"" - Noir",HTC,40000.0,1001.0,4.0,32.0,6.0,noir,5.0,12.0,1
+"Hot 6X - Dual SIM - 16Go HDD - 2Go RAM - 6,2"" - Noir",Infinix,83000.0,49.0,4.0,32.0,6.2,noir,5.0,16.0,2
+Smart 2 Dual SIM 16 Go HDD - 1Go RAM - Or - 12 Mois,Infinix,68950.0,101.0,1.0,16.0,6.0,or,20.0,12.0,2
+"Pixi4  - 8 Go HDD - 1 Go RAM - 6"" - Noir",Alcatel,53000.0,101.0,1.0,128.0,6.0,noir,5.0,12.0,1
+A3 Dual SIM 16Go HDD - Blanc - 12 Mois,Alcatel,65000.0,101.0,3.0,128.0,6.0,blanc,5.0,12.0,2
+Galaxy A7 Dual SIM 64 Go HDD - 4Go RAM - Or,Samsung,221000.0,101.0,3.0,32.0,5.0,or,5.0,12.0,2
+Galaxy J7 Pro - 64Go HDD - 3Go RAM - Noir,Samsung,242000.0,101.0,1.0,32.0,5.5,noir,8.0,16.0,1
+Galaxy J2 Pro Dual SIM - 16 Go HDD - 1.5 Go RAM - Noir,Samsung,85000.0,49.0,1.0,64.0,5.0,noir,5.0,12.0,2
+Galaxy M10 Dual SIM - 16Go HDD - 2Go RAM - 13+5MP - Noir,Samsung,127000.0,10001.0,1.0,64.0,5.5,noir,5.0,12.0,2
+Galaxy J6 Plus (2018) - 64 Go HDD - 4 Go RAM - 6'' - Rouge - 3 Mois,Samsung,170000.0,101.0,1.0,4.0,5.5,rouge,5.0,12.0,1
+Galaxy J6 Plus (2018) - 64 Go HDD - 4 Go RAM - 6'' - Gris - 3 Mois,Samsung,170000.0,101.0,1.0,16.0,5.0,gris,8.0,16.0,1
+Galaxy J6 Plus (2018) - 64 Go HDD - 4 Go RAM - 6'' - Gris - 3 Mois,Samsung,170000.0,1001.0,3.0,32.0,5.6,gris,8.0,16.0,1
+Honor 8X Dual SIM - 128Go HDD - 4Go RAM - Bleu,Huawei,235000.0,1001.0,1.0,16.0,6.0,bleu,1.2,8.0,2
+"Galaxy S10 Plus - 128Go HDD - 8Go RAM - 6,4"" - 24 Mois - Blanc",Samsung,651000.0,101.0,1.0,8.0,5.6,blanc,16.0,16.0,1
+Galaxy S7 Edge - 32 Go HDD - 4 Go RAM - Or - 12 Mois + Pochette + Protège Ecran,Samsung,167000.0,1001.0,6.0,16.0,4.7,or,1.2,8.0,1
+Galaxy S7 Edge - 32 Go HDD - 4 Go RAM - Bleu - 12 Mois + Pochette + Protège Ecran,Samsung,167000.0,1001.0,4.0,128.0,5.5,bleu,1.2,8.0,1
+Honor 10 lite - 64 Go HDD - 3 Go RAM -  Bleu Saphir - 6 Mois,Huawei,175000.0,101.0,6.0,32.0,6.0,bleu saphir,8.0,12.0,1
+Honor 10 lite - 64 Go HDD - 3Go Ram -  Noir - 6 Mois,Huawei,175000.0,101.0,2.0,16.0,6.2,noir,1.2,8.0,1
+Samsung Galaxy J4 Plus Dual SIM - 32Go HDD - 2Go RAM - 13MP - Rose,Samsung,141000.0,101.0,2.0,32.0,6.0,rose,5.0,12.0,2
+Camon 11 Dual SIM 32 Go HDD - Blue - 12 Mois,Tecno,145700.0,101.0,1.0,32.0,6.0,bleu,8.0,12.0,2
+"Galaxy S6 Edge - 32Go HDD - RAM 3Go - 5,7"" - Or - 12 Mois + Pochette + Protège Ecran Offerts",Samsung,2210000.0,101.0,1.0,16.0,6.0,or,8.0,12.0,1
+iPhone 6S Plus 16Go HDD - Gris + Pochette Et Ecran de Protection - 12 Mois,Apple,290000.0,101.0,1.0,64.0,6.0,gris,7.0,12.0,1
+Galaxy J4 Plus Dual SIM - 32Go HDD - 2Go RAM - 13MP - Noir Et Or - 12 Mois,Samsung,95265.0,1001.0,1.0,64.0,5.5,noir et or,7.0,12.0,2
+Galaxy S10 - 128Go HDD - 8Go RAM - 16+12+12MP - Noir - 24 Mois de Garantie,Samsung,669900.0,101.0,2.0,8.0,6.0,noir,7.0,12.0,1
+Y5 Lite - Dual Sim - 16GO HDD -1GO Ram - Bleu - 6 Mois,Huawei,72000.0,49.0,1.0,8.0,6.0,bleu,7.0,12.0,2
+Honor 8X -Dual Sim - 128Go HDD - 4Go RAM  - Phantom bleu - 06 Mois,Huawei,230000.0,49.0,3.0,8.0,6.0,phantom bleu,7.0,12.0,2
+"Hot 7 Dual Sim - 6,2"" - 16 Go HDD - 1 Go RAM - Or",Infinix,77000.0,49.0,2.0,16.0,6.0,or,8.0,12.0,2
+"Hot 7 - Dual Sim - 6,2"" - 16 Go HDD - 1 Go RAM - Noir",Infinix,77000.0,49.0,3.0,32.0,6.0,noir,7.0,12.0,2
+Galaxy M10 Dual SIM - 16Go HDD - 2Go RAM - 13+5MP - Noir + Protège Ecran Offert,Samsung,200000.0,49.0,2.0,8.0,5.0,noir,7.0,12.0,2
+"K5 Play Dual SIM - 32 Go HDD - 3 Go RAM - 5,7"" - Bleu - 12 Mois",Lenovo,85000.0,9.0,2.0,64.0,4.0,bleu,7.0,12.0,2
+"Hot 7 Pro Dual Sim - 6,2"" - 32 Go HDD - 2 Go RAM - Or",Infinix,89000.0,49.0,2.0,8.0,6.0,or,8.0,12.0,2
+Vente Flash - Galaxy M10 Dual SIM - 16Go HDD - 2Go RAM - 13+5MP - Noir + Protège Ecran Offert,Samsung,200000.0,49.0,3.0,16.0,5.3,noir,7.0,12.0,2
+Galaxy A7 (2018) - Dual SIM - 128Go HDD - 4Go RAM - Noir - 6 Mois,Samsung,212000.0,49.0,3.0,8.0,6.3,noir,8.0,12.0,2
+Galaxy A7 (2018) - Dual SIM - 128Go HDD - 4Go RAM - Noir - 6 Mois,Samsung,212000.0,49.0,3.0,16.0,4.0,bleu,12.0,12.0,2
+Galaxy S7 Edge 32Go HDD -Perle Blanc - 6 mois,Samsung,243500.0,49.0,3.0,16.0,5.0,perle blanc,7.0,12.0,1
+Galaxy S7 Edge 32Go HDD - 4Go RAM - Or - 12 Mois,Samsung,243500.0,49.0,3.0,8.0,6.0,or,7.0,12.0,1
+"Galaxy S8 Plus - 64Go HDD - 4Go RAM - 6,2"" - Or - 06Mois",Samsung,300000.0,101.0,2.0,32.0,6.0,or,7.0,12.0,1
+Galaxy M20 Dual SIM - 64Go HDD - 4Go RAM - 13+5MP - Noir - 12 Mois  + Protège Ecran Offert,Samsung,190000.0,101.0,2.0,8.0,6.0,noir,7.0,12.0,2
+StarTrail 7 - 4 Go HDD - Bleu (Reconditionné pas de carton d'origine),Startrail,41700.0,99.0,2.0,16.0,6.0,bleu,5.0,8.0,1
+Spark 2 Dual SIM 16 Go HDD - 2 Go RAM - Or Et Noir,Tecno,88000.0,49.0,3.0,128.0,5.1,or et noir,5.0,5.0,2
+Galaxy J7 Pro 32Go HDD - Gris,Samsung,190000.0,10001.0,3.0,64.0,5.7,gris,5.0,13.0,1
+Galaxy Grand Prime Pro Dual SIM 16Go HDD - Noir,Samsung,89500.0,101.0,3.0,128.0,5.0,noir,13.0,13.0,2
+1408 Dual SIM 8Go HDD - Gris,ITEL,33000.0,10001.0,1.0,16.0,4.3,gris,8.0,12.0,2
+"Galaxy J4 Dual SIM 16Go HDD  2Go RAM - Ecran 5.5"" - Noir",Samsung,92000.0,101.0,1.0,16.0,5.0,noir,8.0,12.0,2
+iPhone 7 - 128Go HDD - Noir - 12 Mois,Apple,300000.0,101.0,4.0,8.0,6.0,noir,1.2,8.0,1
+Galaxy S7 - 32 Go HDD - Noir,Samsung,158550.0,101.0,4.0,16.0,5.7,noir,5.0,16.0,1
+Camon 11 Dual SIM 32 Go HDD - Bordeaux -Noir - 13 Mois,Tecno,116350.0,101.0,4.0,8.0,6.0,bordeaux -noir,16.0,16.0,2
+Galaxy J2  - 16 Go HDD + 2 Go RAM -Or,Samsung,75000.0,101.0,1.0,8.0,6.0,or,1.2,8.0,1
+Galaxy J4 Plus Dual SIM - 32Go HDD - 2Go RAM - Noir Et Or,Samsung,99000.0,101.0,3.0,16.0,6.5,noir et or,8.0,12.0,2
+Galaxy J6 Dual SIM - 32 Go HDD - 3 Go RAM - 6'' - Gris Et Bleu,Samsung,129000.0,101.0,4.0,16.0,6.0,gris et bleu,2.0,0.3,2
+Galaxy A3 Edition 2017 Dual SIM 16Go HDD - Or,Samsung,149000.0,49.0,4.0,32.0,6.0,or,2.0,5.0,2
+Galaxy J8 - Dual Sim - 64 Go HDD - 4 Go RAM - 6'' - Or,Samsung,199000.0,49.0,4.0,32.0,6.2,or,2.0,5.0,2
+"Galaxy S9 - 64Go HDD - 4 Go RAM - 6,2'' - Gris",Samsung,409000.0,101.0,4.0,32.0,6.0,gris,2.0,5.0,1
+"A14 + Carte memoire 16Go - Dual SIM- 8Go HDD - 512 Mo RAM - 4"" - Noir - 12 Mois",ITEL,35000.0,49.0,3.0,32.0,6.0,noir,5.0,8.0,2
+StarTrail 6 Reconditionné sans carton d'origine - 4Go HDD - 512Mo RAM - Noir,Startrail,35800.0,49.0,4.0,16.0,5.5,noir,2.0,5.0,1
+Vente Flash - Core Stilo Dual SIM - 8 Go HDD - 1Go RAM - Noir - 24 Mois de Garantie,Noa,35000.0,49.0,1.0,16.0,5.1,noir,2.0,5.0,2
+Pouvoir 2 PRO Dual SIM 16Go HDD - Bleu - 12 Mois,Tecno,104000.0,101.0,1.0,32.0,5.5,bleu,0.3,8.0,2
+Vente Flash - Galaxy M10 Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Noir - 12 Mois,Samsung,114900.0,101.0,1.0,32.0,5.5,noir,5.0,5.0,2
+ZTE Dive71-  Reconditionné (Sans Carton D'Origine) - Noir,welcom et autres,53500.0,101.0,1.0,16.0,5.6,noir,5.0,5.0,1
+Vente Flash - iPhone 6 - 64Go HDD - Blanc Et Or - 12 Mois + Pochette + Protège Ecran Offerts,Apple,159900.0,101.0,4.0,32.0,5.0,blanc et or,5.0,13.0,1
+A16 + Carte memoire 16Go - Dual SIM - 8Go HDD - 512 Mo RAM - Noir -12 Mois,ITEL,42500.0,101.0,3.0,32.0,5.5,noir,5.0,8.0,2
+V15 Dual SIM - 16Go HDD - 1Go RAM - Or + Support paresseux - 12 Mois de Garantie,X-tigi,43000.0,49.0,4.0,16.0,6.3,or,5.0,13.0,2
+A16 + Support paresseux - Dual SIM - 8Go HDD - 512 Mo RAM - Noir - 12,ITEL,43500.0,101.0,4.0,32.0,6.0,noir,5.0,13.0,2
+"V15 Dual Sim - 16Go HDD - 1GB RAM - 5"" - Noir Et Or - 12 Mois + Carte Mémoire 16GB",X-tigi,45500.0,101.0,4.0,32.0,5.5,noir et  or,5.0,8.0,2
+A16 +Carte memoire 16Go + Support paresseux - Dual Sim - 8Go HDD - 512 Mo RAM - Noir - 12 Mois,ITEL,46500.0,101.0,4.0,32.0,6.0,noir,0.0,8.0,2
+Tommy 2 Plus Reconditionné (Sans Carton D'Origine) - 16Go HDD - 1Go RAM - Noir,WIKO,59000.0,99.0,4.0,32.0,5.8,noir,5.0,13.0,1
+"A14 Double Puce - 8Go HDD - 512 Mo RAM - 4"" - Noir - 12 Mois + Carte Mémoire 16Go + Support Téléphone",ITEL,36000.0,101.0,1.0,32.0,5.0,noir,5.0,13.0,2
+Galaxy J6 Plus (2018) Dual SIM - 32 Go HDD - 3 Go RAM - 6'' - Noir,Samsung,137000.0,101.0,6.0,32.0,5.5,noir,5.0,13.0,2
+Galaxy J2 Core Dual Sim - 8Go HDD - 1Go RAM - Noir,Samsung,65000.0,49.0,2.0,16.0,6.0,noir,8.0,13.0,2
+"iPhone 6 - 16Go HDD - 1Go RAM - 4,7"" - Noir (Sans carton d'origine)- 12 Mois",Apple,140500.0,49.0,3.0,64.0,6.0,noir,8.0,13.0,1
+"Galaxy A9 (2018) - 128Go HDD - 6Go RAM - 6"" - Noir",Samsung,294500.0,49.0,2.0,32.0,5.7,noir,1.2,8.0,1
+Galaxy S8 Plus 64Go HDD - Noir,Samsung,347000.0,49.0,2.0,128.0,5.6,noir,2.0,8.0,1
+Galaxy Note 9 - 128Go HDD - 6Go RAM - Noir - 24 Mois,Samsung,599000.0,49.0,3.0,8.0,5.7,noir,20.0,16.0,1
+Spark 2 Dual SIM - 16 Go HDD -  2Go RAM - Noir - 12 Mois,Tecno,82300.0,49.0,1.0,32.0,5.9,noir,8.0,13.0,2
+Spark 2 Dual SIM - 16 Go HDD - 2 Go RAM - Bleu Et Blanc - 12 Mois,Tecno,82700.0,49.0,4.0,64.0,4.7,bleu et blanc,5.0,13.0,2
+Fova Reconditionné - 8Go HDD - Bleu (sans carton d'origine),Orange,55000.0,49.0,6.0,64.0,4.7,bleu,5.0,13.0,1
+Nura OneTouch M812 Reconditionné (sans carton d'origine) - 16Go HDD - Gris,Alcatel,59000.0,1001.0,2.0,64.0,6.1,gris,16.0,16.0,1
+STARADDICT 5 Reconditionné sans carton d'origine - 8Go HDD - 1Go RAM - Noir,HISENSE,47500.0,101.0,2.0,64.0,5.0,noir,5.0,16.0,1
+S13 - 8Go HDD - 1GB RAM - Noir - 13 Mois,ITEL,54000.0,1001.0,1.0,64.0,5.8,gris,5.0,16.0,1
+"Nura2 Reconditionné (sans carton d'origine) - 5,5"" - 16Go - 4G - Gris",Orange,59000.0,101.0,4.0,32.0,4.7,noir,8.0,16.0,1
+Dive 72 Reconditionné - 16Go HDD - Noir (Sans carton d'origine),Orange,65000.0,101.0,1.0,8.0,5.0,noir et or,13.0,13.0,1
+"Galaxy A6 Dual SIM (2018) - 32Go HDD - 3Go RAM - 5,6"" plus Montre connecte gear fit- Noir",Samsung,247500.0,9.0,2.0,4.0,5.5,noir,13.0,13.0,2
+Samsung Galaxy J4 Plus Dual SIM GSM - LTE - 32Go HDD - 2Go RAM - Noir Et Or + Ecouteur,Samsung,150000.0,1001.0,2.0,8.0,5.5,noir,13.0,13.0,2
+"Galaxy J6 Infinity - Dual SIM - 32Go HDD - 3Go RAM - 5,6"" + Montre connectée - Noir",Samsung,238500.0,1001.0,3.0,16.0,6.0,or,13.0,13.0,2
+iPhone 7 32Go HDD + Montre Connectée - Noir - 12 Mois,Apple,533700.0,99.0,3.0,64.0,5.1,bleu,5.0,12.0,1
+Smart 2 Pro Dual SIM 16 Go HDD - 2 Go RAM - Or,Infinix,81000.0,1001.0,2.0,32.0,5.7,bleu,5.0,12.0,2
+"Pouvoir 2 - Dual Sim - 16Go HDD - 2Go RAM - 6"" - Bleu - 12 Mois",Tecno,84000.0,1001.0,2.0,64.0,5.5,or et noir,5.0,12.0,2
+Camon 11 Dual SIM 32 Go HDD - Bleu - 12 Mois,Tecno,108000.0,1001.0,3.0,128.0,6.3,bleu,5.0,12.0,2
+Camon X Dual SIM 32Go HDD - Or Et Noir - 12 Mois,Tecno,130000.0,1001.0,1.0,64.0,5.5,rouge et noir,8.0,12.0,2
+"Pouvoir 2 - Dual Sim - 16Go HDD - 3Go RAM - 6"" - Bleu - 12 Mois",Tecno,90000.0,1001.0,1.0,128.0,5.0,bleu,7.0,12.0,2
+"X608 Hot 6 Pro - Dual SIM - 32Go HDD - 3Go RAM - 6"" - Rouge Et Noir - 12 Mois",Infinix,100000.0,99.0,6.0,64.0,5.1,gris,7.0,12.0,2
+"Hot 6X - Dual SIM - 32Go HDD - 3Go RAM - 6,2"" - Bleu",Infinix,105000.0,99.0,1.0,16.0,5.3,noir,4.0,16.0,2
+Camon CX Dual SIM 16 Go HDD - Gris -12 Mois,Tecno,110250.0,1001.0,4.0,64.0,5.7,or,4.0,16.0,2
+Samsung Galaxy J4 Plus Dual SIM - 32Go HDD - 2Go RAM - 13MP - Noir- 12 Mois,Samsung,110000.0,9.0,2.0,16.0,0.0,gris,5.0,12.0,2
+Samsung Galaxy J4 Plus Dual SIM - 32Go HDD - 2Go RAM - Or - 12 Months,Samsung,110000.0,9.0,2.0,32.0,5.7,rouge,5.0,16.0,2
+Galaxy J6 Plus Dual SIM - 32Go HDD - 3Go RAM - 13+5MP - Gris - 12 Mois,Samsung,115000.0,9.0,4.0,16.0,5.5,noir,7.0,12.0,2
+"Galaxy J6 Plus Dual SIM - 32Go HDD - 3Go RAM - 6"" - Rouge - 12 Mois",Samsung,125000.0,99.0,2.0,16.0,5.0,gris,8.0,12.0,2
+"Galaxy J6 Plus Dual SIM - 32Go HDD - 3Go RAM - 6"" - Noir - 12 Mois",Samsung,125000.0,1001.0,2.0,32.0,6.0,gris argent,8.0,12.0,2
+"iPhone 6 - 32Go HDD - 1Go RAM - 4,7"" - Gris - 12 Mois",Apple,205800.0,1001.0,2.0,8.0,5.8,or,8.0,12.0,1
+iPhone 5S 16 Go HDD - 1 Go RAM - 4'' - Gris Argent,Apple,89500.0,1001.0,4.0,32.0,6.1,gris,7.0,12.0,1
+Galaxy A7 (2018) - Dual SIM - 64Go HDD - 4Go RAM - Or - 6 Mois,Samsung,235000.0,1001.0,3.0,64.0,5.5,noir,16.0,16.0,2
+G5 32Go HDD - Gris,LG,260000.0,1001.0,4.0,32.0,5.7,noir,7.0,12.0,1
+Nova 3i Dual SIM - 128Go - 4Go Ram- HDD - Noir - 3 Mois,Huawei,265500.0,1001.0,2.0,64.0,6.0,noir,7.0,12.0,2
+Core stilo Dual SIM - 8Go HDD - 1Go RAM - Noir - 24 Mois,Noa,35000.0,1001.0,6.0,16.0,5.1,noir,7.0,12.0,2
+Zenfone 4 Max - Dual Sim - 32Go HDD - 3Go RAM - Noir,ASUS,95500.0,101.0,2.0,64.0,5.8,blue,4.0,16.0,2
+Galaxy A6 Plus - Dual Sim - 64Go HDD - 4Go RAM - Noir,Samsung,215500.0,1001.0,2.0,8.0,5.7,bleu,16.0,20.0,2
+Galaxy A7 - Dual SIM - 64Go HDD - 4Go RAM - Bleu,Samsung,215500.0,49.0,4.0,16.0,0.0,or,7.0,12.0,2
+Galaxy A6 Plus - Dual Sim - 64Go HDD - 4Go RAM - Bleu,Samsung,215500.0,10001.0,4.0,16.0,5.7,noir,5.0,16.0,2
+Galaxy A7 - Dual Sim - 64Go HDD - 4Go RAM - Or,Samsung,215500.0,99.0,3.0,32.0,5.7,noir,5.0,12.0,2
+"Galaxy S6 Edge - 64 Go HDD - 3 Go RAM - 5,1'' - Noir",Samsung,150000.0,10001.0,1.0,32.0,5.2,noir,7.0,12.0,1
+"Galaxy S6 Edge Plus  - 32 Go HDD - 4 Go RAM - 5,7"" - Noir",Samsung,160000.0,10001.0,1.0,32.0,5.5,white,12.0,12.0,1
+Ivory Dual SIM - 8Go HDD - 1Go RAM - Noir - 12 Mois,Flash,43500.0,10001.0,2.0,16.0,0.0,noir,7.0,12.0,2
+Galaxy J1 Ace Dual SIM 4Go HDD / 512 Mo Ram - Blanc,Samsung,55700.0,1001.0,4.0,32.0,5.5,noir,7.0,12.0,2
+Galaxy Grand Prime Plus Dual SIM 8Go HDD - 1.5Go Ram - Noir,Samsung,63700.0,99.0,6.0,64.0,5.5,noir et gris,7.0,12.0,2
+Galaxy J4 Core (2018) Dual SIM 16Go HDD / 1Go Ram - Ecran 6 pouces - Noir,Samsung,77700.0,99.0,3.0,128.0,5.5,or,8.0,12.0,2
+"V20 4G LTE - Empreinte Digitale - 64Go HDD - 4Go RAM - 5,7"" - Noir Et Gris",LG,132450.0,99.0,2.0,128.0,5.5,or,5.0,13.0,1
+Galaxy S7 Edge 32 Go HDD - Or,Samsung,159500.0,99.0,2.0,8.0,5.5,rouge,5.0,8.0,1
+"Galaxy J4 Pus Dual SIM - 32Go HDD- 3 Go RAM - 6"" - Or- 3 Mois",Samsung,115000.0,99.0,4.0,64.0,5.5,aurore violet,8.0,13.0,2
+Galaxy J6 Plus (2018) - 64 GB HDD - 4 GB RAM - 6'' + Pochette - Rouge,Samsung,185000.0,49.0,3.0,32.0,5.0,bleu,5.0,8.0,1
+Y9 Dual SIM - 128Go HDD - 4Go RAM - Aurore violet - 3 Mois,Huawei,220500.0,49.0,4.0,16.0,2.0,bleu,4.0,20.0,2
+Galaxy A7 (2018) - Dual SIM - 64Go HDD - 4Go RAM - Bleu - 6 Mois,Samsung,250000.0,99.0,2.0,64.0,5.0,or,5.0,16.0,2
+"Galaxy A7 (2018) - Dual SIM - 128Go HDD - 4Go RAM - 6"" - Bleu - 6 Mois",Samsung,275000.0,99.0,3.0,16.0,6.0,or,8.0,13.0,2
+Galaxy S8 - 64Go HDD - Or - 12 Mois,Samsung,285000.0,49.0,4.0,16.0,5.0,noir,5.0,16.0,1
+Galaxy S8 Plus Duos - 64Go HDD - Or,Samsung,340000.0,49.0,4.0,16.0,5.1,noir,20.0,16.0,1
+Galaxy S7 Edge 32Go HDD- 4Go RAM - Noir - 12 Mois + Pochette,Samsung,160000.0,99.0,2.0,64.0,5.5,marron,1.2,20.0,1
+"Galaxy J4 Core - 16Go HDD - 1Go RAM - 6,1"" - Noir",Samsung,88000.0,9.0,2.0,64.0,5.5,noir,5.0,12.0,1
+Galaxy Note 9 - 64Go HDD - 6Go RAM - Marron - 24 Mois de Garantie,Samsung,740000.0,9.0,3.0,64.0,6.0,noir,2.0,8.0,1
+Galaxy J4 Dual SIM - 16Go HDD - 2Go RAM - Noir - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,79900.0,9.0,1.0,16.0,4.0,or,13.0,13.0,2
+Galaxy S6 Edge 32Go HDD - Noir - 12 Mois,Samsung,135000.0,101.0,2.0,64.0,5.2,bleu,13.0,13.0,1
+Galaxy J4 Dual SIM - 16Go HDD - 2Go RAM - 13MP - Or - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,79900.0,9.0,3.0,16.0,5.5,nor,8.0,13.0,2
+Galaxy J4 Dual SIM - 16Go HDD - 2Go RAM - 13MP - Bleu - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,79900.0,99.0,3.0,8.0,6.0,beige et noir,8.0,13.0,2
+Galaxy J6 Dual SIM - 32Go HDD - 3Go RAM - 13MP - Noir - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,99900.0,99.0,3.0,16.0,5.0,noir,16.0,16.0,2
+"Torque Ego Note 3G - 8Go HDD - 1Go RAM - 5,5"" - Beige Et Noir",TORQUE,37000.0,101.0,3.0,32.0,5.0,blanc,13.0,13.0,1
+"Galaxy S6 - 32Go HDD - 3Go RAM - 5,1"" - Noir",Samsung,135000.0,49.0,1.0,32.0,5.7,noir,13.0,13.0,1
+"Galaxy S6 - 32Go HDD - 3Go RAM - 5,1"" - Blanc",Samsung,135000.0,99.0,1.0,32.0,5.1,noir,13.0,13.0,1
+"Galaxy S7 - 32Go HDD - 4Go RAM - 5,1"" - Noir",Samsung,160000.0,99.0,1.0,16.0,5.7,noir,8.0,16.0,1
+"Galaxy S7 Edge - 32Go HDD - RAM 4Go - 5,5"" - Noir",Samsung,250000.0,99.0,4.0,8.0,6.0,or,16.0,16.0,1
+"Galaxy Note 8 - 64Go HDD - 6Go RAM - 6,3"" - Noir",Samsung,550000.0,99.0,4.0,32.0,4.7,noir,5.0,13.0,1
+Galaxy S6 32 Go HDD - Or,Samsung,129500.0,99.0,4.0,64.0,5.6,noir,8.0,12.0,1
+Galaxy S6 Edge 32 Go HDD - Noir,Samsung,175000.0,99.0,2.0,128.0,5.2,or,8.0,12.0,1
+"Hot 6X - Dual SIM - 32Go HDD - 2Go RAM - 6,2"" - Noir",Infinix,128500.0,49.0,3.0,32.0,5.3,or,8.0,12.0,2
+Galaxy S6 Edge 64 Go HDD - Or,Samsung,150000.0,99.0,6.0,64.0,5.5,gris,7.0,12.0,1
+Galaxy S6 Edge 32 Go HDD - Or,Samsung,138500.0,99.0,0.512,16.0,5.5,rouge,5.0,12.0,1
+iPhone 6S Plus 64Go HDD - Gris - 12 Mois + Pochette + Protège Ecran Offert,Apple,285500.0,99.0,1.0,32.0,5.5,noir,7.0,12.0,1
+"Hot 6 - Dual SIM - 16Go HDD - 1Go RAM - 6"" - Rouge",Infinix,77000.0,99.0,1.0,32.0,5.7,noir,5.0,16.0,2
+"Galaxy S9 SM-G960 - 64Go HDD - 4Go RAM - 5,8"" - Noir - 24 Mois",Samsung,400000.0,99.0,1.0,32.0,6.0,noir,,,1
+"Galaxy J2 Prime - 8Go HDD - 1,5Go RAM - 5"" - Noir",Samsung,78000.0,49.0,2.0,16.0,5.2,noir,,,1
+"Galaxy J4 Dual SIM 16Go HDD - 2Go RAM - 5,5"" - Noir",Samsung,90000.0,99.0,4.0,32.0,6.0,noir,,,2
+"Hot 6X - Dual SIM - 16Go HDD - 2Go RAM - 6,2"" - Noir",Infinix,105850.0,99.0,4.0,32.0,6.0,noire,,,2
+"Note 5 - Dual SIM - 32Go HDD - 3Go RAM - 6"" - Noir - 12 Mois",Infinix,126000.0,9.0,4.0,64.0,6.0,noir,,,2
+"Note 4 Pro - Dual SIM - 32Go HDD - 3Go RAM - 5,7"" - Noir - 12 Mois",Infinix,135000.0,1001.0,4.0,16.0,4.7,noir,,,2
+"Galaxy J6 (2018) - Dual SIM - 32Go HDD - 2Go RAM - 5,6"" - Noir",Samsung,135000.0,99.0,1.0,32.0,5.8,or,,,2
+"Y6 Prime (2018) -16Go HDD - 2Go RAM - 5,7"" - Noir",Huawei,140000.0,9.0,3.0,128.0,5.5,gris et noir,,,1
+"Y7 Prime (2018) - Dual SIM - 32Go HDD - 3Go RAM - 5,9 - Or",Huawei,195000.0,99.0,4.0,16.0,5.5,noir,,,2
+"iPhone 6 - 64Go HDD - 1Go RAM - 4,7"" - Gris Et Noir - 12 Mois",Apple,200000.0,99.0,4.0,64.0,5.8,bleu,,,1
+"iPhone 6 - 128Go HDD - 1Go RAM - 4,7"" - Noir - 12 Mois",Apple,300000.0,99.0,1.0,128.0,6.0,beige,,,1
+"P20 Pro - Dual SIM - 128Go HDD - 6Go RAM - 6,1"" - Bleu - 12 Mois",Huawei,650000.0,99.0,4.0,256.0,4.7,noir,,,2
+"Torque EGO NOTE 3G - 8Go HDD - 1Go RAM - 5,5"" - Beige",TORQUE,37000.0,99.0,4.0,256.0,6.1,rose or et blanc,,,1
+"Galaxy S8 - 64Go HDD - 4GB RAM - 5.8"" - Noir",Samsung,320600.0,99.0,4.0,32.0,4.7,noir,,,1
+"iPhone 7 - 32Go HDD - 2Go RAM - 4,7"" - Rose Or Et Blanc - 6 Mois",Apple,284750.0,99.0,4.0,8.0,5.5,noir,,,1
+"G4 PLAY - Compatible CAMTEL Uniquement - 16Go HDD - 2Go RAM - 5"" - Noir",MOTOROLA,100000.0,1001.0,4.0,8.0,4.7,blanc,,,1
+CRYSTAL Dual SIM 64Go HDD - 4Go RAM - 13+5MP - 12 Mois,UMIDIGI,195000.0,49.0,4.0,16.0,6.0,gris argent,,,2
+Galaxy S5 16Go HDD - Blanc - 3 Mois,Samsung,80500.0,99.0,4.0,64.0,5.5,or,,,1
+"R2 Plus (2019) - 16Go HDD - 2Go RAM - 6,2"" - Gris Argent - 12 Mois",Blu,105500.0,99.0,1.0,32.0,5.5,noir,,,1
+Galaxy S7 32Go HDD - Or - 3 Mois,Samsung,125000.0,49.0,6.0,32.0,5.5,noir,,,1
+"Galaxy J7 (2016) Dual SIM - 16 Go - 2 Go RAM - 5,5'' - Noir",Samsung,130000.0,49.0,1.0,128.0,6.2,noir,,,2
+"Redmi 5 Plus - Dual SIM - 64Go HDD - 4Go RAM - 5,99"" - Noir + Pochette + Protège Ecran",Xiaomi,145000.0,49.0,1.0,32.0,5.5,blanc,,,2
+"Galaxy S6 Edge - 64 Go HDD - 3 Go RAM - 5,1'' - Black",Samsung,155000.0,99.0,4.0,128.0,6.0,noir,,,1
+Galaxy S4 16Go HDD - Blanc - 3 Mois,Samsung,75000.0,49.0,1.0,8.0,6.0,gris,,,1
+"V20 - 64 Go HDD - 4Go RAM - 5,7"" - Noir",LG,135000.0,49.0,4.0,8.0,5.8,noir,,,1
+iPhone 6S Plus 16Go HDD - Gris + Pochette Et Ecran de Protection - 12 Mois,Apple,210500.0,49.0,2.0,7.0,5.8,gris,,,1
+"Galaxy Note 8 - 64 Go HDD - 6 Go RAM - 6,3'' - Noir - 24 Mois",Samsung,330000.0,49.0,2.0,16.0,5.8,noir,,,1
+"iPhone 6S Plus - 16Go HDD - 2Go RAM - 5,5"" - Gris - 12 Mois + Pochette Et Ecran De Protection",Apple,200500.0,49.0,4.0,16.0,6.5,noir,,,1
+"F1 - Dual SIM - 8Go HDD - 512Mo RAM - 5"" - Noir - 12 Mois",Tecno,43800.0,49.0,6.0,16.0,5.8,gris,,,2
+Galaxy S5 16Go HDD - Noir - 3 Mois,Samsung,85000.0,49.0,2.0,64.0,5.0,or,,,1
+G5 - 32Go HDD - Gris - 12 Mois + Protège Ecran Offert,LG,110000.0,49.0,6.0,32.0,5.5,bleu,,,1
+Galaxy S6 Edge plus 32Go HDD - Or - 3 Mois,Samsung,164000.0,49.0,2.0,32.0,5.5,noir,,,1
+Galaxy S6 32Go HDD - Bleu - 3 Mois,Samsung,119500.0,49.0,2.0,64.0,5.7,rose or,,,1
+Note 4 Pro Dual SIM 32Go HDD - Noir - 12 Mois,Infinix,130000.0,49.0,3.0,64.0,5.2,or,,,2
+Smart 2 Dual SIM 16 Go HDD - 1 Go RAM - Rose Or,Infinix,68000.0,49.0,2.0,32.0,5.2,or,,,2
+Galaxy Grand Prime Plus Dual SIM 8Go HDD - Or,Samsung,85000.0,1001.0,32.0,32.0,4.7,or,,,2
+Spark 2 Dual SIM 32 Go HDD + 2 Go RAM - Or - 12 Mois,Tecno,95000.0,1001.0,3.0,32.0,5.5,bleu,,,2
+Vente Flash - Galaxy S8 64Go HDD - Or,Samsung,225000.0,1001.0,3.0,16.0,5.6,noir,,,1
+P20 Pro - 128 Go HDD - 6Go Ram - Bleu,Huawei,433000.0,99.0,3.0,32.0,6.3,or,,,1
+Galaxy S6 Edge 32Go HDD - noir - 3 Mois,Samsung,135000.0,99.0,4.0,32.0,4.0,noir,,,1
+Galaxy Note 5 32 Go HDD - Or,Samsung,145250.0,99.0,3.0,32.0,5.0,blanc,,,1
+iPhone6 16 Go HDD - Noir,Apple,150570.0,10001.0,32.0,32.0,5.0,or,,,1
+Galaxy S6 Edge 64 Go HDD - Blanc,Samsung,189320.0,99.0,6.0,64.0,5.5,noir,,,1
+Galaxy C7 32 Go HDD - Or,Samsung,189500.0,99.0,3.0,32.0,5.0,gris,,,1
+iPhone 6+ 16 Go HDD - Noir,Apple,203250.0,99.0,4.0,64.0,5.5,noir,,,1
+iPhone 6S Plus 64Go HDD - Gris+ Pochette et Ecran de Protection - 12 Mois,Apple,280500.0,99.0,3.0,16.0,5.0,gris,,,1
+"X Bot Champ - 32 Mo -  4Mo RAM - 2,4"" - Noir",X TOUCH,20000.0,99.0,4.0,64.0,5.0,noir,,,1
+G4 Stylus 16Go HDD - Gris (Reconditionné),LG,75000.0,49.0,4.0,16.0,5.0,or,,,1
+Galaxy Note5 - 32Go HDD -Noir,Samsung,125800.0,99.0,1.0,128.0,5.0,or,,,1
+"Redmi 5 Plus - Dual SIM - 32Go HDD - 3Go RAM - 5,99"" - Or + Pochette + Protège Ecran",Xiaomi,130000.0,99.0,1.0,128.0,5.0,or,,,2
+Galaxy A5 16 Go HDD - Or,Samsung,130100.0,49.0,1.0,28.0,5.5,noir,,,1
+Galaxy S7 32 Go HDD - Or,Samsung,138000.0,99.0,4.0,64.0,6.0,blanc,,,1
+"X - Double Puce - 16Go HDD - 2Go RAM - 5,8"" - Noir + Écouteurs + Ecran De Protection",X TOUCH,140000.0,101.0,4.0,128.0,6.0,blanc,,,2
+Galaxy S6 Edge 32Go HDD - Blanc - 3 Mois,Samsung,140000.0,101.0,4.0,64.0,5.5,noir,,,1
+Galaxy S6 32Go HDD - Blanc - 3 Mois,Samsung,140000.0,101.0,1.0,64.0,4.5,or,,,1
+Galaxy S7 Edge 32 Go HDD - Noir,Samsung,159600.0,101.0,4.0,64.0,6.0,or,,,1
+Galaxy S6 Edge+ 32 Go HDD - Or,Samsung,169000.0,1001.0,3.0,64.0,5.0,or,,,1
+Galaxy S6 Edge Plus 64Go HDD - Or,Samsung,175000.0,9.0,1.0,128.0,5.0,or,,,1
+Galaxy A5 Édition 2016 16Go HDD - Or + Pochette + Ecran De Protection,Samsung,200000.0,99.0,6.0,64.0,5.4,noir,,,1
+Galaxy S7 Edge Dual SIM 32Go HDD - Or,Samsung,221500.0,49.0,1.0,128.0,5.4,noir,,,2
+Galaxy S8+  Duos 64Go HDD - Noir,Samsung,301500.0,99.0,1.0,32.0,4.7,or,,,1
+"iPhone 7 Plus - 128Go HDD - 3Go RAM - 5,5"" - Noir",Apple,347900.0,99.0,1.0,256.0,5.0,or,,,1
+iPhone 6 Plus - 16Go HDD - Or - 1 Mois,Apple,396300.0,49.0,0.512,128.0,6.0,rouge,,,1
+iPhone 6s Plus 64Go HDD - Or,Apple,419500.0,99.0,1.0,128.0,4.0,or,,,1
+iPhone 7 Plus 128Go HDD - Rouge,Apple,450000.0,101.0,1.0,128.0,5.0,rouge,,,1
+iPhone 7 Plus 256Go HDD - Or,Apple,475000.0,101.0,1.0,64.0,5.8,or,,,1
+iPhone 7 Plus 256Go HDD - Rouge,Apple,499000.0,99.0,1.0,64.0,6.0,noir,,,1
+iPhone 7 Plus 32Go HDD - Or,Apple,513600.0,49.0,2.0,128.0,5.7,blanc,,,1
+Ivory Dual SIM 8 Go HDD - 1Go RAM - Noir - 12 Mois,Flash,33900.0,49.0,1.0,64.0,5.7,noir et jaune,,,2
+"SP4 Senior - 32Mo - 4Mo RAM - 2,2"" - Blanc",X TOUCH,15000.0,49.0,3.0,512.0,6.0,noir et argent,,,1
+"X Bot Swimmer - 32 Mo -  4Mo RAM - 2,4"" - Noir Et Jaune",X TOUCH,36000.0,49.0,1.0,256.0,5.2,bleu,,,1
+A2 XL Dual SIM 8Go HDD - Noir Et Argent,Alcatel,45000.0,101.0,3.0,512.0,4.7,blanc,,,2
+"NX - Dual SIM - 16Go HDD - 1Go RAM - 5"" - Bleu - 12 Mois",Tecno,62000.0,101.0,2.0,256.0,5.7,noir,,,2
+Galaxy S6 32 Go HDD - Blanc,Samsung,125915.0,101.0,2.0,16.0,5.7,or,,,1
+Galaxy C5 32 Go HDD - Noir,Samsung,134395.0,49.0,2.0,7.0,6.0,blanc et or,,,1
+Galaxy S6 Edge 32Go HDD - Or - 3 Mois,Samsung,135000.0,9.0,1.0,16.0,5.1,noir,,,1
+Mi A2 Dual SIM - 64Go HDD - 4Go RAM - 20+12MP - Blanc Et Or + Pochette + Protège Ecran Offerts - 12 Mois,Xiaomi,139900.0,49.0,3.0,32.0,6.0,noir,,,2
+Galaxy A5 16 Go HDD - Noir,Samsung,140100.0,101.0,2.0,32.0,6.0,noir,,,1
+Galaxy S7 Dual SIM 32 Go HDD - Noir,Samsung,150000.0,49.0,1.0,32.0,6.0,or,,,2
+Galaxy S6 Edge 64 Go HDD - Noir,Samsung,155000.0,49.0,2.0,16.0,6.0,blanc,,,1
+Galaxy C5 32 Go HDD - Or,Samsung,159500.0,49.0,2.0,32.0,5.5,or,,,1
+Galaxy C7 32 Go HDD - Blanc,Samsung,170500.0,49.0,3.0,32.0,5.5,noir,,,1
+Galaxy S7 Dual SIM 32Go HDD - Or - 12 Mois,Samsung,170630.0,101.0,2.0,64.0,0.0,argent,,,2
+Galaxy S7 Edge Dual SIM 32 Go HDD - Noir,Samsung,185000.0,49.0,4.0,64.0,5.5,blanc,,,2
+iPhone 6S 64 Go HDD - Argent,Apple,205000.0,49.0,2.0,8.0,5.5,or,,,1
+iPhone 6 Plus 128 Go HDD 1 Go RAM - Blanc - 12 Mois,Apple,240000.0,49.0,2.0,8.0,5.8,violet,,,1
+iPhone 7 Plus 32Go HDD - Or - 12 Mois,Apple,425500.0,9.0,1.0,8.0,5.0,noir,,,1
+Galaxy Note 9 - 128Go HDD - 6Go RAM - Violet - 12 Mois de Garantie,Samsung,700000.0,101.0,4.0,8.0,6.0,noir,,,1
+"A14 - Double Puce - 8Go HDD - 512 Mo RAM - 4"" - Noir - 12 Mois",ITEL,30000.0,49.0,4.0,8.0,5.5,noir,,,2
+A506 8Go HDD - 1Go RAM - Noir,ZTE,45000.0,9.0,4.0,8.0,6.0,or,,,1
+F3(Pop¹) Dual SIM 8Go HDD - Noir - 12 Mois,Tecno,59300.0,9.0,3.0,8.0,6.2,argent,,,2
+Hot 6 Dual SIM 16Go HDD - Or,Infinix,79000.0,49.0,4.0,16.0,4.7,or,,,2
+Galaxy Grand Prime Pro Dual SIM 16Go HDD - Argent - 03 Mois de Garantie,Samsung,84800.0,49.0,4.0,4.0,4.7,blanc,,,2
+Galaxy A7 16 Go HDD - Or,Samsung,95000.0,49.0,4.0,8.0,5.0,noir,,,1
+"Galaxy S4 - 16Go HDD - 2Go RAM - 5"" - Blanc + Ecran De Protection",Samsung,100000.0,49.0,4.0,16.0,5.0,noir,,,1
+Galaxy S6 32 Go HDD - Noir,Samsung,120000.0,49.0,3.0,16.0,5.0,or,,,1
+"V20 4G LTE - 64Go HDD - 4Go RAM - 5,7"" - Empreinte Digitale - Noir",LG,132450.0,49.0,3.0,16.0,4.7,ou,,,1
+"Galaxy S7 - 32 Go HDD - 4 Go RAM - 5,1'' - Or",Samsung,139500.0,10001.0,4.0,16.0,5.7,rose-noir - or,,,1
+Galaxy Note 5 32Go HDD - OR,Samsung,139555.0,49.0,4.0,16.0,5.5,or,,,1
+"Redmi 6X - Compatible Tous Réseaux - 64Go HDD - 4Go RAM - 5,99"" - Or",Xiaomi,149000.0,9.0,4.0,32.0,5.8,noir,,,1
+"iPhone 6 - 64Go HDD - 1Go RAM - 4,7"" - Or - 12 Mois + Pochette + Protège Ecran Offerts",Apple,150000.0,10001.0,6.0,16.0,5.9,blanc,,,1
+"Galaxy J6 Infinity - Dual SIM - 32Go HDD - 3Go RAM - 5,6"" - Noir",Samsung,150000.0,9.0,3.0,16.0,5.0,blanc,,,2
+Galaxy S7 32 Go HDD - Blanc,Samsung,154820.0,10001.0,4.0,16.0,6.2,gris,,,1
+"Galaxy S7 Edge - 32 Go HDD - 4 Go RAM - 5,5"" - Blanc",Samsung,159000.0,1001.0,6.0,16.0,6.3,noir,,,1
+Galaxy S7 Edge 32Go HDD - Gris + Protège Ecran,Samsung,159000.0,101.0,4.0,16.0,6.3,gris,,,1
+Galaxy C5 32Go HDD - Noir,Samsung,160000.0,101.0,2.0,8.0,6.1,blanc,,,1
+G5 32Go HDD - Gris - 12 Mois + Protège Ecran,LG,160000.0,1001.0,2.0,32.0,5.5,noir,,,1
+"iPhone 6 - 16Go HDD - 1Go RAM - 4,7"" -  Blanc Et Or",Apple,162350.0,101.0,6.0,32.0,6.0,noir,,,1
+"Galaxy S7 Edge - 32 Go HDD - RAM 4 Go - 5,5"" - Noir - 12 Mois + Pochette + Protège Ecran",Samsung,165000.0,101.0,3.0,16.0,5.5,noir,,,1
+Galaxy S7 Edge - 32 Go HDD - 4 Go RAM - Noir - 12 Mois + Pochette + Protège Ecran,Samsung,169900.0,1001.0,3.0,16.0,5.5,noir,,,1
+Galaxy S7 Edge 32Go HDD - RAM 4Go - Noir - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,179900.0,49.0,2.0,16.0,5.8,noir,,,1
+Galaxy C7 32Go HDD - Noir - 6 Mois,Samsung,180000.0,101.0,4.0,16.0,5.2,or,,,1
+Galaxy J8 64Go HDD - Noir + Thé Edmark Red Bubble Offert (20 Sachets),Samsung,213800.0,49.0,3.0,16.0,6.4,noir,,,1
+Galaxy C5 32Go HDD - Or,Samsung,230000.0,49.0,4.0,64.0,4.7,gris,,,1
+Galaxy A7 (2018) - Dual SIM - 64Go HDD - 4Go RAM - Noir - 6 Mois + Glace De Protection Offerte,Samsung,232900.0,101.0,4.0,16.0,6.0,noir,,,2
+iPhone 6 Plus - 16Go HDD - Gris,Apple,250000.0,101.0,4.0,16.0,5.8,or,,,1
+Galaxy C9 Pro 64Go HDD - Noir - 6 Mois,Samsung,250000.0,101.0,6.0,64.0,6.0,or,,,1
+iPhone 6 Plus - 16Go HDD - Or,Apple,250000.0,101.0,6.0,32.0,4.7,noir,,,1
+iPhone 6 128Go HDD - Or,Apple,250000.0,101.0,6.0,32.0,4.7,noir,,,1
+"Galaxy A7 (2018) - Dual SIM - 128Go HDD - 4Go RAM - 6"" - Noir - 6 Mois",Samsung,255000.0,1001.0,6.0,64.0,5.8,noir,,,2
+iPhone 6 128 Go HDD 1 Go RAM - Noir - 12 Mois,Apple,280000.0,101.0,3.0,32.0,5.8,noir,,,1
+"Galaxy S8 - 64Go HDD - 4Go RAM - 5,8"" - Noir",Samsung,300000.0,101.0,6.0,64.0,5.0,noir et gris,,,1
+iPhone 6 Plus 128 Go HDD 1 Go RAM - Noir - 12 Mois,Apple,320000.0,101.0,3.0,64.0,5.0,noir,,,1
+iPhone 6s Plus 64Go - 2Go RAM - 12MP - Noir Et Gris,Apple,320000.0,101.0,3.0,64.0,5.2,gris,,,1
+Galaxy S8 Duos SM-G950FD - 64Go HDD - Noir - 12 Mois,Samsung,373350.0,1001.0,3.0,64.0,5.2,or,,,1
+"Galaxy S9 Plus - 64Go HDD - 6 Go RAM - 6,2'' - Gris",Samsung,399900.0,1001.0,3.0,32.0,5.0,noir,,,1
+iPhone 8 64Go HDD - Or,Apple,420000.0,101.0,8.0,32.0,5.5,noir,,,1
+P20 Pro - 128 Go HDD - 6Go Ram - Noir,Huawei,433900.0,101.0,2.0,32.0,5.7,noir,,,1
+iPhone 8 64Go HDD - Noir,Apple,442700.0,1001.0,4.0,64.0,5.6,noir,,,1
+iPhone 7 128Go HDD - Noir - 12 Mois,Apple,475000.0,1001.0,2.0,64.0,5.7,or,,,1
+iPhone 7 Plus 32Go HDD - Noir,Apple,489500.0,1001.0,3.0,128.0,5.9,noir,,,1
+iPhone 7 256Go HDD - Or - 6 Mois,Apple,500000.0,101.0,6.0,32.0,5.0,or,,,1
+Galaxy S9 - 32Go HDD - 4Go RAM - Noir,Samsung,539500.0,101.0,2.0,32.0,5.5,rouge,,,1
+iPhone 7 Plus 128Go HDD - Or - 12 Mois,Apple,540000.0,101.0,2.0,128.0,5.0,noir,,,1
+iPhone 7 Plus 128Go HDD - Rouge - 12 Mois,Apple,540000.0,1001.0,3.0,64.0,5.7,noir,,,1
+iPhone 7 Plus 128Go HDD - Noir - 12 Mois,Apple,550000.0,99.0,4.0,32.0,5.7,rouge,,,1
+Galaxy S8 Plus (DUOS) 64Go HDD - Noir,Samsung,560000.0,1001.0,1.0,32.0,6.2,gris,,,1
+iPhone 8 Plus - 64Go HDD - Rouge,Apple,589500.0,99.0,1.0,128.0,4.7,noir,,,1
+Galaxy S9 Plus - 32Go HDD - 6Go RAM - Gris,Samsung,595000.0,1001.0,2.0,32.0,4.7,argent,,,1
+Galaxy Note 9 - 128Go HDD - 6Go RAM - Noir - 24 Mois de Garantie,Samsung,699900.0,1001.0,4.0,32.0,6.0,blanc,,,1
+iPhone X 64Go HDD - Argent,Apple,790000.0,1001.0,3.0,32.0,5.7,gris,,,1
+"iPhone XS - 512 Go HDD - 4 Go RAM - 5,8'' - Blanc",Apple,896000.0,99.0,4.0,32.0,5.0,gris sidéral,,,1
+iPhone X 256Go HDD - 3Go RAM - 12MP - Gris - 12 Mois + Pochette + Protège Ecran Offerts,Apple,979900.0,99.0,4.0,32.0,5.5,or,,,1
+iPhone XS Max 512Go HDD - 4Go RAM - Gris Sidéral,Apple,980000.0,1001.0,3.0,128.0,6.0,noir,,,1
+iPhone XS 256Go HDD - Or,Apple,999900.0,1001.0,4.0,64.0,6.0,bleu,,,1
+PIXI 4 Plus Power 16Go HDD - Noir,Alcatel,54000.0,10001.0,3.0,64.0,6.0,noir,,,1
+F3(Pop¹) Dual SIM 8Go HDD - Bleu - 12 Mois,Tecno,59500.0,9.0,2.0,64.0,5.7,or,,,2
+F3(Pop¹) Pro - Dual SIM - 16Go HDD - Noir - 12 Mois,Tecno,65500.0,1001.0,4.0,64.0,5.7,bleu,,,2
+Galaxy J7 Max Dual SIM - 32Go HDD - 4Go RAM - Or - 3 Mois,Samsung,140000.0,99.0,4.0,64.0,6.0,bleu,,,2
+P10 Lite Dual SIM 64Go HDD - Bleu- 12 Mois,Huawei,161000.0,101.0,2.0,128.0,6.0,gris sidéral,,,2
+P10 Lite Dual SIM 32Go HDD - Bleu - 12 Mois + Edmark Shake Off Offert (20 Sachets),Huawei,169000.0,99.0,4.0,256.0,5.5,or,,,2
+iPhone 6 16 Go HDD -  Gris Sidéral,Apple,170000.0,10001.0,4.0,64.0,6.0,noir,,,1
+Galaxy S6 Edge Plus - 32Go HDD - RAM 4Go - Or + Protège Ecran,Samsung,215000.0,101.0,6.0,256.0,5.8,or,,,1
+"Galaxy A6 Dual SIM (2018) - 32Go HDD - 3Go RAM - 5,6"" - Noir + Glace De Protection",Samsung,215000.0,1001.0,2.0,128.0,5.6,noir,,,2
+iPhone 5S 64 Go HDD - Or - 12 Mois,Apple,220000.0,1001.0,2.0,64.0,5.9,bleu,,,1
+Galaxy Note 8 64Go HDD - Noir,Samsung,337000.0,101.0,4.0,32.0,6.3,blanc,,,1
+A14 - 8GB HDD - Bleu,ITEL,27400.0,101.0,4.0,128.0,5.5,noir,,,1
+V10 Dual SIM 8 Go HHD - Blanc - 13 Mois,X-tigi,33000.0,1001.0,2.0,32.0,5.8,noir,,,2
+"A16 - Dual SIM - 8Go HDD - 512 Mo RAM - 5"" - Noir - 13 Mois",ITEL,37500.0,1001.0,4.0,128.0,6.2,noir,,,2
+P13 Dual SIM 8Go HDD - 512 Mo RAM - Noir - 13 Mois,ITEL,45700.0,1001.0,4.0,64.0,5.5,noir et gris,,,2
+IT P12 Dual SIM 8Go HDD - Noir,ITEL,46800.0,1001.0,4.0,64.0,6.5,rose or,,,2
+A5002 Dual SIM 8 Go HDD - Noir Et Gris - 12 Mois,Fero,47000.0,49.0,4.0,128.0,4.9,or,,,2
+A32F Dual SIM 8Go HDD - Rose Or - 12 Mois,ITEL,49900.0,1001.0,4.0,128.0,5.5,blanc,,,2
+"V15 - Double Puce - 16Go - 1Go RAM - 5"" - Or - 12 Mois",X-tigi,52000.0,1001.0,4.0,128.0,5.0,bleu,,,2
+V9 4 Go HDD - Blanc,VSUN,54400.0,1001.0,4.0,256.0,5.7,noir,,,1
+P32 Dual SIM 8Go HDD - 1 Go RAM - Bleu - 13 Mois,ITEL,54900.0,1001.0,4.0,64.0,,bleu,,,2
+X-tigi V18 Dual SIM 16Go HDD + B310 Dual SIM - Noir - 12 Mois,X-tigi,56500.0,99.0,4.0,8.0,,noir,,,2
+F3(Pop¹) Pro Dual SIM 16Go HDD - Bleu- 12 Mois,Tecno,64000.0,9.0,4.0,8.0,,noir,,,2
+"Alcatel OT9001D - Dual SIM - 16 Go HDD - 1,5 Go RAM - 6"" - Noir - 12 Mois",Alcatel,65000.0,49.0,4.0,16.0,,or,,,2
+ULEFONE S8 Pro Dual SIM 16Go HDD - Noir,ULEFONE,66500.0,1001.0,3.0,16.0,,gris,,,2
+"S33 - 16Go HDD - 1Go RAM - 6"" - Or - 12 Mois",ITEL,69500.0,101.0,4.0,32.0,,noir,,,1
+TCL 562 Dual SIM 32Go HDD - Gris - 12 Mois,TCL,70000.0,9.0,4.0,64.0,,noir,,,2
+Core 2 - Noir,Samsung,70600.0,9.0,2.0,64.0,,rose or,,,1
+Hot 6 Dual SIM 16Go HDD - Noir,Infinix,79000.0,101.0,4.0,32.0,,or,,,2
+Royale X1 Dual SIM 16Go HDD - Rose Or - 12 Mois,Fero,83000.0,9.0,6.0,64.0,,noir,,,2
+XT1762 Moto E4 Dual Sim 16 Go HDD - Or - 6 mois,MOTOROLA,85100.0,9.0,6.0,32.0,,bleu,,,2
+Y5 Prime 2018 Dual SIM 16Go HDD - Noir - 12 Mois + Edmark Red Bubble Tea Offert (20 Sachets),Huawei,86500.0,49.0,3.0,32.0,,noir,,,2
+Y5 Prime 2018 Dual SIM 16Go HDD - Bleu - 12 Mois + Edmark Café73 Offert (20 Sachets),Huawei,86500.0,49.0,4.0,64.0,,blanc,,,2
+L9 II - 8Go HDD - 1Go RAM - Noir,LG,86600.0,49.0,3.0,32.0,,or et blanc,,,1
+Galaxy A7 16 Go HDD - Blanc,Samsung,90000.0,9.0,3.0,16.0,,blanc,,,1
+One A9s - 32Go HDD - 3Go RAM - Or Et Blanc,HTC,90000.0,9.0,1.0,32.0,,noir,,,1
+Galaxy A5 16 Go HDD - Blanc,Samsung,95000.0,9.0,4.0,32.0,,noir,,,1
+562 Dual SIM 32Go HDD - Noir - 12 Mois,TCL,95000.0,101.0,,64.0,,or,,,2
+Spark 2 Dual SIM 32 Go + 2 Go Ram HDD - Noir - 12 Mois,Tecno,95000.0,9.0,,16.0,,noir,,,2
+iPhone 5 16Go HDD - Or,Apple,99900.0,49.0,,16.0,,noir,,,1
+X Bot Junior -16Go - Noir,X TOUCH,100000.0,101.0,,64.0,,or,,,1
+X-Touch X Dual SIM - 16Go HDD - Noir + écouteurs et Ecran De Protection,X TOUCH,101000.0,101.0,,32.0,,or,,,2
+Camon X Dual SIM 16Go HDD - Or -12 Mois,Tecno,110000.0,101.0,,32.0,,noir,,,2
+Y6 Prime 2018 Dual SIM 16Go HDD - Or - 12 Mois + Edmark Bubble C Offert (20 Sachets),Huawei,115000.0,9.0,,64.0,,noir,,,2
+G6 64Go HDD - 4Go RAM - Noir - 12 Mois + Pochette + Protège Ecran  Offerts,LG,124900.0,9.0,,64.0,,or,,,1
+"L9 Plus - Dual SIM - 16Go HDD - 2Go RAM - 6"" - Noir + W2 8Go HDD Dual SIM",Tecno,135950.0,10001.0,,64.0,,blanc,,,2
+Galaxy A5 Edition 2016 16Go HDD - Or,Samsung,145000.0,9.0,,64.0,,or,,,1
+Galaxy S6 Edge 32 Go HDD - Blanc,Samsung,145800.0,49.0,,32.0,,blanc,,,1
+Galaxy S6 Edge Plus 32Go HDD - Or - 12 Mois,Samsung,150000.0,1001.0,,32.0,,gris,,,1
+Galaxy C5 32 Go HDD - Blanc,Samsung,155000.0,9.0,,64.0,,or,,,1
+iPhone 6 64Go HDD - Gris - 12 Mois + Pochette + Protège Ecran Offerts,Apple,159900.0,1001.0,,64.0,,or,,,1
+Galaxy J7 Max Dual SIM 32Go HDD - Or + Edmark Café Ginseng Offert - 12 Mois,Samsung,162000.0,9.0,,64.0,,noir,,,2
+"Galaxy J7 Max - Dual SIM - 32Go HDD - 4Go RAM - 5,7"" - Or - 12 Mois + Café Edmark Ginseng",Samsung,167000.0,101.0,,64.0,,or,,,2
+Galaxy J8 - 32Go HDD - Noir + Thé Edmark Red Bubble Offert,Samsung,170000.0,1001.0,,64.0,,noir,,,1
+Galaxy S6 32Go HDD - RAM 3Go - Or - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,180000.0,1001.0,,32.0,,bleu,,,1
+Mate10  Lite - DUAL SIM -64Go HDD - 4Go Ram - Noir - 6 Mois,Huawei,180500.0,9.0,,64.0,,bleu,,,2
+Huawei Ascend Mate 10 Lite Dual SIM 64 Go HDD - Bleu - 12 Mois,Huawei,182000.0,1001.0,,64.0,,noir,,,2
+Galaxy J8 - Dual Sim - 64 Go HDD - 4 Go RAM - 6'' - Bleu,Samsung,185000.0,101.0,,16.0,,noir,,,2
+Galaxy J6 Plus (2018) - 64 Go HDD - 4 Go RAM - 6'' - Noir + Pochette,Samsung,185000.0,1001.0,,64.0,,noir,,,1
+Galaxy J7 Pro 32Go HDD - Noir + Pochette,Samsung,185500.0,1001.0,,64.0,,bleu,,,1
+Galaxy J7 Pro 32Go HDD - Noir,Samsung,195000.0,1001.0,,64.0,,or,,,1
+Galaxy S7 Edge 32Go HDD - Bleu - 3 Mois,Samsung,195000.0,1001.0,,256.0,,bleu,,,1
+Galaxy S7 Edge 32Go HDD - Or - 3 Mois,Samsung,198500.0,1001.0,,64.0,,noir,,,1
+Nova 2 Plus 64Go HDD - 4Go RAM - Bleu + Edmark Shake Off Offert (20 sachets),Huawei,208650.0,10001.0,,64.0,,bleu,,,1
+Nova 3E - 64Go HDD - 4Go Ram - Noir + Edmark Shake Off Offert (12 Sachets),Huawei,226000.0,1001.0,,128.0,,noir,,,1
+Honor 9 Dual SIM 128Go HDD - 6Go RAM - Bleu - 12 Mois,Huawei,250000.0,1001.0,,16.0,,or,,,2
+X Bot Senior - 32 Go HDD - 3Go RAM - Noir,X TOUCH,250000.0,101.0,,64.0,,rose or,,,1
+Galaxy S7 Edge 32Go HDD - 4Go RAM - Or - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,250500.0,1001.0,,,,noir,,,1
+"iPhone 6S - 64 Go HDD - 2 Go RAM - 4,7"" - Rose Or",Apple,270000.0,1001.0,,,,or,,,1
+"Galaxy A9 (2018) - 128Go HDD - 6Go RAM 6"" - Noir - 6 Mois",Samsung,295000.0,10001.0,,,,rose or,,,1
+Galaxy S8 Plus 64Go HDD - Or,Samsung,300000.0,101.0,,,,noir,,,1
+iPhone 7 32Go HDD - Rose Or - 12 Mois,Apple,303000.0,101.0,,,,noir,,,1
+iPhone 7 32Go HDD - Noir - 12 Mois,Apple,303000.0,101.0,,,,blanc,,,1
+"P10+ -128Go HDD - 6Go RAM - 5,5"" - Noir",Huawei,305000.0,1001.0,,,,noir,,,1
+"Mi 5 - Dual SIM - 32Go HDD - 3Go RAM - 5,15"" - Blanc",Xiaomi,309200.0,1001.0,,,,gris,,,2
+"Mi 5 - Dual SIM - 32 Go HDD - 3Go RAM - 5,15"" - Noir",Xiaomi,309200.0,1001.0,,,,or,,,2
+iPhone 6S - 32Go - RAM 2Go - 12MP - Gris,Apple,310000.0,101.0,,,,noir,,,1
+Galaxy Note 5 32 Go HDD 4 Go RAM - Or - 12 Mois,Samsung,320000.0,1001.0,,,,noir,,,1
+"iPhone 7 Plus - 32Go HDD - 3Go RAM - 5,5"" - Noir - 6 Mois",Apple,326900.0,1001.0,,,,or,,,1
+"P20 - 128 Go HDD - 4Go RAM - 5,8"" - Noir",Huawei,348000.0,1001.0,,,,noir,,,1
+"Mate 10 Lite - Dual SIM - 64Go HDD - 4Go RAM - 5,9"" - Or - 12 Mois",Huawei,350000.0,101.0,,,,violet lilas,,,2
+Galaxy S9 Dual SIM - 64Go HDD - 4Go RAM - Noir + Pochette Intelligente Antichoc - 24 Mois de Garantie,Samsung,387300.0,101.0,,,,noir,,,2
+Galaxy S9Plus - 64Go HDD - Violet lilas - 6 Mois,Samsung,400000.0,1001.0,,,,noir,,,1
+"Galaxy Note 8 - 64Go HDD - 6Go RAM - 6,3"" - Noir - 24 Mois",Samsung,418900.0,1001.0,,,,twilight,,,1
+"Galaxy Note 8 - 64Go HDD - 6 Go RAM - 6,3'' - Noir - 24 Mois",Samsung,421600.0,1001.0,,,,noir,,,1
+P20 Pro - 128 Go HDD - 6Go Ram - Twilight + Edmark Shake Off Offert (12 Sachets),Huawei,440000.0,1001.0,,,,or,,,1
+"iPhone 8 Plus - 256 Go HDD - 3 Go RAM - 5,5'' - Noir",Apple,470000.0,1001.0,,,,noir,,,1
+Galaxy C9 Pro 64Go HDD - Or - 6 Mois,Samsung,482300.0,1001.0,,,,or,,,1
+iPhone 7 Plus 256Go HDD - Noir,Apple,485000.0,1001.0,,,,gris,,,1
+iPhone 8 Plus 64Go HDD - Or,Apple,485000.0,1001.0,,,,or,,,1
+iPhone X 64Go HDD - 3Go RAM - 12MP - Gris - 12 Mois + Pochette + Protège Ecran Offerts,Apple,494900.0,1001.0,,,,bleu,,,1
+"Mi 5 - Dual SIM - 32Go HDD - 3Go RAM - 5,2"" - Or",Xiaomi,499500.0,1001.0,,,,or,,,2
+"Find X - Dual SIM - 128Go - 8Go RAM - 6,42"" - Bleu",Oppo,505800.0,1001.0,,,,noir,,,2
+iPhone 7 32Go HDD - Or - 12 Mois,Apple,539500.0,1001.0,,,,gris,,,1
+"Mi Mix - Dual SIM - 128Go HDD - 4Go RAM - 6"" - Noir",Xiaomi,559700.0,1001.0,,,,noir,,,2
+iPhone 6S 64Go HDD - Gris - 12 Mois,Apple,563000.0,1001.0,,,,bleu,,,1
+iPhone X 64Go HDD - Noir,Apple,586150.0,1001.0,,,,rouge,,,1
+"Galaxy Note 9 - 128Go HDD - 6Go RAM - 6,4"" - Bleu - 24 Mois",Samsung,599000.0,1001.0,,,,noir de jais,,,1
+iPhone 7 128Go HDD - Rouge - 6 Mois,Apple,600000.0,1001.0,,,,noir,,,1
+iPhone 7 128Go HDD - Noir De Jais - 12 Mois,Apple,621100.0,49.0,,,,gris,,,1
+iPhone X 256Go HDD - Noir,Apple,646200.0,101.0,,,,noir,,,1
+Galaxy S9 SM-G960 Dual Sim - 64Go HDD - Gris - 12 Mois,Samsung,700000.0,101.0,,,,noir et blanc,,,2
+Desire 626  8Go HDD - Noir,HTC,55000.0,1001.0,,,,or,,,1
+Geek V975 Dual SIM 8Go HDD -  Noir Et Blanc - 6 mois,ZTE,65000.0,49.0,,,,gris,,,2
+562 Dual SIM 32Go HDD - Or - 12 Mois,TCL,85000.0,,,,,noir,,,2
+A5 Dual SIM 16Go HDD - Gris - 12 Mois,Alcatel,85000.0,,,,,or,,,2
+Alcatel A5 Dual SIM 16Go HDD - Noir - 12 Mois,Alcatel,85000.0,,,,,bleu,,,2
+One M9 32Go HDD - Or - 3 Mois,HTC,90000.0,,,,,noir,,,1
+"Mix - Dual SIM - 64Go HDD - 4Go RAM - 5,5"" - Bleu + Pochette - 12 Mois",ULEFONE,95000.0,,,,,noir,,,2
+V20 4G LTE - 64Go HDD - 4Go RAM - 16MP - Empreinte digitale - Noir - 12 Mois + Pochette + Protège Ecran Offerts,LG,110900.0,,,,,rose,,,1
+Galaxy J6 Dual SIM 32Go HDD - Noir,Samsung,115000.0,,,,,bleu,,,2
+V20 64Go HDD - 4Go RAM - Empreinte digitale - Rose,LG,120000.0,,,,,noir,,,1
+Camon X Dual SIM - 32Go HDD - 12 Mois - Bleu,Tecno,125000.0,,,,,blanc et or,,,2
+Lumia 930 - 32Go HDD - Noir - 6 Mois,Nokia,128950.0,,,,,bleu,,,1
+"Redmi Note 5 - Dual SIM - 64 Go HDD - RAM 4 Go - 5,99'' - Blanc Et Or",Xiaomi,135000.0,,,,,noir,,,2
+Galaxy S7 Edge 32Go HDD - 4Go RAM - Bleu - 12 Mois + Pochette + Protège Ecran Offerts,Samsung,154900.0,,,,,noir,,,1
+Z30 16 Go HDD - Noir - 12 Mois,Blackberry,160900.0,,,,,noir,,,1
+Galaxy J7 Max Dual SIM 32Go HDD - Noir + Edmark Café Ginseng Offert  - 12 Mois,Samsung,162000.0,,,,,noir,,,2
+Galaxy J7 Max Dual SIM 32Go HDD - Noir - 24 Mois,Samsung,162000.0,,,,,noir,,,2
+"Redmi Note 6 Pro - Dual SIM - 64 Go HDD - 6 Go RAM - 6,26'' - Noir + Pochette + - 12 Mois",Xiaomi,165000.0,,,,,or,,,2
+Galaxy A3 Edition 2017 Dual SIM 16Go HDD - Noir - 6 Mois,Samsung,165500.0,,,,,or,,,2
+Galaxy A3 Edition 2017 Dual SIM 16Go HDD - Or - 6 Mois,Samsung,166700.0,,,,,bleu,,,2
+Galaxy J8 64Go HDD - Or + Edmark Red Bubble Tea Offert (20 Sachets),Samsung,170000.0,,,,,noir,,,1
+Galaxy A5 Edition 2017 32Go HDD - Bleu,Samsung,179800.0,,,,,gris,,,1
+"Galaxy J7 Max - Dual SIM - 32Go HDD - 4Go RAM - 5,7'' - Noir",Samsung,185000.0,,,,,or,,,2
+One M8 32Go HDD - Gris,HTC,188800.0,,,,,noir,,,1
+Nova 2 Plus 64Go HDD - 4Go Ram - Or + Edmark Shake Off Offert (12 sachets),Huawei,190000.0,,,,,noir,,,1
+Mate 10 Lite 64Go HDD - 4Go Ram - Noir - 12 Mois + Edmark Shake Off Offert (12 Sachets),Huawei,195000.0,,,,,or,,,1
+Galaxy J8 (2018) - Dual SIM - 64 Go HDD - 4 Go RAM - 6'' + Pochette - Noir,Samsung,200500.0,,,,,noir,,,2
+Galaxy J8 (2018) - Dual SIM - 64 Go HDD - 4 Go RAM - 6'' - Or + Pochette,Samsung,200500.0,,,,,or,,,2
+"Galaxy J7 Max - Dual SIM - 32Go HDD - 4Go RAM - 5,7"" + Pochette - Noir",Samsung,205000.0,,,,,noir,,,2
+"Galaxy J7 Max - Dual SIM - 32Go HDD - 4Go RAM - 5,7"" + Pochette - Or",Samsung,205000.0,,,,,or,,,2
+Galaxy J8 (2018) - 64Go HDD - Noir + Pochette,Samsung,220500.0,,,,,bleu,,,1
+Galaxy J8 (2018) - Dual SIM - 64 Go HDD - 4 Go RAM - 6'' - Or + Pochette,Samsung,220500.0,,,,,bleu,,,2
+Nokia 8 Dual SIM 64Go HDD - Bleu + Pochette + Ecran de protection,Nokia,225000.0,,,,,bleu,,,2
+Galaxy J8 Dual SIM 32Go HDD - Bleu,Samsung,225000.0,,,,,or,,,2
+Nova 3E - 64Go HDD - 4Go Ram - Bleu + Edmark Shake Off Offert (12 Sachets),Huawei,226000.0,,,,,or,,,1
+Galaxy A6 Edition 2018 32Go HDD - Or,Samsung,230000.0,,,,,bleu,,,1
+"Redmi Note 5 - Dual SIM - 64Go HDD - 4Go RAM - 5,99"" - Or",Xiaomi,230000.0,,,,,noir,,,2
+Nova 3I 128Go HDD - Bleu,Huawei,255000.0,,,,,gris,,,1
+Galaxy A7 Dual SIM 16 Go HDD - Noir - 24 Mois,Samsung,279200.0,,,,,noir,,,2
+Galaxy S8 DUOS 64Go HDD - Gris - 12 Mois,Samsung,319000.0,,,,,rose,,,1
+Galaxy Note 8 Duos 64Go HDD - Noir 24Mois,Samsung,370000.0,,,,,noir,,,1
+Galaxy S9 Plus 64Go HDD - Rose - 24 Mois,Samsung,459000.0,,,,,noir,,,1
+iPhone 8 Plus 256Go HDD - Noir,Apple,510000.0,,,,,or,,,1
+"iPhone XS Max - 64 Go HDD - 4 GB RAM - 6,5"" - Noir",Apple,815000.0,,,,,noir,,,1
+iPhone 6s Plus 64Go - 2Go RAM - 12MP - Or,Apple,410000.0,,,,,bleu,,,1
+iPhone 7 Plus 128Go HDD - Noir,Apple,550000.0,,,,,gris,,,1
+NX Dual SIM 16Go HDD - Bleu - 12 Mois + Forfait Internet Offert,Tecno,59900.0,,,,,,,,2
+V20 4G LTE - 64Go HDD - 4Go RAM - 16MP - Empreinte digitale - Gris - 12 Mois + Pochette + Protège Ecran Offerts,LG,200000.0,,,,,,,,1
